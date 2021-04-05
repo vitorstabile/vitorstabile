@@ -16,7 +16,7 @@
         - [Project Design](#projectdesign)
      - [Personal Projects](#personal)
      - [Work Project](#work)
-5. [Contacts](#contacts)
+4. [Contacts](#contacts)
 
 # About Me <a name="aboutme"></a>
 
@@ -138,7 +138,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 3. [HTML and CSS Blog][simple-html-url] Concluded :heavy_check_mark:
 4. [Spotify Clone][spotify-url] Concluded :heavy_check_mark:
 5. [Balloon Game][game-url] Concluded :heavy_check_mark:
-6. [MATLAB Master Degree Projects][master-url] Concluded :heavy_check_mark
+6. [MATLAB Master Degree Projects][master-url] Concluded :heavy_check_mark:
 
 ## Work Projects <a name="work"></a>
 
