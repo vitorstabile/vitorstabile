@@ -28,28 +28,28 @@ Now, I want to help the community with simple tutorials teaching basic concepts 
 
 1. [Frotelle Alimentos][frotelle-url]
 
-  - Software Developer (March 2017 - January 2021)
-    - ERP implementation and test (TOTVS – Winthor Industry Module).
-    - [Fullstack Project with Java with Spring in backend, ReactJS in frontend web and React Native in frontend Mobile.][full-stack-url]
-    - [Frontend Project with HTML, CSS and Bootstrap.][front-end-url]
-    - [Creation of app in Java with MySQL, JDBC and JavaFX for the development of new recipes.][recipe-url]
-    - [Creation of app in Java with MySQL, JDBC and JavaFX for department/seller registration.][back-end-url]
-    - [Creation of backend e-commerce app in Java with PostgreSQL, Spring Boot, Maven and REST.][e-commerce-url]
-    - [Creation of backend social media app in Java with MongoDB, Spring Boot, Maven and REST.][social-url]
+    - Software Developer (March 2017 - January 2021)
+      - ERP implementation and test (TOTVS – Winthor Industry Module).
+      - [Fullstack Project with Java with Spring in backend, ReactJS in frontend web and React Native in frontend Mobile.][full-stack-url]
+      - [Frontend Project with HTML, CSS and Bootstrap.][front-end-url]
+      - [Creation of app in Java with MySQL, JDBC and JavaFX for the development of new recipes.][recipe-url]
+      - [Creation of app in Java with MySQL, JDBC and JavaFX for department/seller registration.][back-end-url]
+      - [Creation of backend e-commerce app in Java with PostgreSQL, Spring Boot, Maven and REST.][e-commerce-url]
+      - [Creation of backend social media app in Java with MongoDB, Spring Boot, Maven and REST.][social-url]
 
-  - Chemical Engineer (July 2014 - March 2021)
-      - Supply chain manager.
-      - Responsible for calculating all production indicators and product costs.
-      - Responsible for implementation of good manufacturing practices (GMP), standard operation procedure (SOP), PDCA cycle, static process control (SPC).
-      - Creation of new recipes for enriching wheat flour with additives such as enzymes and emulsifiers.
-      - Creation of cardboard packaging with CAD/CAM software.
+    - Chemical Engineer (July 2014 - March 2021)
+        - Supply chain manager.
+        - Responsible for calculating all production indicators and product costs.
+        - Responsible for implementation of good manufacturing practices (GMP), standard operation procedure (SOP), PDCA cycle, static process control (SPC).
+        - Creation of new recipes for enriching wheat flour with additives such as enzymes and emulsifiers.
+        - Creation of cardboard packaging with CAD/CAM software.
 
 2. [Vigor Alimentos][vigor-url]
 
-  - Process Engineering Intern (May 2013 - December 2013)
-    - Elaboration of cost reduction studies.
-    - Improvement of processes in the oil and fat refining sectors.
-    - Elaboration of process flowcharts.
+    - Process Engineering Intern (May 2013 - December 2013)
+      - Elaboration of cost reduction studies.
+      - Improvement of processes in the oil and fat refining sectors.
+      - Elaboration of process flowcharts.
 
 # Projects <a name="workexperience"></a>
 
