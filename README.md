@@ -8,7 +8,7 @@
     - [Logic Programming](#logicprogramming)
     - [Data Structure](#datastructure)
     - [Object Oriented Programming](#oop)
-    - [Relational Data Base][#relational-database]
+    - [Relational Data Base][#relational]
 5. [Contacts](#contacts)
 
 # About Me <a name="aboutme"></a>
@@ -82,7 +82,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
     - [Data Structure with Python][data-structire-python-url] Need to Create :exclamation:
     - [Data Structure with JavaScript][data-structire-javascript-url] Need to Create :exclamation:
 
-#### <a name="oop></a> Object Oriented Programming
+#### <a name="oop"></a> Object Oriented Programming
 
 1. [Object Oriented Programming][oop-url] Need to Create :exclamation:
     - [Object Oriented Programming with C++][oop-cpp-url] Need to Create :exclamation:
@@ -91,7 +91,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
     - [Object Oriented Programming with Python][oop-python-url] Need to Create :exclamation:
     - [Object Oriented Programming with JavaScript][oop-javascript-url] Under Development :warning:
 
-#### <a name="relational-database></a> Relational Database
+#### <a name="relational"></a> Relational Database
 
 1. [Relational Database][relational-database-url] Need to Create :exclamation:
     - [Relational Database with MySQL][mysql-url] Need to Create :exclamation:
