@@ -86,6 +86,8 @@ Here are some ideas to get you started:
 [linkedin-url]: https://www.linkedin.com/in/vitor-stabile-garcia-5b151b67
 [portfolio-shield]: https://img.shields.io/badge/my-portfolio-red.svg
 [portfolio-url]: https://vitorstabile.github.io
+[github-shield]: https://img.shields.io/badge/my-github-green.svg
+[github-url]: https://github.com/vitorstabile
 [frotelle-url]:http://frotelle.com.br/
 [fei-url]: https://portal.fei.edu.br/
 [full-stack-url]: https://github.com/vitorstabile/project-spotify-clone
