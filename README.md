@@ -214,7 +214,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [game-url]: https://github.com/vitorstabile/javascript-project-game
 [master-url]:https://github.com/vitorstabile/matlab-master-degree-projects
 [simple-html-url]: https://github.com/vitorstabile/html-css-project
-[recipe1-url]: https://github.com/vitorstabile/projeto_calculo_receitas_vep:
+[recipe1-url]: https://github.com/vitorstabile/projeto_calculo_receitas_vep
 [recipe2-url]: https://github.com/vitorstabile/projeto_custo_produtos_VEP
 [department-url]: https://github.com/vitorstabile/workshop-javafx-jdbc
 [back-url]: https://github.com/vitorstabile/course-springboot-2-java-11
