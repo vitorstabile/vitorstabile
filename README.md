@@ -11,6 +11,8 @@
     - [Relational Data Base](#relational)
     - [Web Development](#web)
     - [Backend Frameworks](#backframe)
+    - [Frontend Frameworks](#frontframe)
+    - [Project Design](#projectdesign)
 5. [Contacts](#contacts)
 
 # About Me <a name="aboutme"></a>
@@ -111,6 +113,15 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 1. [Spring Boot Framework][sts-url] Under Development :warning:
 2. [Quarkus Framework][quarkus-url] Under Development :warning:
 
+#### <a name="frontframe"></a> Frontend Frameworks
+
+1. [React JS Framework][reactjs-url] Need to Create :exclamation:
+2. [React Native Framework][reactnative-url] Need to Create :exclamation:
+
+#### <a name="projectdesign"></a> Project Design
+
+1. [Project Design][project-design-url] Concluded :heavy_check_mark:
+
 # Contacts <a name="contacts"></a>
 
 | Vitor Garcia                                     |
@@ -162,3 +173,6 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 [javascript-client-url]: https://github.com/vitorstabile/javascript-client-side-basics
 [sts-url]: https://github.com/vitorstabile/spring-boot-rest-crud-basics
 [quarkus-url]: https://github.com/vitorstabile/quarkus-rest-crud-basics
+[reactjs-url]: --
+[reactnative-url]: --
+[project-design-url]: https://github.com/vitorstabile/projects-design-basics
