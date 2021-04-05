@@ -5,7 +5,8 @@
 1. [About Me](#aboutme)
 2. [Work Experience](#workexperience)
 3. [Projects](#projects)
-    - [Computer Science World](#computerscienceworld)
+    - [Logic Programming](#logicprogramming)
+    - [Data Structure](#logicprogramming)
 5. [Contacts](#contacts)
 
 # About Me <a name="aboutme"></a>
@@ -54,17 +55,32 @@ I want to help the community with simple tutorials teaching basic concepts in co
 
 # Projects <a name="projects"></a>
 
-#### <a name="computerscienceworld"></a> Computer Science World
-
-Project Status: Under Development :warning:
-
 Despite being a chemical engineer and having studied some subjects related to computer science (Algorithms, Calculus, Physics, Linear Algebra, Analytical Geometry, Electrical, Probability and Statistics), I had no contact with other important subjects such as Digital Systems, Structure Data, Computer Architecture, Computer Network, Database, Operating Systems and Software Engineering in my chemical engineer degree.
 
 I believe in an open-source world that we can study, learning and teach with the internet power and help from the developers community and we just need the desire to learn and be curiosity.
 
 This Projects have the aim to create simple tutorials and basics about logic programming, data structure, oriented object, hardware, software, computer network, project design, basic of some programming languages and much more!
 
+#### <a name="logicprogramming"></a> Logic and Algorithms
+
+Concluded :heavy_check_mark:
+
 1. [Logic Programming][logic-project-url] Under Development :warning:
+    - [Logic Programming with C][c-logic-url] Under Development :warning:
+    - [Logic Programming with C++][cpp-logic-url] Under Development :warning:
+    - [Logic Programming with C#][csharp-logic-url] Under Development :warning:
+    - [Logic Programming with Java][java-logic-url] Under Development :warning:
+    - [Logic Programming with Python][python-logic-url] Under Development :warning:
+    - [Logic Programming with JavaScript][javascript-logic-url] Under Development :warning:
+    - [Logic Programming with MATLAB][matlab-logic-url] Under Development :warning:
+
+#### <a name="datastructure"></a> Data Structure
+
+1. [Data Structure][data-structure-url] Need to Create :exclamation:
+    - [Data Structure with C][data-structire-c-url] Need to Create :exclamation:
+    - [Data Structure with Java][data-structire-java-url] Need to Create :exclamation:
+    - [Data Structure with Python][data-structire-python-url] Need to Create :exclamation:
+    - [Data Structure with JavaScript][data-structire-javascript-url] Need to Create :exclamation:
 
 
 # Contacts <a name="contacts"></a>
@@ -91,3 +107,15 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 [social-url]: https://github.com/vitorstabile/workshop-spring-boot-mongodb.git
 [vigor-url]: http://www.vigoralimentos.com.br/
 [logic-project-url]: https://github.com/vitorstabile/logic-programming-basics
+[c-logic-url]: https://github.com/vitorstabile/logic-programming-in-c-basics
+[cpp-logic-url]: https://github.com/vitorstabile/logic-programming-in-cpp-basics
+[csharp-logic-url]: https://github.com/vitorstabile/logic-programming-in-csharp-basics
+[java-logic-url]: https://github.com/vitorstabile/logic-programming-in-java-basics
+[python-logic-url]: https://github.com/vitorstabile/logic-programming-in-python-basics
+[javascript-logic-url]: https://github.com/vitorstabile/logic-programming-in-javascript-basics
+[matlab-logic-url]: https://github.com/vitorstabile/logic-programming-in-matlab-basics
+[data-structure-url]:
+[data-structire-c-url]:
+[data-structire-java-url]:
+[data-structire-python-url]:
+[data-structire-javascript-url]:
