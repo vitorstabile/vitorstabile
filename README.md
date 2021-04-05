@@ -8,7 +8,7 @@
     - [Logic Programming](#logicprogramming)
     - [Data Structure](#datastructure)
     - [Object Oriented Programming](#oop)
-    - [Relational Data Base][#relational]
+    - [Relational Data Base](#relational)
 5. [Contacts](#contacts)
 
 # About Me <a name="aboutme"></a>
