@@ -6,7 +6,6 @@
 2. [Work Experience](#workexperience)
 3. [Projects](#projects)
 4. [Contacts](#contacts)
-5. 
 
 # About Me <a name="aboutme"></a>
 
@@ -60,7 +59,13 @@ Despite being a chemical engineer and having studied some subjects related to co
 
 I believe in an open-source world that we can study, learning and teach with the internet power and help from the developers community and we just need the desire to learn and be curiosity.
 
+# Contacts <a name="contacts"></a>
 
+| Vitor Garcia                                     |
+| :----------------------------------------------- |
+| [![LinkedIn][linkedin-shield]][linkedin-url]     |
+| [![Portfolio][portfolio-shield]][portfolio-url]  |
+| [![GitHub][github-shield]][github-url]           |
 
 <!--
 **vitorstabile/vitorstabile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
