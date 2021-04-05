@@ -96,7 +96,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="relational"></a> Relational Database
 
 1. [Relational Database][relational-database-url] Need to Create :exclamation:
-    - [Relational Database with MySQL][mysql-url] Need to Create :exclamation:
+    - [Relational Database with MySQL][mysql-url] Under Development :warning:
     - [Relational Database with PostgreSQL][postgressql-url] Need to Create :exclamation:
 
 #### <a name="web"></a> Web Development
