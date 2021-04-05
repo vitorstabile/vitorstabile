@@ -5,14 +5,17 @@
 1. [About Me](#aboutme)
 2. [Work Experience](#workexperience)
 3. [Projects](#projects)
-    - [Logic Programming](#logicprogramming)
-    - [Data Structure](#datastructure)
-    - [Object Oriented Programming](#oop)
-    - [Relational Data Base](#relational)
-    - [Web Development](#web)
-    - [Backend Frameworks](#backframe)
-    - [Frontend Frameworks](#frontframe)
-    - [Project Design](#projectdesign)
+    - [Tutorial Projects](#tutorials)
+        - [Logic Programming](#logicprogramming)
+        - [Data Structure](#datastructure)
+        - [Object Oriented Programming](#oop)
+        - [Relational Data Base](#relational)
+        - [Web Development](#web)
+        - [Backend Frameworks](#backframe)
+        - [Frontend Frameworks](#frontframe)
+        - [Project Design](#projectdesign)
+     - [Personal Projects](#personal)
+     - [Work Project](#work)
 5. [Contacts](#contacts)
 
 # About Me <a name="aboutme"></a>
@@ -60,6 +63,8 @@ I want to help the community with simple tutorials teaching basic concepts in co
       - Elaboration of process flowcharts.
 
 # Projects <a name="projects"></a>
+
+## Tutorial Projects <a name="tutorials"></a>
 
 Despite being a chemical engineer and having studied some subjects related to computer science (Algorithms, Calculus, Physics, Linear Algebra, Analytical Geometry, Electrical, Probability and Statistics), I had no contact with other important subjects such as Digital Systems, Structure Data, Computer Architecture, Computer Network, Database, Operating Systems and Software Engineering in my chemical engineer degree.
 
@@ -122,6 +127,33 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 1. [Project Design][project-design-url] Concluded :heavy_check_mark:
 
+## Personal Projects <a name="personal"></a>
+
+Some of the projects made by myself from courses and self-learning.
+
+First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of then.
+
+1. [Chess System][chess-url] Concluded :heavy_check_mark:
+2. [Social Post][post-url] Concluded :heavy_check_mark:
+3. [HTML and CSS Blog][simple-html-url] Concluded :heavy_check_mark:
+4. [Spotify Clone][spotify-url] Concluded :heavy_check_mark:
+5. [Balloon Game][game-url] Concluded :heavy_check_mark:
+6. [MATLAB Master Degree Projects][master-url] Concluded :heavy_check_mark
+
+## Work Projects <a name="work"></a>
+
+Some of the projects made as software developer in Frotelle Alimentos.
+
+This is just Mockup of the projects, because all them have copyright.
+
+First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of then.
+
+1. [Recipe Calculos - Part I][recipe1-url] Concluded :heavy_check_mark:
+2. [Recipe Calculos - Part II][recipe2-url] Concluded :heavy_check_mark:
+3. [Department/Seller][department-url] Concluded :heavy_check_mark:
+4. [Backend Order][back-url] Concluded :heavy_check_mark:
+5. [Order/Delivery App][order-url] Concluded :heavy_check_mark:
+
 # Contacts <a name="contacts"></a>
 
 | Vitor Garcia                                     |
@@ -176,3 +208,14 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 [reactjs-url]: --
 [reactnative-url]: --
 [project-design-url]: https://github.com/vitorstabile/projects-design-basics
+[chess-url]: https://github.com/vitorstabile/chess-system-java
+[post-url]: https://github.com/vitorstabile/workshop-spring-boot-mongodb
+[spotify-url]: https://github.com/vitorstabile/project-spotify-clone
+[game-url]: https://github.com/vitorstabile/javascript-project-game
+[master-url]:https://github.com/vitorstabile/matlab-master-degree-projects
+[simple-html-url]: https://github.com/vitorstabile/html-css-project
+[recipe1-url]: https://github.com/vitorstabile/projeto_calculo_receitas_vep:
+[recipe2-url]: https://github.com/vitorstabile/projeto_custo_produtos_VEP
+[department-url]: https://github.com/vitorstabile/workshop-javafx-jdbc
+[back-url]: https://github.com/vitorstabile/course-springboot-2-java-11
+[order-url]: https://github.com/vitorstabile/dsdeliver-sds2
