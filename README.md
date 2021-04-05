@@ -29,6 +29,7 @@ Now, I want to help the community with simple tutorials teaching basic concepts 
 1. [Frotelle Alimentos][frotelle-url]
 
     - Software Developer (March 2017 - January 2021)
+    
       - ERP implementation and test (TOTVS – Winthor Industry Module).
       - [Fullstack Project with Java with Spring in backend, ReactJS in frontend web and React Native in frontend Mobile.][full-stack-url]
       - [Frontend Project with HTML, CSS and Bootstrap.][front-end-url]
@@ -38,6 +39,7 @@ Now, I want to help the community with simple tutorials teaching basic concepts 
       - [Creation of backend social media app in Java with MongoDB, Spring Boot, Maven and REST.][social-url]
 
     - Chemical Engineer (July 2014 - March 2021)
+    
         - Supply chain manager.
         - Responsible for calculating all production indicators and product costs.
         - Responsible for implementation of good manufacturing practices (GMP), standard operation procedure (SOP), PDCA cycle, static process control (SPC).
@@ -47,6 +49,7 @@ Now, I want to help the community with simple tutorials teaching basic concepts 
 2. [Vigor Alimentos][vigor-url]
 
     - Process Engineering Intern (May 2013 - December 2013)
+    
       - Elaboration of cost reduction studies.
       - Improvement of processes in the oil and fat refining sectors.
       - Elaboration of process flowcharts.
