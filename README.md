@@ -44,7 +44,7 @@ Now, I want to help the community with simple tutorials teaching basic concepts 
       - Creation of new recipes for enriching wheat flour with additives such as enzymes and emulsifiers.
       - Creation of cardboard packaging with CAD/CAM software.
 
-2. [Frotelle Alimentos][frotelle-url]
+2. [Vigor Alimentos][vigor-url]
 
   - Process Engineering Intern (May 2013 - December 2013)
     - Elaboration of cost reduction studies.
@@ -52,7 +52,6 @@ Now, I want to help the community with simple tutorials teaching basic concepts 
     - Elaboration of process flowcharts.
 
 # Projects <a name="workexperience"></a>
-
 
 Despite being a chemical engineer and having studied some subjects related to computer science (Algorithms, Calculus, Physics, Linear Algebra, Analytical Geometry, Electrical, Probability and Statistics), I had no contact with other important subjects such as Digital Systems, Structure Data, Computer Architecture, Computer Network, Database, Operating Systems and Software Engineering in my chemical engineer degree.
 
@@ -87,3 +86,4 @@ Here are some ideas to get you started:
 [back-end-url]: https://github.com/vitorstabile/workshop-javafx-jdbc.git
 [e-commerce-url]: https://github.com/vitorstabile/course-springboot-2-java-11.git
 [social-url]: https://github.com/vitorstabile/workshop-spring-boot-mongodb.git
+[vigor-url]: http://www.vigoralimentos.com.br/
