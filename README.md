@@ -142,21 +142,21 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-in-python-basics
 [javascript-logic-url]: https://github.com/vitorstabile/logic-programming-in-javascript-basics
 [matlab-logic-url]: https://github.com/vitorstabile/logic-programming-in-matlab-basics
-[data-structure-url]:
-[data-structire-c-url]:
-[data-structire-java-url]:
-[data-structire-python-url]:
-[data-structire-javascript-url]:
-[oop-url]:
-[oop-cpp-url]:
-[oop-csharp-url]:
+[data-structure-url]: --
+[data-structire-c-url]: --
+[data-structire-java-url]: --
+[data-structire-python-url]: --
+[data-structire-javascript-url]: --
+[oop-url]: --
+[oop-cpp-url]: --
+[oop-csharp-url]: --
 [oop-java-url]: https://github.com/vitorstabile/java-language-oop-basics
-[oop-python-url]:
+[oop-python-url]: --
 [oop-javascript-url]: https://github.com/vitorstabile/javascript-language-programming-basics
-[relational-database-url]:
+[relational-database-url]: --
 [mysql-url]: https://github.com/vitorstabile/relational-database-basics/tree/master/mysql-basics
-[postgressql-url]:
-[web-url]:
+[postgressql-url]: --
+[web-url]: --
 [html-css-url]: https://github.com/vitorstabile/html-css-basics
 [bootstrap-url]: https://github.com/vitorstabile/bootstrap-basics
 [javascript-client-url]: https://github.com/vitorstabile/javascript-client-side-basics
