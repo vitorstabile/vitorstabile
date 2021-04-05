@@ -9,6 +9,8 @@
     - [Data Structure](#datastructure)
     - [Object Oriented Programming](#oop)
     - [Relational Data Base](#relational)
+    - [Web Development](#web)
+    - [Backend Frameworks](#backframe)
 5. [Contacts](#contacts)
 
 # About Me <a name="aboutme"></a>
@@ -97,6 +99,18 @@ This Projects have the aim to create simple tutorials and basics about logic pro
     - [Relational Database with MySQL][mysql-url] Need to Create :exclamation:
     - [Relational Database with PostgreSQL][postgressql-url] Need to Create :exclamation:
 
+#### <a name="web"></a> Web Development
+
+1. [Web Development][web-url] Need to Create :exclamation:
+    - [HTML and CSS][html-css-url] Under Development :warning:
+    - [Bootstrap][bootstrap-url] Under Development :warning:
+    - [JavaScript Client Side][javascript-client-url] Under Development :warning:
+
+#### <a name="backframe"></a> Backend Frameworks
+
+1. [Spring Boot Framework][sts-url] Under Development :warning:
+2. [Quarkus Framework][quarkus-url] Under Development :warning:
+
 # Contacts <a name="contacts"></a>
 
 | Vitor Garcia                                     |
@@ -136,10 +150,16 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 [oop-url]:
 [oop-cpp-url]:
 [oop-csharp-url]:
-[oop-java-url]:
+[oop-java-url]: https://github.com/vitorstabile/java-language-oop-basics
 [oop-python-url]:
-[oop-javascript-url]:
+[oop-javascript-url]: https://github.com/vitorstabile/javascript-language-programming-basics
 [relational-database-url]:
 [mysql-url]: https://github.com/vitorstabile/relational-database-basics/tree/master/mysql-basics
 [postgressql-url]:
+[web-url]:
+[html-css-url]: https://github.com/vitorstabile/html-css-basics
+[bootstrap-url]: https://github.com/vitorstabile/bootstrap-basics
+[javascript-client-url]: https://github.com/vitorstabile/javascript-client-side-basics
+[sts-url]: https://github.com/vitorstabile/spring-boot-rest-crud-basics
+[quarkus-url]: https://github.com/vitorstabile/quarkus-rest-crud-basics
 Concluded :heavy_check_mark:
