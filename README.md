@@ -6,7 +6,9 @@
 2. [Work Experience](#workexperience)
 3. [Projects](#projects)
     - [Logic Programming](#logicprogramming)
-    - [Data Structure](#logicprogramming)
+    - [Data Structure](#datastructure)
+    - [Object Oriented Programming](#oop)
+    - [Relational Data Base][#relational-database]
 5. [Contacts](#contacts)
 
 # About Me <a name="aboutme"></a>
@@ -63,8 +65,6 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="logicprogramming"></a> Logic and Algorithms
 
-Concluded :heavy_check_mark:
-
 1. [Logic Programming][logic-project-url] Under Development :warning:
     - [Logic Programming with C][c-logic-url] Under Development :warning:
     - [Logic Programming with C++][cpp-logic-url] Under Development :warning:
@@ -82,6 +82,20 @@ Concluded :heavy_check_mark:
     - [Data Structure with Python][data-structire-python-url] Need to Create :exclamation:
     - [Data Structure with JavaScript][data-structire-javascript-url] Need to Create :exclamation:
 
+#### <a name="oop></a> Object Oriented Programming
+
+1. [Object Oriented Programming][oop-url] Need to Create :exclamation:
+    - [Object Oriented Programming with C++][oop-cpp-url] Need to Create :exclamation:
+    - [Object Oriented Programming with C#][oop-csharp-url] Need to Create :exclamation:
+    - [Object Oriented Programming with Java][oop-java-url] Under Development :warning:
+    - [Object Oriented Programming with Python][oop-python-url] Need to Create :exclamation:
+    - [Object Oriented Programming with JavaScript][oop-javascript-url] Under Development :warning:
+
+#### <a name="relational-database></a> Relational Database
+
+1. [Relational Database][relational-database-url] Need to Create :exclamation:
+    - [Relational Database with MySQL][mysql-url] Need to Create :exclamation:
+    - [Relational Database with PostgreSQL][postgressql-url] Need to Create :exclamation:
 
 # Contacts <a name="contacts"></a>
 
@@ -119,3 +133,13 @@ Concluded :heavy_check_mark:
 [data-structire-java-url]:
 [data-structire-python-url]:
 [data-structire-javascript-url]:
+[oop-url]:
+[oop-cpp-url]:
+[oop-csharp-url]:
+[oop-java-url]:
+[oop-python-url]:
+[oop-javascript-url]:
+[relational-database-url]:
+[mysql-url]: https://github.com/vitorstabile/relational-database-basics/tree/master/mysql-basics
+[postgressql-url]:
+Concluded :heavy_check_mark:
