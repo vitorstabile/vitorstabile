@@ -4,8 +4,9 @@
 
 1. [About Me](#aboutme)
 2. [Work Experience](#workexperience)
-2. [Contacts](#contacts)
-3. 
+3. [Projects](#projects)
+4. [Contacts](#contacts)
+5. 
 
 # About Me <a name="aboutme"></a>
 
@@ -26,6 +27,7 @@ Now, I want to help the community with simple tutorials teaching basic concepts 
 # Work Experience <a name="workexperience"></a>
 
 1. [Frotelle Alimentos][frotelle-url]
+
   - Software Developer (March 2017 - January 2021)
     - ERP implementation and test (TOTVS – Winthor Industry Module).
     - [Fullstack Project with Java with Spring in backend, ReactJS in frontend web and React Native in frontend Mobile.][full-stack-url]
@@ -34,6 +36,22 @@ Now, I want to help the community with simple tutorials teaching basic concepts 
     - [Creation of app in Java with MySQL, JDBC and JavaFX for department/seller registration.][back-end-url]
     - [Creation of backend e-commerce app in Java with PostgreSQL, Spring Boot, Maven and REST.][e-commerce-url]
     - [Creation of backend social media app in Java with MongoDB, Spring Boot, Maven and REST.][social-url]
+
+  - Chemical Engineer (July 2014 - March 2021)
+      - Supply chain manager.
+      - Responsible for calculating all production indicators and product costs.
+      - Responsible for implementation of good manufacturing practices (GMP), standard operation procedure (SOP), PDCA cycle, static process control (SPC).
+      - Creation of new recipes for enriching wheat flour with additives such as enzymes and emulsifiers.
+      - Creation of cardboard packaging with CAD/CAM software.
+
+2. [Frotelle Alimentos][frotelle-url]
+
+  - Process Engineering Intern (May 2013 - December 2013)
+    - Elaboration of cost reduction studies.
+    - Improvement of processes in the oil and fat refining sectors.
+    - Elaboration of process flowcharts.
+
+# Projects <a name="workexperience"></a>
 
 
 Despite being a chemical engineer and having studied some subjects related to computer science (Algorithms, Calculus, Physics, Linear Algebra, Analytical Geometry, Electrical, Probability and Statistics), I had no contact with other important subjects such as Digital Systems, Structure Data, Computer Architecture, Computer Network, Database, Operating Systems and Software Engineering in my chemical engineer degree.
