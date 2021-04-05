@@ -162,4 +162,3 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 [javascript-client-url]: https://github.com/vitorstabile/javascript-client-side-basics
 [sts-url]: https://github.com/vitorstabile/spring-boot-rest-crud-basics
 [quarkus-url]: https://github.com/vitorstabile/quarkus-rest-crud-basics
-Concluded :heavy_check_mark:
