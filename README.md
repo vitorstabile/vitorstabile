@@ -54,13 +54,18 @@ I want to help the community with simple tutorials teaching basic concepts in co
 
 # Projects <a name="projects"></a>
 
-#### <a name="computerscienceworld"></a>Chapter 2 - Part 1: Project Scope
+#### <a name="computerscienceworld"></a> Computer Science World
+
+Project Status: Under Development :warning:
 
 Despite being a chemical engineer and having studied some subjects related to computer science (Algorithms, Calculus, Physics, Linear Algebra, Analytical Geometry, Electrical, Probability and Statistics), I had no contact with other important subjects such as Digital Systems, Structure Data, Computer Architecture, Computer Network, Database, Operating Systems and Software Engineering in my chemical engineer degree.
 
 I believe in an open-source world that we can study, learning and teach with the internet power and help from the developers community and we just need the desire to learn and be curiosity.
 
-This Projects is to 
+This Projects have the aim to create simple tutorials and basics about logic programming, data structure, oriented object, hardware, software, computer network, project design, basic of some programming languages and much more!
+
+1. [Logic Programming][logic-project-url] Under Development :warning:
+
 
 # Contacts <a name="contacts"></a>
 
@@ -85,3 +90,4 @@ This Projects is to
 [e-commerce-url]: https://github.com/vitorstabile/course-springboot-2-java-11.git
 [social-url]: https://github.com/vitorstabile/workshop-spring-boot-mongodb.git
 [vigor-url]: http://www.vigoralimentos.com.br/
+[logic-project-url]: https://github.com/vitorstabile/logic-programming-basics
