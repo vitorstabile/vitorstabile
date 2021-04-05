@@ -5,7 +5,8 @@
 1. [About Me](#aboutme)
 2. [Work Experience](#workexperience)
 3. [Projects](#projects)
-4. [Contacts](#contacts)
+    - [Computer Science World](#computerscienceworld)
+5. [Contacts](#contacts)
 
 # About Me <a name="aboutme"></a>
 
@@ -19,9 +20,7 @@ In 2017, after having my first contact with MATLAB programming through my chemic
 
 In march of 2017, I become a Java software developer in a small company named [Frotelle Alimentos][frotelle-url] and worked until January 2021, after I decided to move from Brazil to my mother origin continent...Europe.
 
-I believe in an open-source world that we can study, learning and teach with the internet power and help from the developers community and we just need the desire to learn and be curiosity.
-
-Now, I want to help the community with simple tutorials teaching basic concepts in computer science that I learned by myself through books, courses and documentation.
+I want to help the community with simple tutorials teaching basic concepts in computer science that I learned by myself through books, courses and documentation.
 
 # Work Experience <a name="workexperience"></a>
 
@@ -53,11 +52,15 @@ Now, I want to help the community with simple tutorials teaching basic concepts 
       - Improvement of processes in the oil and fat refining sectors.
       - Elaboration of process flowcharts.
 
-# Projects <a name="workexperience"></a>
+# Projects <a name="projects"></a>
+
+#### <a name="computerscienceworld"></a>Chapter 2 - Part 1: Project Scope
 
 Despite being a chemical engineer and having studied some subjects related to computer science (Algorithms, Calculus, Physics, Linear Algebra, Analytical Geometry, Electrical, Probability and Statistics), I had no contact with other important subjects such as Digital Systems, Structure Data, Computer Architecture, Computer Network, Database, Operating Systems and Software Engineering in my chemical engineer degree.
 
 I believe in an open-source world that we can study, learning and teach with the internet power and help from the developers community and we just need the desire to learn and be curiosity.
+
+This Projects is to 
 
 # Contacts <a name="contacts"></a>
 
@@ -66,21 +69,6 @@ I believe in an open-source world that we can study, learning and teach with the
 | [![LinkedIn][linkedin-shield]][linkedin-url]     |
 | [![Portfolio][portfolio-shield]][portfolio-url]  |
 | [![GitHub][github-shield]][github-url]           |
-
-<!--
-**vitorstabile/vitorstabile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [linkedin-shield]: https://img.shields.io/badge/my-linkedin-blue.svg 
 [linkedin-url]: https://www.linkedin.com/in/vitor-stabile-garcia-5b151b67
