@@ -39,12 +39,10 @@ I want to help the community with simple tutorials teaching basic concepts in co
     - Software Developer (March 2017 - January 2021)
     
       - ERP implementation and test (TOTVS – Winthor Industry Module).
-      - [Fullstack Project with Java with Spring in backend, ReactJS in frontend web and React Native in frontend Mobile.][full-stack-url]
-      - [Frontend Project with HTML, CSS and Bootstrap.][front-end-url]
-      - [Creation of app in Java with MySQL, JDBC and JavaFX for the development of new recipes.][recipe-url]
-      - [Creation of app in Java with MySQL, JDBC and JavaFX for department/seller registration.][back-end-url]
-      - [Creation of backend e-commerce app in Java with PostgreSQL, Spring Boot, Maven and REST.][e-commerce-url]
-      - [Creation of backend social media app in Java with MongoDB, Spring Boot, Maven and REST.][social-url]
+      - [Fullstack Project with Java with Spring in backend, ReactJS in frontend web and React Native in frontend Mobile.][order-url]
+      - [Creation of app in Java with MySQL, JDBC and JavaFX for the development of new recipes.][recipe2-url]
+      - [Creation of app in Java with MySQL, JDBC and JavaFX for department/seller registration.][department-url]
+      - [Creation of backend e-commerce app in Java with PostgreSQL, Spring Boot, Maven and REST.][back-url]
 
     - Chemical Engineer (July 2014 - March 2021)
     
@@ -170,12 +168,6 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [github-url]: https://github.com/vitorstabile
 [frotelle-url]:http://frotelle.com.br/
 [fei-url]: https://portal.fei.edu.br/
-[full-stack-url]: https://github.com/vitorstabile/project-spotify-clone
-[front-end-url]: https://github.com/vitorstabile/project-spotify-clone
-[recipe-url]: https://github.com/vitorstabile/workshop-javafx-jdbc.git
-[back-end-url]: https://github.com/vitorstabile/workshop-javafx-jdbc.git
-[e-commerce-url]: https://github.com/vitorstabile/course-springboot-2-java-11.git
-[social-url]: https://github.com/vitorstabile/workshop-spring-boot-mongodb.git
 [vigor-url]: http://www.vigoralimentos.com.br/
 [logic-project-url]: https://github.com/vitorstabile/logic-programming-basics
 [c-logic-url]: https://github.com/vitorstabile/logic-programming-in-c-basics
