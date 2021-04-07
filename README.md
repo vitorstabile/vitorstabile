@@ -26,9 +26,9 @@ I have bachelor's and master's degrees in chemical engineering both concluded in
 
 Despite worked as chemical engineer for eight years, I love everything that involves computing, technology and programming. 
 
-In 2017, after having my first contact with MATLAB programming through my chemical engineer master's degree, I started to learning commercial and object oriented language like Java, C# and Python.
+In 2017, after having my first contact with MATLAB programming through my chemical engineer master's degree, I started to learn commercial and object-oriented language like Java, C# and Python.
 
-In march of 2017, I become a Java software developer in a small company named [Frotelle Alimentos][frotelle-url] and worked until January 2021, after I decided to move from Brazil to my mother origin continent...Europe.
+In March of 2017, I become a Java software developer in a small company named [Frotelle Alimentos][frotelle-url] and worked until January 2021, after I decided to move from Brazil to my mother origin continent...Europe.
 
 I want to help the community with simple tutorials teaching basic concepts in computer science that I learned by myself through books, courses and documentation.
 
@@ -66,7 +66,7 @@ I want to help the community with simple tutorials teaching basic concepts in co
 
 Despite being a chemical engineer and having studied some subjects related to computer science (Algorithms, Calculus, Physics, Linear Algebra, Analytical Geometry, Electrical, Probability and Statistics), I had no contact with other important subjects such as Digital Systems, Structure Data, Computer Architecture, Computer Network, Database, Operating Systems and Software Engineering in my chemical engineer degree.
 
-I believe in an open-source world that we can study, learning and teach with the internet power and help from the developers community and we just need the desire to learn and be curiosity.
+I believe in an open-source world that we can study, learning and teach with the internet power and help from the developer’s community and we just need the desire to learn and be curiosity.
 
 This Projects have the aim to create simple tutorials and basics about logic programming, data structure, oriented object, hardware, software, computer network, project design, basic of some programming languages and much more!
 
@@ -127,27 +127,27 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 ## Personal Projects <a name="personal"></a>
 
-Some of the projects made by myself from courses and self-learning.
+Some of the projects made by me from courses and self-learning.
 
-First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of then.
+First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of them.
 
 1. [Chess System][chess-url] Concluded :heavy_check_mark:
 2. [Social Post][post-url] Concluded :heavy_check_mark:
 3. [HTML and CSS Blog][simple-html-url] Concluded :heavy_check_mark:
 4. [Spotify Clone][spotify-url] Concluded :heavy_check_mark:
 5. [Balloon Game][game-url] Concluded :heavy_check_mark:
-6. [MATLAB Master Degree Projects][master-url] Concluded :heavy_check_mark:
+6. [MATLAB Master’s Degree Projects][master-url] Concluded :heavy_check_mark:
 
 ## Work Projects <a name="work"></a>
 
 Some of the projects made as software developer in Frotelle Alimentos.
 
-This is just Mockup of the projects, because all them have copyright.
+This is just Mockup of the projects because all of them have copyright.
 
-First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of then.
+First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of them.
 
-1. [Recipe Calculos - Part I][recipe1-url] Concluded :heavy_check_mark:
-2. [Recipe Calculos - Part II][recipe2-url] Concluded :heavy_check_mark:
+1. [Recipe Calculus - Part I][recipe1-url] Concluded :heavy_check_mark:
+2. [Recipe Calculus - Part II][recipe2-url] Concluded :heavy_check_mark:
 3. [Department/Seller][department-url] Concluded :heavy_check_mark:
 4. [Backend Order][back-url] Concluded :heavy_check_mark:
 5. [Order/Delivery App][order-url] Concluded :heavy_check_mark:
