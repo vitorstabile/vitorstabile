@@ -218,7 +218,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [bash-url]: --
 [powershell-url]: https://github.com/vitorstabile/powershell-basics
 [git-url]: https://github.com/vitorstabile/git-basics
-[readme-project-url]: https://github.com/vitorstabile/projects-design-basics
+[readme-project-url]: https://github.com/vitorstabile/project-template-readme
 [readme-tutorial-url]: https://github.com/vitorstabile/tutorial-template-readme
 [chess-url]: https://github.com/vitorstabile/chess-system-java
 [post-url]: https://github.com/vitorstabile/workshop-spring-boot-mongodb
