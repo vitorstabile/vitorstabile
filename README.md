@@ -147,10 +147,13 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 
 1. [Chess System][chess-url] Concluded :heavy_check_mark:
 2. [Social Post][post-url] Concluded :heavy_check_mark:
-3. [HTML and CSS Blog][simple-html-url] Concluded :heavy_check_mark:
-4. [Spotify Clone][spotify-url] Concluded :heavy_check_mark:
-5. [Balloon Game][game-url] Concluded :heavy_check_mark:
-6. [MATLAB Master’s Degree Projects][master-url] Concluded :heavy_check_mark:
+3. [Website with just HTML][just-html-url] Concluded :heavy_check_mark:
+4. [HTML and CSS Blog][simple-html-url] Concluded :heavy_check_mark:
+5. [Spotify Clone][spotify-url] Concluded :heavy_check_mark:
+6. [Balloon Game][game-url] Concluded :heavy_check_mark:
+7. [BMI Calculator][bmi-url] Concluded :heavy_check_mark:
+8. [MATLAB Master’s Degree Projects][master-url] Concluded :heavy_check_mark:
+9. [Product Catalog][dscatalog-url] Under Development :warning:
 
 ## Work Projects <a name="work"></a>
 
@@ -222,10 +225,13 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [readme-tutorial-url]: https://github.com/vitorstabile/tutorial-template-readme
 [chess-url]: https://github.com/vitorstabile/chess-system-java
 [post-url]: https://github.com/vitorstabile/workshop-spring-boot-mongodb
+[just-html-url]: https://github.com/vitorstabile/html-project-without-css
 [spotify-url]: https://github.com/vitorstabile/project-spotify-clone
 [game-url]: https://github.com/vitorstabile/javascript-project-game
+[bmi-url]: https://github.com/vitorstabile/bmi-calculator-javascript-project
 [master-url]:https://github.com/vitorstabile/matlab-master-degree-projects
 [simple-html-url]: https://github.com/vitorstabile/html-css-project
+[dscatalog-url]: https://github.com/vitorstabile/dscatalog-bootcamp-devsuperior
 [recipe1-url]: https://github.com/vitorstabile/projeto_calculo_receitas_vep
 [recipe2-url]: https://github.com/vitorstabile/projeto_custo_produtos_VEP
 [department-url]: https://github.com/vitorstabile/workshop-javafx-jdbc
