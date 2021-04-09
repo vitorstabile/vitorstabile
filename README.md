@@ -115,8 +115,9 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="backframe"></a> Backend Frameworks
 
-1. [Spring Boot Framework][sts-url] Under Development :warning:
-2. [Quarkus Framework][quarkus-url] Under Development :warning:
+1. [Java with JDBC and MySQL][jdbc-url] Concluded :heavy_check_mark:
+2. [Spring Boot Framework][sts-url] Under Development :warning:
+3. [Quarkus Framework][quarkus-url] Under Development :warning:
 
 #### <a name="frontframe"></a> Frontend Frameworks
 
@@ -212,6 +213,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [html-css-url]: https://github.com/vitorstabile/html-css-basics
 [bootstrap-url]: https://github.com/vitorstabile/bootstrap-basics
 [javascript-client-url]: https://github.com/vitorstabile/javascript-client-side-basics
+[jdbc-url]: https://github.com/vitorstabile/java-jdbc-dao-basics
 [sts-url]: https://github.com/vitorstabile/spring-boot-rest-crud-basics
 [quarkus-url]: https://github.com/vitorstabile/quarkus-rest-crud-basics
 [reactjs-url]: --
