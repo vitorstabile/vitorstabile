@@ -86,8 +86,8 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="algorithms"></a> Algorithms
 
-1. [Algorithms][algorithms-url] Under Development :warning:
-    - [Algorithms with Java][algorithms-java-url] Under Development :warning:
+1. [Algorithms][algorithms-url] Need to Create :exclamation:
+    - [Algorithms with Java][algorithms-java-url] Need to Create :exclamation:
 
 #### <a name="datastructure"></a> Data Structure
 
