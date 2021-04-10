@@ -153,8 +153,9 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 5. [Spotify Clone][spotify-url] Concluded :heavy_check_mark:
 6. [Balloon Game][game-url] Concluded :heavy_check_mark:
 7. [BMI Calculator][bmi-url] Concluded :heavy_check_mark:
-8. [MATLAB Master’s Degree Projects][master-url] Concluded :heavy_check_mark:
-9. [Product Catalog][dscatalog-url] Under Development :warning:
+8. [Todo list][todo-url] Concluded :heavy_check_mark:
+9. [MATLAB Master’s Degree Projects][master-url] Concluded :heavy_check_mark:
+10. [Product Catalog][dscatalog-url] Under Development :warning:
 
 ## Work Projects <a name="work"></a>
 
@@ -231,6 +232,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [spotify-url]: https://github.com/vitorstabile/project-spotify-clone
 [game-url]: https://github.com/vitorstabile/javascript-project-game
 [bmi-url]: https://github.com/vitorstabile/bmi-calculator-javascript-project
+[todo-url]: https://github.com/vitorstabile/todo-list-javascript-project
 [master-url]:https://github.com/vitorstabile/matlab-master-degree-projects
 [simple-html-url]: https://github.com/vitorstabile/html-css-project
 [dscatalog-url]: https://github.com/vitorstabile/dscatalog-bootcamp-devsuperior
