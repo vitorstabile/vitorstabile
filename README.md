@@ -203,7 +203,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [javascript-logic-url]: https://github.com/vitorstabile/logic-programming-in-javascript-basics
 [matlab-logic-url]: https://github.com/vitorstabile/logic-programming-in-matlab-basics
 [algorithms-url]: --
-[Algorithms with Java]: --
+[algorithms-java-url]: --
 [data-structure-url]: --
 [data-structire-c-url]: --
 [data-structire-java-url]: --
