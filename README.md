@@ -7,6 +7,7 @@
 3. [Projects](#projects)
     - [Tutorial Projects](#tutorials)
         - [Logic Programming](#logicprogramming)
+        - [Algorithms](#algorithms)
         - [Data Structure](#datastructure)
         - [Object Oriented Programming](#oop)
         - [Relational Data Base](#relational)
@@ -32,7 +33,7 @@ In 2017, after having my first contact with MATLAB programming through my chemic
 
 In March of 2017, I become a Java software developer in a small company named [Frotelle Alimentos][frotelle-url] and worked until January 2021, after I decided to move from Brazil to my mother origin continent...Europe.
 
-I want to help the community with simple tutorials teaching basic concepts in computer science that I learned by myself through books, courses and documentation.
+Now, I am working to become a full stack developer and data scientist. Parallel to this, I am studying topics on computer science (computer architecture, software and networks, digital systems and embedded systems and software engineering) and help the community with simple tutorials teaching basic concepts in computer science that I learned by myself through books, courses and documentation.
 
 # Work Experience <a name="workexperience"></a>
 
@@ -72,7 +73,7 @@ I believe in an open-source world that we can study, learning and teach with the
 
 This Projects have the aim to create simple tutorials and basics about logic programming, data structure, oriented object, hardware, software, computer network, project design, basic of some programming languages and much more!
 
-#### <a name="logicprogramming"></a> Logic and Algorithms
+#### <a name="logicprogramming"></a> Logic Programming
 
 1. [Logic Programming][logic-project-url] Under Development :warning:
     - [Logic Programming with C][c-logic-url] Under Development :warning:
@@ -82,6 +83,11 @@ This Projects have the aim to create simple tutorials and basics about logic pro
     - [Logic Programming with Python][python-logic-url] Under Development :warning:
     - [Logic Programming with JavaScript][javascript-logic-url] Under Development :warning:
     - [Logic Programming with MATLAB][matlab-logic-url] Under Development :warning:
+
+#### <a name="algorithms"></a> Algorithms
+
+1. [Algorithms][algorithms-url] Under Development :warning:
+    - [Algorithms with Java][algorithms-java-url] Under Development :warning:
 
 #### <a name="datastructure"></a> Data Structure
 
@@ -196,6 +202,8 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-in-python-basics
 [javascript-logic-url]: https://github.com/vitorstabile/logic-programming-in-javascript-basics
 [matlab-logic-url]: https://github.com/vitorstabile/logic-programming-in-matlab-basics
+[algorithms-url]: --
+[Algorithms with Java]: --
 [data-structure-url]: --
 [data-structire-c-url]: --
 [data-structire-java-url]: --
