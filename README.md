@@ -87,15 +87,12 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="algorithms"></a> Algorithms
 
 1. [Algorithms][algorithms-url] Need to Create :exclamation:
-    - [Algorithms with Java][algorithms-java-url] Need to Create :exclamation:
+    - [Algorithms with Python][algorithms-python-url] Need to Create :exclamation:
 
 #### <a name="datastructure"></a> Data Structure
 
 1. [Data Structure][data-structure-url] Need to Create :exclamation:
-    - [Data Structure with C][data-structire-c-url] Need to Create :exclamation:
-    - [Data Structure with Java][data-structire-java-url] Need to Create :exclamation:
     - [Data Structure with Python][data-structire-python-url] Need to Create :exclamation:
-    - [Data Structure with JavaScript][data-structire-javascript-url] Need to Create :exclamation:
 
 #### <a name="oop"></a> Object Oriented Programming
 
@@ -203,7 +200,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [javascript-logic-url]: https://github.com/vitorstabile/logic-programming-in-javascript-basics
 [matlab-logic-url]: https://github.com/vitorstabile/logic-programming-in-matlab-basics
 [algorithms-url]: --
-[algorithms-java-url]: --
+[algorithms-python-url]: --
 [data-structure-url]: --
 [data-structire-c-url]: --
 [data-structire-java-url]: --
@@ -214,9 +211,9 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [oop-csharp-url]: --
 [oop-java-url]: https://github.com/vitorstabile/java-language-oop-basics
 [oop-python-url]: --
-[oop-javascript-url]: https://github.com/vitorstabile/javascript-language-programming-basics
-[relational-database-url]: --
-[mysql-url]: https://github.com/vitorstabile/relational-database-basics/tree/master/mysql-basics
+[oop-javascript-url]: https://github.com/vitorstabile/javascript-language-oop-basics
+[relational-database-url]: https://github.com/vitorstabile/relational-database-basics
+[mysql-url]: https://github.com/vitorstabile/mysql-basics
 [postgressql-url]: --
 [web-url]: --
 [html-css-url]: https://github.com/vitorstabile/html-css-basics
