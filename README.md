@@ -206,11 +206,11 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [data-structure-url]: --
 [data-structire-python-url]: --
 [oop-url]: --
-[oop-csharp-url]: https://github.com/vitorstabile/csharp-language-oop-basics
-[oop-java-url]: https://github.com/vitorstabile/java-language-oop-basics
-[oop-python-url]: https://github.com/vitorstabile/python-language-oop-basics
-[oop-javascript-url]: https://github.com/vitorstabile/javascript-language-oop-basics
-[oop-typescript-url]: https://github.com/vitorstabile/typescript-language-oop-basics
+[oop-csharp-url]: https://github.com/vitorstabile/oop-with-csharp-basics
+[oop-java-url]: https://github.com/vitorstabile/oop-with-java-basics
+[oop-python-url]: https://github.com/vitorstabile/oop-with-python-basics
+[oop-javascript-url]: https://github.com/vitorstabile/oop-with-javascript-basics
+[oop-typescript-url]: https://github.com/vitorstabile/oop-with-typescript-basics
 [relational-database-url]: https://github.com/vitorstabile/relational-database-basics
 [mysql-url]: https://github.com/vitorstabile/mysql-basics
 [postgressql-url]: https://github.com/vitorstabile/postgresql-basics
@@ -220,7 +220,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [javascript-client-url]: https://github.com/vitorstabile/javascript-client-side-basics
 [jdbc-url]: https://github.com/vitorstabile/java-jdbc-dao-basics
 [sts-url]: https://github.com/vitorstabile/spring-boot-basics
-[quarkus-url]: https://github.com/vitorstabile/quarkus-rest-crud-basics
+[quarkus-url]: https://github.com/vitorstabile/quarkus-basics
 [reactjs-url]: https://github.com/vitorstabile/reactjs-basics
 [reactnative-url]: https://github.com/vitorstabile/react-native-basics
 [project-design-url]: https://github.com/vitorstabile/projects-design-basics
