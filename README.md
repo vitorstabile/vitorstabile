@@ -158,8 +158,9 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 6. [Balloon Game][game-url] Concluded :heavy_check_mark:
 7. [BMI Calculator][bmi-url] Concluded :heavy_check_mark:
 8. [Todo list][todo-url] Concluded :heavy_check_mark:
-9. [MATLAB Master’s Degree Projects][master-url] Concluded :heavy_check_mark:
-10. [Product Catalog][dscatalog-url] Under Development :warning:
+9. 
+10. [MATLAB Master’s Degree Projects][master-url] Concluded :heavy_check_mark:
+11. [Product Catalog][dscatalog-url] Under Development :warning:
 
 ## Work Projects <a name="work"></a>
 
