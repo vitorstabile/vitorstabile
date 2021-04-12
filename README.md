@@ -125,8 +125,8 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="frontframe"></a> Frontend Frameworks
 
-1. [React JS Framework][reactjs-url] Need to Create :exclamation:
-2. [React Native Framework][reactnative-url] Need to Create :exclamation:
+1. [React JS Framework][reactjs-url] Under Development :warning:
+2. [React Native Framework][reactnative-url] Under Development :warning:
 
 #### <a name="projectdesign"></a> Project Design
 
@@ -135,7 +135,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="shellscript"></a> Shell Script
 
 1. [Shell Script][shell-script-url] Need to Create :exclamation:
-    - [Bash][bash-url] Need to Create :exclamation:
+    - [Bash][bash-url] Under Development :warning:
     - [PowerShell][powershell-url] Under Development :warning:
 
 #### <a name="git"></a> Git and GitHub
@@ -221,11 +221,11 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [jdbc-url]: https://github.com/vitorstabile/java-jdbc-dao-basics
 [sts-url]: https://github.com/vitorstabile/spring-boot-rest-crud-basics
 [quarkus-url]: https://github.com/vitorstabile/quarkus-rest-crud-basics
-[reactjs-url]: --
-[reactnative-url]: --
+[reactjs-url]: https://github.com/vitorstabile/reactjs-basics
+[reactnative-url]: https://github.com/vitorstabile/react-native-basics
 [project-design-url]: https://github.com/vitorstabile/projects-design-basics
 [shell-script-url]: --
-[bash-url]: --
+[bash-url]: https://github.com/vitorstabile/bash-basics
 [powershell-url]: https://github.com/vitorstabile/powershell-basics
 [git-url]: https://github.com/vitorstabile/git-basics
 [readme-project-url]: https://github.com/vitorstabile/project-template-readme
