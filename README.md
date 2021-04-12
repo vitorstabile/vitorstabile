@@ -82,6 +82,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
     - [Logic Programming with Java][java-logic-url] Under Development :warning:
     - [Logic Programming with Python][python-logic-url] Under Development :warning:
     - [Logic Programming with JavaScript][javascript-logic-url] Under Development :warning:
+    - [Logic Programming with TypeScript][typescript-logic-url] Under Development :warning:
     - [Logic Programming with MATLAB][matlab-logic-url] Under Development :warning:
 
 #### <a name="algorithms"></a> Algorithms
@@ -97,11 +98,11 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="oop"></a> Object Oriented Programming
 
 1. [Object Oriented Programming][oop-url] Need to Create :exclamation:
-    - [Object Oriented Programming with C++][oop-cpp-url] Need to Create :exclamation:
     - [Object Oriented Programming with C#][oop-csharp-url] Need to Create :exclamation:
     - [Object Oriented Programming with Java][oop-java-url] Under Development :warning:
     - [Object Oriented Programming with Python][oop-python-url] Need to Create :exclamation:
     - [Object Oriented Programming with JavaScript][oop-javascript-url] Under Development :warning:
+    - [Object Oriented Programming with TypeScript][oop-typescript-url] Under Development :warning:
 
 #### <a name="relational"></a> Relational Database
 
@@ -198,23 +199,21 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [java-logic-url]: https://github.com/vitorstabile/logic-programming-in-java-basics
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-in-python-basics
 [javascript-logic-url]: https://github.com/vitorstabile/logic-programming-in-javascript-basics
+[typescript-logic-url]: https://github.com/vitorstabile/logic-programming-in-typescript-basics
 [matlab-logic-url]: https://github.com/vitorstabile/logic-programming-in-matlab-basics
 [algorithms-url]: --
 [algorithms-python-url]: --
 [data-structure-url]: --
-[data-structire-c-url]: --
-[data-structire-java-url]: --
 [data-structire-python-url]: --
-[data-structire-javascript-url]: --
 [oop-url]: --
-[oop-cpp-url]: --
 [oop-csharp-url]: --
 [oop-java-url]: https://github.com/vitorstabile/java-language-oop-basics
 [oop-python-url]: --
 [oop-javascript-url]: https://github.com/vitorstabile/javascript-language-oop-basics
+[oop-typescript-url]: https://github.com/vitorstabile/typescript-language-oop-basics
 [relational-database-url]: https://github.com/vitorstabile/relational-database-basics
 [mysql-url]: https://github.com/vitorstabile/mysql-basics
-[postgressql-url]: --
+[postgressql-url]: https://github.com/vitorstabile/postgresql-basics
 [web-url]: --
 [html-css-url]: https://github.com/vitorstabile/html-css-basics
 [bootstrap-url]: https://github.com/vitorstabile/bootstrap-basics
