@@ -88,16 +88,16 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="algorithms"></a> Algorithms
 
 1. [Algorithms][algorithms-url] Under Development :warning:
-    - [Algorithms with Python][algorithms-python-url] Need to Create :exclamation:
+    - [Algorithms with Python][algorithms-python-url] Under Development :warning:
 
 #### <a name="datastructure"></a> Data Structure
 
-1. [Data Structure][data-structure-url] Need to Create :exclamation:
-    - [Data Structure with Python][data-structire-python-url] Need to Create :exclamation:
+1. [Data Structure][data-structure-url] Under Development :warning:
+    - [Data Structure with Python][data-structure-python-url] Under Development :warning:
 
 #### <a name="oop"></a> Object Oriented Programming
 
-1. [Object Oriented Programming][oop-url] Need to Create :exclamation:
+1. [Object Oriented Programming][oop-url] Under Development :warning:
     - [Object Oriented Programming with C#][oop-csharp-url] Under Development :warning:
     - [Object Oriented Programming with Java][oop-java-url] Under Development :warning:
     - [Object Oriented Programming with Python][oop-python-url] Under Development :warning:
@@ -112,7 +112,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="web"></a> Web Development
 
-1. [Web Development][web-url] Need to Create :exclamation:
+1. [Web Development][web-url] Under Development :warning:
     - [HTML and CSS][html-css-url] Under Development :warning:
     - [Bootstrap][bootstrap-url] Under Development :warning:
     - [JavaScript Client Side][javascript-client-url] Under Development :warning:
@@ -134,7 +134,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="shellscript"></a> Shell Script
 
-1. [Shell Script][shell-script-url] Need to Create :exclamation:
+1. [Shell Script][shell-script-url] Under Development :warning:
     - [Bash][bash-url] Under Development :warning:
     - [PowerShell][powershell-url] Under Development :warning:
 
@@ -202,10 +202,10 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [typescript-logic-url]: https://github.com/vitorstabile/logic-programming-with-typescript-basics
 [matlab-logic-url]: https://github.com/vitorstabile/logic-programming-with-matlab-basics
 [algorithms-url]: https://github.com/vitorstabile/algorithms-basics
-[algorithms-python-url]: --
-[data-structure-url]: --
-[data-structire-python-url]: --
-[oop-url]: --
+[algorithms-python-url]: https://github.com/vitorstabile/algorithms-with-python-basics
+[data-structure-url]: https://github.com/vitorstabile/data-structure-basics
+[data-structure-python-url]: https://github.com/vitorstabile/data-structure-with-python-basics
+[oop-url]: https://github.com/vitorstabile/oop-basics
 [oop-csharp-url]: https://github.com/vitorstabile/oop-with-csharp-basics
 [oop-java-url]: https://github.com/vitorstabile/oop-with-java-basics
 [oop-python-url]: https://github.com/vitorstabile/oop-with-python-basics
@@ -214,7 +214,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [relational-database-url]: https://github.com/vitorstabile/relational-database-basics
 [mysql-url]: https://github.com/vitorstabile/mysql-basics
 [postgressql-url]: https://github.com/vitorstabile/postgresql-basics
-[web-url]: --
+[web-url]: https://github.com/vitorstabile/web-basics
 [html-css-url]: https://github.com/vitorstabile/html-css-basics
 [bootstrap-url]: https://github.com/vitorstabile/bootstrap-basics
 [javascript-client-url]: https://github.com/vitorstabile/javascript-client-side-basics
@@ -224,7 +224,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [reactjs-url]: https://github.com/vitorstabile/reactjs-basics
 [reactnative-url]: https://github.com/vitorstabile/react-native-basics
 [project-design-url]: https://github.com/vitorstabile/projects-design-basics
-[shell-script-url]: --
+[shell-script-url]: https://github.com/vitorstabile/shell-script-basics
 [bash-url]: https://github.com/vitorstabile/bash-basics
 [powershell-url]: https://github.com/vitorstabile/powershell-basics
 [git-url]: https://github.com/vitorstabile/git-basics
