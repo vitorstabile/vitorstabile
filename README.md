@@ -219,7 +219,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [bootstrap-url]: https://github.com/vitorstabile/bootstrap-basics
 [javascript-client-url]: https://github.com/vitorstabile/javascript-client-side-basics
 [jdbc-url]: https://github.com/vitorstabile/java-jdbc-dao-basics
-[sts-url]: https://github.com/vitorstabile/spring-boot-rest-crud-basics
+[sts-url]: https://github.com/vitorstabile/spring-boot-basics
 [quarkus-url]: https://github.com/vitorstabile/quarkus-rest-crud-basics
 [reactjs-url]: https://github.com/vitorstabile/reactjs-basics
 [reactnative-url]: https://github.com/vitorstabile/react-native-basics
