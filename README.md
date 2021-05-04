@@ -33,7 +33,7 @@ In 2017, after having my first contact with MATLAB programming through my chemic
 
 In March of 2017, I become a Java software developer in a small company named [Frotelle Alimentos][frotelle-url] and worked until January 2021, after I decided to move from Brazil to my mother origin continent...Europe.
 
-Now, I am working to become a full stack developer and data scientist. Parallel to this, I am studying topics on computer science (computer architecture, software and networks, digital systems and embedded systems and software engineering) and help the community with simple tutorials teaching basic concepts in computer science that I learned by myself through books, courses and documentation.
+Now, I am working to become a software engineer. Parallel to this, I am studying topics on computer science (computer architecture, software and networks, digital systems and embedded systems and software engineering) and help the community with simple tutorials teaching basic concepts in computer science that I learned by myself through books, courses and documentation.
 
 # Work Experience <a name="workexperience"></a>
 
