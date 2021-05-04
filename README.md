@@ -46,6 +46,7 @@ Now, I am working to become a full stack developer and data scientist. Parallel 
       - [Creation of app in Java with MySQL, JDBC and JavaFX for the development of new recipes.][recipe2-url]
       - [Creation of app in Java with MySQL, JDBC and JavaFX for department/seller registration.][department-url]
       - [Creation of backend e-commerce app in Java with PostgreSQL, Spring Boot, Maven and REST.][back-url]
+      - [Creation of backend social posts app in Java with MongoDB, Spring Boot, Maven and REST.][post-url]
 
     - Chemical Engineer (July 2014 - March 2021)
     
@@ -153,16 +154,15 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 
 1. [Roadmap Developer][roadmap-url] Concluded :heavy_check_mark:
 2. [Chess System][chess-url] Concluded :heavy_check_mark:
-3. [Social Post][post-url] Concluded :heavy_check_mark:
-4. [Website with just HTML][just-html-url] Concluded :heavy_check_mark:
-5. [HTML and CSS Blog][simple-html-url] Concluded :heavy_check_mark:
-6. [Spotify Clone][spotify-url] Concluded :heavy_check_mark:
-7. [Balloon Game][game-url] Concluded :heavy_check_mark:
-8. [BMI Calculator][bmi-url] Concluded :heavy_check_mark:
-9. [Todo list][todo-url] Concluded :heavy_check_mark:
-10. [MATLAB Master’s Degree Projects][master-url] Concluded :heavy_check_mark:
-11. [Product Catalog][dscatalog-url] Under Development :warning:
-12. [Sales Graph][dsvendas-url] Under Development :warning:
+3. [Website with just HTML][just-html-url] Concluded :heavy_check_mark:
+4. [HTML and CSS Blog][simple-html-url] Concluded :heavy_check_mark:
+5. [Spotify Clone][spotify-url] Concluded :heavy_check_mark:
+6. [Balloon Game][game-url] Concluded :heavy_check_mark:
+7. [BMI Calculator][bmi-url] Concluded :heavy_check_mark:
+8. [Todo list][todo-url] Concluded :heavy_check_mark:
+9. [MATLAB Master’s Degree Projects][master-url] Concluded :heavy_check_mark:
+10. [Product Catalog][dscatalog-url] Under Development :warning:
+11. [Sales Graph][dsvendas-url] Under Development :warning:
 
 ## Work Projects <a name="work"></a>
 
@@ -176,7 +176,8 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 2. [Recipe Calculus - Part II][recipe2-url] Concluded :heavy_check_mark:
 3. [Department/Seller][department-url] Concluded :heavy_check_mark:
 4. [Backend Order][back-url] Concluded :heavy_check_mark:
-5. [Order/Delivery App][order-url] Concluded :heavy_check_mark:
+5. [Social Post][post-url] Concluded :heavy_check_mark:
+6. [Order/Delivery App][order-url] Concluded :heavy_check_mark:
 
 # Contacts <a name="contacts"></a>
 
