@@ -48,7 +48,7 @@ Now, I am working to become a software engineer. Parallel to this, I am studying
       - [Creation of backend e-commerce app in Java with PostgreSQL, Spring Boot, Maven and REST.][back-url]
       - [Creation of backend social posts app in Java with MongoDB, Spring Boot, Maven and REST.][post-url]
 
-    - Chemical Engineer (July 2014 - March 2021)
+    - Chemical Engineer (July 2014 - March 2017)
     
         - Supply chain manager.
         - Responsible for calculating all production indicators and product costs.
