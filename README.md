@@ -162,6 +162,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 9. [Todo list][todo-url] Concluded :heavy_check_mark:
 10. [MATLAB Master’s Degree Projects][master-url] Concluded :heavy_check_mark:
 11. [Product Catalog][dscatalog-url] Under Development :warning:
+12. [Sales Graph][dsvendas-url] Under Development :warning:
 
 ## Work Projects <a name="work"></a>
 
@@ -249,3 +250,4 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [department-url]: https://github.com/vitorstabile/workshop-javafx-jdbc
 [back-url]: https://github.com/vitorstabile/course-springboot-2-java-11
 [order-url]: https://github.com/vitorstabile/dsdeliver-sds2
+[dsvendas-url]: https://github.com/vitorstabile/dsvendas-sds3
