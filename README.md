@@ -83,8 +83,10 @@ This Projects have the aim to create simple tutorials and basics about logic pro
     - [Logic Programming with Java][java-logic-url] Under Development :warning:
     - [Logic Programming with Python][python-logic-url] Under Development :warning:
     - [Logic Programming with JavaScript][javascript-logic-url] Under Development :warning:
+    - [Logic Programming with PHP][php-logic-url] Under Development :warning:
     - [Logic Programming with TypeScript][typescript-logic-url] Under Development :warning:
     - [Logic Programming with MATLAB][matlab-logic-url] Under Development :warning:
+    - [Logic Programming with R][r-logic-url] Under Development :warning:
 
 #### <a name="algorithms"></a> Algorithms
 
@@ -203,8 +205,10 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [java-logic-url]: https://github.com/vitorstabile/logic-programming-with-java-basics
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-with-python-basics
 [javascript-logic-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics
+[php-logic-url]: https://github.com/vitorstabile/logic-programming-with-php-basics
 [typescript-logic-url]: https://github.com/vitorstabile/logic-programming-with-typescript-basics
 [matlab-logic-url]: https://github.com/vitorstabile/logic-programming-with-matlab-basics
+[r-logic-url]: https://github.com/vitorstabile/logic-programming-with-r-basics
 [algorithms-url]: https://github.com/vitorstabile/algorithms-basics
 [algorithms-python-url]: https://github.com/vitorstabile/algorithms-with-python-basics
 [data-structure-url]: https://github.com/vitorstabile/data-structure-basics
