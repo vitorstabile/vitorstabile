@@ -164,7 +164,6 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 8. [Todo list][todo-url] Concluded :heavy_check_mark:
 9. [MATLAB Master’s Degree Projects][master-url] Concluded :heavy_check_mark:
 10. [Product Catalog][dscatalog-url] Under Development :warning:
-11. [Sales Graph][dsvendas-url] Under Development :warning:
 
 ## Work Projects <a name="work"></a>
 
@@ -180,6 +179,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 4. [Backend Order][back-url] Concluded :heavy_check_mark:
 5. [Social Post][post-url] Concluded :heavy_check_mark:
 6. [Order/Delivery App][order-url] Concluded :heavy_check_mark:
+7. [Sales Graph][dsvendas-url] Concluded :heavy_check_mark:
 
 # Contacts <a name="contacts"></a>
 
