@@ -152,7 +152,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="interviews"></a> Interview Tests and Exercises
 
 1. [CodinGame Tests][codingametests-url] Under Development :warning:
-2. [HackerRank Tests][hackerranktests-url] Concluded :heavy_check_mark:
+2. [HackerRank Tests][hackerranktests-url] Under Development :warning:
 
 ## Personal Projects <a name="personal"></a>
 
