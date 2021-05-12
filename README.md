@@ -17,6 +17,7 @@
         - [Project Design](#projectdesign)
         - [Shell Script](#shellscript)
         - [Git and GitHub](#git)
+        - [Interview Tests and Exercises](#interviews)
      - [Personal Projects](#personal)
      - [Work Project](#work)
 4. [Contacts](#contacts)
@@ -148,6 +149,11 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 2. [README for Projects][readme-project-url] Concluded :heavy_check_mark:
 3. [README for Tutorials][readme-tutorial-url] Concluded :heavy_check_mark:
 
+#### <a name="interviews"></a> Interview Tests and Exercises
+
+1. [CodinGame Tests][codingametests-url] Under Development :warning:
+2. [HackerRank Tests][hackerranktests-url] Concluded :heavy_check_mark:
+
 ## Personal Projects <a name="personal"></a>
 
 Some of the projects made by me from courses and self-learning.
@@ -239,6 +245,8 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [git-url]: https://github.com/vitorstabile/git-basics
 [readme-project-url]: https://github.com/vitorstabile/project-template-readme
 [readme-tutorial-url]: https://github.com/vitorstabile/tutorial-template-readme
+[codingametests-url]: https://github.com/vitorstabile/java-tests-codingame
+[hackerranktests-url]: https://github.com/vitorstabile/java-tests-hackerrank
 [roadmap-url]: https://github.com/vitorstabile/roadmap-developer-basics
 [chess-url]: https://github.com/vitorstabile/chess-system-java
 [post-url]: https://github.com/vitorstabile/workshop-spring-boot-mongodb
