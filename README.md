@@ -43,11 +43,10 @@ Now, I am working to become a software engineer. Parallel to this, I am studying
     - Software Developer (March 2017 - January 2021)
     
       - ERP implementation and test (TOTVS – Winthor Industry Module).
-      - [Fullstack Project with Java with Spring in backend, ReactJS in frontend web and React Native in frontend Mobile.][order-url]
-      - [Creation of app in Java with MySQL, JDBC and JavaFX for the development of new recipes.][recipe2-url]
-      - [Creation of app in Java with MySQL, JDBC and JavaFX for department/seller registration.][department-url]
-      - [Creation of backend e-commerce app in Java with PostgreSQL, Spring Boot, Maven and REST.][back-url]
-      - [Creation of backend social posts app in Java with MongoDB, Spring Boot, Maven and REST.][post-url]
+      - [Development of backend e-commerce in Java with PostgreSQL, Spring Boot, Maven and REST.][back-url
+      - [Development of Fullstack Order APP with Java with Spring in backend, ReactJS in frontend web and React Native in frontend Mobile.][order-url]
+      - [Development of Fullstack Delivery APP with Java with Spring in backend, React Native in frontend Mobile.][order-url]
+      - [Development of Fullstack Sales Dashboard APP][dsvendas-url]
 
     - Chemical Engineer (July 2014 - March 2017)
     
@@ -92,11 +91,13 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="algorithms"></a> Algorithms
 
 1. [Algorithms][algorithms-url] Under Development :warning:
+    - [Algorithms with Java][algorithms-java-url] Under Development :warning:
     - [Algorithms with Python][algorithms-python-url] Under Development :warning:
 
 #### <a name="datastructure"></a> Data Structure
 
 1. [Data Structure][data-structure-url] Under Development :warning:
+    - [Data Structure with Java][data-structure-java-url] Under Development :warning:
     - [Data Structure with Python][data-structure-python-url] Under Development :warning:
 
 #### <a name="oop"></a> Object Oriented Programming
@@ -216,8 +217,10 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [matlab-logic-url]: https://github.com/vitorstabile/logic-programming-with-matlab-basics
 [r-logic-url]: https://github.com/vitorstabile/logic-programming-with-r-basics
 [algorithms-url]: https://github.com/vitorstabile/algorithms-basics
+[algorithms-java-url]: https://github.com/vitorstabile/algorithms-with-java-basics
 [algorithms-python-url]: https://github.com/vitorstabile/algorithms-with-python-basics
 [data-structure-url]: https://github.com/vitorstabile/data-structure-basics
+[data-structure-java-url]: https://github.com/vitorstabile/data-structure-with-java-basics
 [data-structure-python-url]: https://github.com/vitorstabile/data-structure-with-python-basics
 [oop-url]: https://github.com/vitorstabile/oop-basics
 [oop-csharp-url]: https://github.com/vitorstabile/oop-with-csharp-basics
