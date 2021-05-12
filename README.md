@@ -43,7 +43,7 @@ Now, I am working to become a software engineer. Parallel to this, I am studying
     - Software Developer (March 2017 - January 2021)
     
       - ERP implementation and test (TOTVS – Winthor Industry Module).
-      - [Development of backend e-commerce in Java with PostgreSQL, Spring Boot, Maven and REST.][back-url
+      - [Development of backend e-commerce in Java with PostgreSQL, Spring Boot, Maven and REST.][back-url]
       - [Development of Fullstack Order APP with Java with Spring in backend, ReactJS in frontend web and React Native in frontend Mobile.][order-url]
       - [Development of Fullstack Delivery APP with Java with Spring in backend, React Native in frontend Mobile.][order-url]
       - [Development of Fullstack Sales Dashboard APP][dsvendas-url]
