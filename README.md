@@ -136,7 +136,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="projectdesign"></a> Project Design
 
 1. [Project Design][project-design-url] Concluded :heavy_check_mark:
-2. [Microservices][microservices-url] Under Development :warning:
+2. [Microservices][microservices-url] Concluded :heavy_check_mark:
 
 #### <a name="shellscript"></a> Shell Script
 
