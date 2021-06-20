@@ -20,6 +20,8 @@
         - [Interview Tests and Exercises](#interviews)
      - [Personal Projects](#personal)
      - [Work Project](#work)
+     - [Bibliography's](#biblio)
+
 4. [Contacts](#contacts)
 
 # About Me <a name="aboutme"></a>
@@ -192,8 +194,8 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 
 Some of references that I use in my days.
 
-1. Computer Science 
-2. Computer Science Path [csstudypath-url]
+1. Computer Science Complete Education 1 [csstudypath2-url]
+2. Computer Science Complete Education 2 [csstudypath2-url]
 
 # Contacts <a name="contacts"></a>
 
@@ -275,3 +277,4 @@ Some of references that I use in my days.
 [order-url]: https://github.com/vitorstabile/dsdeliver-sds2
 [dsvendas-url]: https://github.com/vitorstabile/dsvendas-sds3
 [csstudypath-url]: https://functionalcs.github.io/curriculum/
+[csstudypath2-url]: https://github.com/ossu/computer-science
