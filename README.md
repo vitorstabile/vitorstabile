@@ -188,6 +188,13 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 6. [Order/Delivery App][order-url] Concluded :heavy_check_mark:
 7. [Sales Graph][dsvendas-url] Concluded :heavy_check_mark:
 
+## Bibliography's <a name="biblio"></a>
+
+Some of references that I use in my days.
+
+1. Computer Science 
+2. Computer Science Path [csstudypath-url]
+
 # Contacts <a name="contacts"></a>
 
 | Vitor Garcia                                     |
@@ -267,3 +274,4 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 [back-url]: https://github.com/vitorstabile/course-springboot-2-java-11
 [order-url]: https://github.com/vitorstabile/dsdeliver-sds2
 [dsvendas-url]: https://github.com/vitorstabile/dsvendas-sds3
+[csstudypath-url]: https://functionalcs.github.io/curriculum/
