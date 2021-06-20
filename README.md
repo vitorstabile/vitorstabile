@@ -194,7 +194,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 
 Some of references that I use in my days.
 
-1. [Computer Science Complete Education 1][csstudypath1-url]
+1. [Computer Science Complete Education 1][csstudypath-url]
 2. [Computer Science Complete Education 2][csstudypath2-url]
 
 # Contacts <a name="contacts"></a>
