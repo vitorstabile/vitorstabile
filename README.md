@@ -194,7 +194,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 
 Some of references that I use in my days.
 
-1. [Computer Science Complete Education 1][csstudypath2-url]
+1. [Computer Science Complete Education 1][csstudypath1-url]
 2. [Computer Science Complete Education 2][csstudypath2-url]
 
 # Contacts <a name="contacts"></a>
@@ -276,5 +276,5 @@ Some of references that I use in my days.
 [back-url]: https://github.com/vitorstabile/course-springboot-2-java-11
 [order-url]: https://github.com/vitorstabile/dsdeliver-sds2
 [dsvendas-url]: https://github.com/vitorstabile/dsvendas-sds3
-[csstudypath-url]: https://functionalcs.github.io/curriculum/
-[csstudypath2-url]: https://github.com/ossu/computer-science
+[csstudypath-url]: https://github.com/ossu/computer-science
+[csstudypath2-url]:https://functionalcs.github.io/curriculum/
