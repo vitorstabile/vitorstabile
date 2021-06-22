@@ -196,6 +196,7 @@ Some of references that I use in my days.
 
 1. [Computer Science Complete Education 1][csstudypath-url]
 2. [Computer Science Complete Education 2][csstudypath2-url]
+3. [Data Science][csstudypath3-url]
 
 # Contacts <a name="contacts"></a>
 
@@ -278,3 +279,4 @@ Some of references that I use in my days.
 [dsvendas-url]: https://github.com/vitorstabile/dsvendas-sds3
 [csstudypath-url]: https://github.com/ossu/computer-science
 [csstudypath2-url]:https://functionalcs.github.io/curriculum/
+[csstudypath3-url]:https://github.com/ossu/data-science
