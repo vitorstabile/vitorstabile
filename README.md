@@ -26,7 +26,7 @@
 
 # About Me <a name="aboutme"></a>
 
-My name is Vitor Garcia and I'm a Chemical Engineer and Software Developer.
+My name is Vitor Garcia and I'm a Chemical Engineer and Software Developer with dual citizen (Italian and Brazilian)..
 
 I have bachelor's and master's degrees in chemical engineering both concluded in 2014 and 2019 in the institute [Centro Universitário FEI][fei-url].
 
@@ -34,13 +34,20 @@ Despite worked as chemical engineer for eight years, I love everything that invo
 
 In 2017, after having my first contact with MATLAB programming through my chemical engineer master's degree, I started to learn commercial and object-oriented language like Java, C# and Python.
 
-In March of 2017, I become a Java software developer in a small company named [Frotelle Alimentos][frotelle-url] and worked until January 2021, after I decided to move from Brazil to my mother origin continent...Europe.
+In March of 2017, I become a Java software developer in a small company named [Frotelle Alimentos][frotelle-url] and worked until January 2021, after I decided to move from Brazil to Portugal to work as a Software Development Consultant in [Adentis Portugal][adentis-url]
 
-Now, I am working to become a software engineer. Parallel to this, I am studying topics on computer science (computer architecture, software and networks, digital systems and embedded systems and software engineering) and help the community with simple tutorials teaching basic concepts in computer science that I learned by myself through books, courses and documentation.
+Now, I am working to gain experience in my actual job field in I.T. as a software developer and become a software engineer in the future.
+
+Parallel to this, I am studying topics on computer science (computer architecture, software and networks, digital systems and embedded systems and software engineering) and help the community with simple tutorials teaching basic concepts in computer science that I learned by myself through books, courses and documentation.
 
 # Work Experience <a name="workexperience"></a>
 
-1. [Frotelle Alimentos][frotelle-url]
+1. [Adentis Portugal][adentis-url]
+
+    - Software Development Consultant (May 2021 - Until now)
+
+
+2. [Frotelle Alimentos][frotelle-url]
 
     - Software Developer (March 2017 - January 2021)
     
@@ -58,7 +65,7 @@ Now, I am working to become a software engineer. Parallel to this, I am studying
         - Creation of new recipes for enriching wheat flour with additives such as enzymes and emulsifiers.
         - Creation of cardboard packaging with CAD/CAM software.
 
-2. [Vigor Alimentos][vigor-url]
+3. [Vigor Alimentos][vigor-url]
 
     - Process Engineering Intern (May 2013 - December 2013)
     
@@ -213,6 +220,7 @@ Some of references that I use in my days.
 [github-shield]: https://img.shields.io/badge/my-github-green.svg
 [github-url]: https://github.com/vitorstabile
 [frotelle-url]:http://frotelle.com.br/
+[adentis-url]: http://www.adentis.pt/
 [fei-url]: https://portal.fei.edu.br/
 [vigor-url]: http://www.vigoralimentos.com.br/
 [logic-project-url]: https://github.com/vitorstabile/logic-programming-basics
