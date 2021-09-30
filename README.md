@@ -198,6 +198,10 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 6. [Order/Delivery App][order-url] Concluded :heavy_check_mark:
 7. [Sales Graph][dsvendas-url] Concluded :heavy_check_mark:
 
+## Software Engineer Master Degree Project <a name="mse"></a>
+
+My Master degree courses and project.
+
 ## Bibliography's <a name="biblio"></a>
 
 Some of references that I use in my days.
