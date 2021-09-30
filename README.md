@@ -20,6 +20,7 @@
         - [Interview Tests and Exercises](#interviews)
      - [Personal Projects](#personal)
      - [Work Project](#work)
+     - [Software Engineer Master Degree Project](#mse)
      - [Bibliography's](#biblio)
 
 4. [Contacts](#contacts)
