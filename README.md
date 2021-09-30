@@ -200,7 +200,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 
 ## Software Engineer Master Degree Project <a name="mse"></a>
 
-My Master degree courses and project.
+[Software Engineer Master Degree Project][mse-url] Under Development :warning:
 
 ## Bibliography's <a name="biblio"></a>
 
@@ -292,6 +292,7 @@ Some of references that I use in my days.
 [back-url]: https://github.com/vitorstabile/course-springboot-2-java-11
 [order-url]: https://github.com/vitorstabile/dsdeliver-sds2
 [dsvendas-url]: https://github.com/vitorstabile/dsvendas-sds3
+[mse-url]: https://github.com/vitorstabile/master-software-engineering
 [csstudypath-url]: https://github.com/ossu/computer-science
 [csstudypath2-url]:https://functionalcs.github.io/curriculum/
 [csstudypath3-url]:https://github.com/ossu/data-science
