@@ -287,7 +287,7 @@ Some resources to help to developer programs and study.
 [git-url]: https://github.com/vitorstabile/git-basics
 [readme-project-url]: https://github.com/vitorstabile/project-template-readme
 [readme-tutorial-url]: https://github.com/vitorstabile/tutorial-template-readme
-[latex-url]: 
+[latex-url]: https://github.com/vitorstabile/latex-basics
 [codingametests-url]: https://github.com/vitorstabile/java-tests-codingame
 [hackerranktests-url]: https://github.com/vitorstabile/java-tests-hackerrank
 [roadmap-url]: https://github.com/vitorstabile/roadmap-developer-basics
