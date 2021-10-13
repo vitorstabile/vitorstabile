@@ -216,7 +216,7 @@ Some resources to help to developer programs and study.
 4. [API Documentation - Swagger][swagger-url]
 5. [Interface Design Tool - Figma][figma-url]
 6. [HTML/CSS Developer Tool - CSSDesk][cssdeck-url]
-7. [HTML/CSS/JS Tool - JSFiddle][jsfidle-url]
+7. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
 
 # Contacts <a name="contacts"></a>
 
