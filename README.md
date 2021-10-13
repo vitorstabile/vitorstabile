@@ -217,6 +217,7 @@ Some resources to help to developer programs and study.
 5. [Interface Design Tool - Figma][figma-url]
 6. [HTML/CSS Developer Tool - CSSDesk][cssdeck-url]
 7. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
+8. [Project Management Tool - Trello][managementtool-url]
 
 # Contacts <a name="contacts"></a>
 
@@ -312,3 +313,4 @@ Some resources to help to developer programs and study.
 [figma-url]: https://www.figma.com/
 [cssdeck-url]: http://www.cssdesk.com/
 [jsfidle-url]: https://jsfiddle.net/
+[managementtool-url]: https://trello.com/
