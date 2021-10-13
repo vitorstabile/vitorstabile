@@ -211,9 +211,12 @@ Some of references that I use in my days.
 Some resources to help to developer programs and study.
 
 1. [Online Compiler - Code Chef][onlinecompiler-url]
-2. [Diagramming Service - Draw.io][drawio-url]
-3. [API Documentation - Swagger][swagger-url]
-4. [Interface Design Tool - Figma][figma-url]
+2. [Online SQL Compiler - SQL Fiddle][sqlcompiler-url]
+3. [Diagramming Service - Draw.io][drawio-url]
+4. [API Documentation - Swagger][swagger-url]
+5. [Interface Design Tool - Figma][figma-url]
+6. [HTML/CSS Developer Tool - CSSDesk][cssdeck-url]
+7. [HTML/CSS/JS Tool - JSFiddle][jsfidle-url]
 
 # Contacts <a name="contacts"></a>
 
@@ -302,7 +305,10 @@ Some resources to help to developer programs and study.
 [csstudypath3-url]:https://github.com/ossu/data-science
 [csstudypath4-url]:https://github.com/the-akira/Computer-Science-Resources
 [springstudy-url]: https://glysns.gitbook.io/springframework/
+[onlinecompiler-url]: https://www.codechef.com/ide
+[sqlcompiler-url]: http://sqlfiddle.com/
 [drawio-url]: https://app.diagrams.net/
 [swagger-url]: https://editor.swagger.io/
 [figma-url]: https://www.figma.com/
-[onlinecompiler-url]: https://www.codechef.com/ide
+[cssdeck-url]: http://www.cssdesk.com/
+[jsfidle-url]: https://jsfiddle.net/
