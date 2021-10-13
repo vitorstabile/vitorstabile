@@ -165,16 +165,15 @@ Some of the projects made by me from courses and self-learning.
 
 First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of them.
 
-1. [Roadmap Developer][roadmap-url] Concluded :heavy_check_mark:
-2. [Chess System][chess-url] Concluded :heavy_check_mark:
-3. [Website with just HTML][just-html-url] Concluded :heavy_check_mark:
-4. [HTML and CSS Blog][simple-html-url] Concluded :heavy_check_mark:
-5. [Spotify Clone][spotify-url] Concluded :heavy_check_mark:
-6. [Balloon Game][game-url] Concluded :heavy_check_mark:
-7. [BMI Calculator][bmi-url] Concluded :heavy_check_mark:
-8. [Todo list][todo-url] Concluded :heavy_check_mark:
-9. [MATLAB Master’s Degree Projects][master-url] Concluded :heavy_check_mark:
-10. [Product Catalog][dscatalog-url] Under Development :warning:
+1. [Chess System][chess-url] Concluded :heavy_check_mark:
+2. [Website with just HTML][just-html-url] Concluded :heavy_check_mark:
+3. [HTML and CSS Blog][simple-html-url] Concluded :heavy_check_mark:
+4. [Spotify Clone][spotify-url] Concluded :heavy_check_mark:
+5. [Balloon Game][game-url] Concluded :heavy_check_mark:
+6. [BMI Calculator][bmi-url] Concluded :heavy_check_mark:
+7. [Todo list][todo-url] Concluded :heavy_check_mark:
+8. [MATLAB Master’s Degree Projects][master-url] Concluded :heavy_check_mark:
+9. [Product Catalog][dscatalog-url] Under Development :warning:
 
 ## Work Projects <a name="work"></a>
 
@@ -205,6 +204,7 @@ Some of references that I use in my days.
 3. [Computer Science Complete Education 3][csstudypath4-url]
 4. [Data Science][csstudypath3-url]
 5. [Spring Boot][springstudy-url]
+6. [Developer Roadmap][devmap-url]
 
 ## Resources <a name="resour"></a>
 
@@ -307,6 +307,7 @@ Some resources to help to developer programs and study.
 [csstudypath3-url]:https://github.com/ossu/data-science
 [csstudypath4-url]:https://github.com/the-akira/Computer-Science-Resources
 [springstudy-url]: https://glysns.gitbook.io/springframework/
+[devmap-url]: https://roadmap.sh/roadmaps
 [onlinecompiler-url]: https://www.codechef.com/ide
 [sqlcompiler-url]: http://sqlfiddle.com/
 [drawio-url]: https://app.diagrams.net/
