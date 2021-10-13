@@ -17,6 +17,7 @@
         - [Project Design](#projectdesign)
         - [Shell Script](#shellscript)
         - [Git and GitHub](#git)
+        - [LaTeX Templates](#latex)
         - [Interview Tests and Exercises](#interviews)
      - [Personal Projects](#personal)
      - [Work Project](#work)
@@ -154,6 +155,10 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 2. [README for Projects][readme-project-url] Concluded :heavy_check_mark:
 3. [README for Tutorials][readme-tutorial-url] Concluded :heavy_check_mark:
 
+#### <a name="latex"></a> LaTeX Templates
+
+1. [LaTeX Templates][latex-url] Under Development :warning:
+
 #### <a name="interviews"></a> Interview Tests and Exercises
 
 1. [CodinGame Tests][codingametests-url] Under Development :warning:
@@ -282,6 +287,7 @@ Some resources to help to developer programs and study.
 [git-url]: https://github.com/vitorstabile/git-basics
 [readme-project-url]: https://github.com/vitorstabile/project-template-readme
 [readme-tutorial-url]: https://github.com/vitorstabile/tutorial-template-readme
+[latex-url]: 
 [codingametests-url]: https://github.com/vitorstabile/java-tests-codingame
 [hackerranktests-url]: https://github.com/vitorstabile/java-tests-hackerrank
 [roadmap-url]: https://github.com/vitorstabile/roadmap-developer-basics
