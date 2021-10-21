@@ -209,7 +209,8 @@ Some of references that I use in my days.
 3. [Computer Science Complete Education 3][csstudypath4-url]
 4. [Data Science][csstudypath3-url]
 5. [Spring Boot][springstudy-url]
-6. [Developer Roadmap][devmap-url]
+6. [Docker (Portuguese)][docker-url]
+7. [Developer Roadmap][devmap-url]
 
 ## Resources <a name="resour"></a>
 
@@ -219,11 +220,13 @@ Some resources to help to developer programs and study.
 2. [Online SQL Compiler - SQL Fiddle][sqlcompiler-url]
 3. [Diagramming Service - Draw.io][drawio-url]
 4. [API Documentation - Swagger][swagger-url]
-5. [Interface Design Tool - Figma][figma-url]
-6. [HTML/CSS Developer Tool - CSSDesk][cssdeck-url]
-7. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
-8. [Project Management Tool - Trello][managementtool-url]
-9. [Online Latex Compiler - Overleaf][latexeditor-url]
+5. [Book Creation for Documentation - GitBook][gitbook-url]
+6. [Interface Design Tool - Figma][figma-url]
+7. [HTML/CSS Developer Tool - CSSDesk][cssdeck-url]
+8. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
+9. [Project Management Tool - Trello][managementtool-url]
+10. [Agile Retrospective Tool - Metro Retro][metroretro-url]
+11. [Online Latex Compiler - Overleaf][latexeditor-url]
 
 # Contacts <a name="contacts"></a>
 
@@ -313,13 +316,16 @@ Some resources to help to developer programs and study.
 [csstudypath3-url]:https://github.com/ossu/data-science
 [csstudypath4-url]:https://github.com/the-akira/Computer-Science-Resources
 [springstudy-url]: https://glysns.gitbook.io/springframework/
+[docker-url]: http://stack.desenvolvedor.expert/appendix/docker/
 [devmap-url]: https://roadmap.sh/roadmaps
 [onlinecompiler-url]: https://www.codechef.com/ide
 [sqlcompiler-url]: http://sqlfiddle.com/
 [drawio-url]: https://app.diagrams.net/
 [swagger-url]: https://editor.swagger.io/
+[gitbook-url]: https://www.gitbook.com/
 [figma-url]: https://www.figma.com/
 [cssdeck-url]: http://www.cssdesk.com/
 [jsfidle-url]: https://jsfiddle.net/
 [managementtool-url]: https://trello.com/
+[metroretro-url]: https://metroretro.io/
 [latexeditor-url]: https://www.overleaf.com/
