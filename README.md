@@ -220,13 +220,14 @@ Some resources to help to developer programs and study.
 2. [Online SQL Compiler - SQL Fiddle][sqlcompiler-url]
 3. [Diagramming Service - Draw.io][drawio-url]
 4. [API Documentation - Swagger][swagger-url]
-5. [Book Creation for Documentation - GitBook][gitbook-url]
-6. [Interface Design Tool - Figma][figma-url]
-7. [HTML/CSS Developer Tool - CSSDesk][cssdeck-url]
-8. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
-9. [Project Management Tool - Trello][managementtool-url]
-10. [Agile Retrospective Tool - Metro Retro][metroretro-url]
-11. [Online Latex Compiler - Overleaf][latexeditor-url]
+5. [XML Validator - Liquid Technologies][xmlvalidator-url]
+6. [Book Creation for Documentation - GitBook][gitbook-url]
+7. [Interface Design Tool - Figma][figma-url]
+8. [HTML/CSS Developer Tool - CSSDesk][cssdeck-url]
+9. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
+10. [Project Management Tool - Trello][managementtool-url]
+11. [Agile Retrospective Tool - Metro Retro][metroretro-url]
+12. [Online Latex Compiler - Overleaf][latexeditor-url]
 
 # Contacts <a name="contacts"></a>
 
@@ -322,6 +323,7 @@ Some resources to help to developer programs and study.
 [sqlcompiler-url]: http://sqlfiddle.com/
 [drawio-url]: https://app.diagrams.net/
 [swagger-url]: https://editor.swagger.io/
+[xmlvalidator-url]: https://www.liquid-technologies.com/online-xml-validator
 [gitbook-url]: https://www.gitbook.com/
 [figma-url]: https://www.figma.com/
 [cssdeck-url]: http://www.cssdesk.com/
