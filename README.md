@@ -218,19 +218,20 @@ Some of references that I use in my days.
 
 Some resources to help to developer programs and study.
 
-1. [Online Compiler - Code Chef][onlinecompiler-url]
-2. [Online SQL Compiler - SQL Fiddle][sqlcompiler-url]
-3. [Diagramming Service - Draw.io][drawio-url]
-4. [API Documentation - Swagger][swagger-url]
-5. [XML Validator - Liquid Technologies][xmlvalidator-url]
-6. [Book Creation for Documentation - GitBook][gitbook-url]
-7. [Interface Design Tool - Figma][figma-url]
-8. [HTML/CSS Developer Tool - CSSDesk][cssdeck-url]
-9. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
-10. [Project Management Tool - Trello][managementtool-url]
-11. [Agile Retrospective Tool - Metro Retro][metroretro-url]
-12. [Online Latex Compiler - Overleaf][latexeditor-url]
-13. [Online Gramatic Corrector - Grammarly][grammarly-url]
+1. [ASCII Table - USP][asciitable-url]
+2. [Online Compiler - Code Chef][onlinecompiler-url]
+3. [Online SQL Compiler - SQL Fiddle][sqlcompiler-url]
+4. [Diagramming Service - Draw.io][drawio-url]
+5. [API Documentation - Swagger][swagger-url]
+6. [XML Validator - Liquid Technologies][xmlvalidator-url]
+7. [Book Creation for Documentation - GitBook][gitbook-url]
+8. [Interface Design Tool - Figma][figma-url]
+9. [HTML/CSS Developer Tool - CSSDesk][cssdeck-url]
+10. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
+11. [Project Management Tool - Trello][managementtool-url]
+12. [Agile Retrospective Tool - Metro Retro][metroretro-url]
+13. [Online Latex Compiler - Overleaf][latexeditor-url]
+14. [Online Gramatic Corrector - Grammarly][grammarly-url]
 
 # Contacts <a name="contacts"></a>
 
@@ -324,6 +325,7 @@ Some resources to help to developer programs and study.
 [springstudy-url]: https://glysns.gitbook.io/springframework/
 [docker-url]: http://stack.desenvolvedor.expert/appendix/docker/
 [devmap-url]: https://roadmap.sh/roadmaps
+[asciitable-url]: https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html
 [onlinecompiler-url]: https://www.codechef.com/ide
 [sqlcompiler-url]: http://sqlfiddle.com/
 [drawio-url]: https://app.diagrams.net/
