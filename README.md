@@ -210,7 +210,7 @@ Some of references that I use in my days.
 4. [Systems Engineering Body of Knowledge][sebok-url]
 5. [Software Development][sw-url]
 6. [Data Science][csstudypath3-url]
-7. [Java (Portuguese)][java-ur]
+7. [Java (Portuguese)][java-url]
 8. [Data Bases (Portuguese)][banco-url]
 9. [Spring Boot (Portuguese)][springstudy-url]
 10. [Docker (Portuguese)][docker-url]
