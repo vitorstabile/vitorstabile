@@ -210,9 +210,11 @@ Some of references that I use in my days.
 4. [Systems Engineering Body of Knowledge][sebok-url]
 5. [Software Development][sw-url]
 6. [Data Science][csstudypath3-url]
-7. [Spring Boot][springstudy-url]
-8. [Docker (Portuguese)][docker-url]
-9. [Developer Roadmap][devmap-url]
+7. [Java (Portuguese)][java-ur]
+8. [Data Bases (Portuguese)][banco-url]
+9. [Spring Boot (Portuguese)][springstudy-url]
+10. [Docker (Portuguese)][docker-url]
+11. [Developer Roadmap][devmap-url]
 
 ## Resources <a name="resour"></a>
 
@@ -322,6 +324,8 @@ Some resources to help to developer programs and study.
 [sebok-url]: https://www.sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK)
 [sw-url]: https://en.wikipedia.org/wiki/Software_development
 [csstudypath3-url]:https://github.com/ossu/data-science
+[java-url]: https://glysns.gitbook.io/java/
+[banco-url]: https://glysns.gitbook.io/banco-de-dados/
 [springstudy-url]: https://glysns.gitbook.io/springframework/
 [docker-url]: http://stack.desenvolvedor.expert/appendix/docker/
 [devmap-url]: https://roadmap.sh/roadmaps
