@@ -207,14 +207,15 @@ Some of references that I use in my days.
 1. [Computer Science Complete Education 1][csstudypath-url]
 2. [Computer Science Complete Education 2][csstudypath2-url]
 3. [Computer Science Complete Education 3][csstudypath4-url]
-4. [Systems Engineering Body of Knowledge][sebok-url]
-5. [Software Development][sw-url]
-6. [Data Science][csstudypath3-url]
-7. [Java (Portuguese)][java-url]
-8. [Data Bases (Portuguese)][banco-url]
-9. [Spring Boot (Portuguese)][springstudy-url]
-10. [Docker (Portuguese)][docker-url]
-11. [Developer Roadmap][devmap-url]
+4. [Computer Science Complete Education 4 (Italian)][csstudypath3-url]
+5. [Systems Engineering Body of Knowledge][sebok-url]
+6. [Software Development][sw-url]
+7. [Data Science][csstudypath3-url]
+8. [Java (Portuguese)][java-url]
+9. [Data Bases (Portuguese)][banco-url]
+10. [Spring Boot (Portuguese)][springstudy-url]
+11. [Docker (Portuguese)][docker-url]
+12. [Developer Roadmap][devmap-url]
 
 ## Resources <a name="resour"></a>
 
@@ -320,6 +321,7 @@ Some resources to help to developer programs and study.
 [mse-url]: https://github.com/vitorstabile/master-software-engineering
 [csstudypath-url]: https://github.com/ossu/computer-science
 [csstudypath2-url]:https://functionalcs.github.io/curriculum/
+[csstudypath3-url]: http://didawiki.cli.di.unipi.it/doku.php/start
 [csstudypath4-url]:https://github.com/the-akira/Computer-Science-Resources
 [sebok-url]: https://www.sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK)
 [sw-url]: https://en.wikipedia.org/wiki/Software_development
