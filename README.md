@@ -223,19 +223,20 @@ Some of references that I use in my days.
 Some resources to help to developer programs and study.
 
 1. [ASCII Table - USP][asciitable-url]
-2. [Online Compiler - Code Chef][onlinecompiler-url]
-3. [Online SQL Compiler - SQL Fiddle][sqlcompiler-url]
-4. [Diagramming Service - Draw.io][drawio-url]
-5. [API Documentation - Swagger][swagger-url]
-6. [XML Validator - Liquid Technologies][xmlvalidator-url]
-7. [Book Creation for Documentation - GitBook][gitbook-url]
-8. [Interface Design Tool - Figma][figma-url]
-9. [HTML/CSS Developer Tool - CSSDesk][cssdeck-url]
-10. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
-11. [Project Management Tool - Trello][managementtool-url]
-12. [Agile Retrospective Tool - Metro Retro][metroretro-url]
-13. [Online Latex Compiler - Overleaf][latexeditor-url]
-14. [Online Gramatic Corrector - Grammarly][grammarly-url]
+2. [URL Encode - W3Schools][urlencode-url]
+3. [Online Compiler - Code Chef][onlinecompiler-url]
+4. [Online SQL Compiler - SQL Fiddle][sqlcompiler-url]
+5. [Diagramming Service - Draw.io][drawio-url]
+6. [API Documentation - Swagger][swagger-url]
+7. [XML Validator - Liquid Technologies][xmlvalidator-url]
+8. [Book Creation for Documentation - GitBook][gitbook-url]
+9. [Interface Design Tool - Figma][figma-url]
+10. [HTML/CSS Developer Tool - CSSDesk][cssdeck-url]
+11. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
+12. [Project Management Tool - Trello][managementtool-url]
+13. [Agile Retrospective Tool - Metro Retro][metroretro-url]
+14. [Online Latex Compiler - Overleaf][latexeditor-url]
+15. [Online Gramatic Corrector - Grammarly][grammarly-url]
 
 # Contacts <a name="contacts"></a>
 
@@ -334,6 +335,7 @@ Some resources to help to developer programs and study.
 [docker-url]: http://stack.desenvolvedor.expert/appendix/docker/
 [devmap-url]: https://roadmap.sh/roadmaps
 [asciitable-url]: https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html
+[urlencode-url]: https://www.w3schools.com/tags/ref_urlencode.ASP
 [onlinecompiler-url]: https://www.codechef.com/ide
 [sqlcompiler-url]: http://sqlfiddle.com/
 [drawio-url]: https://app.diagrams.net/
