@@ -33,7 +33,7 @@ My name is Vitor Garcia and I'm a Software and Chemical Engineer with dual citiz
 
 I have bachelor's and master's degrees in chemical engineering both concluded in 2014 and 2019 in the institute [Centro Universitário FEI][fei-url] and currently doing a master's degree in software engineering at the [University of Coimbra - Department of Informatics Engineering][coimbra-dei-url], expected to finish at the end of 2023.
 
-In March of 2017, I become a Java software developer in a small company named [Frotelle Alimentos][frotelle-url] and worked until January 2021, after I decided to move from Brazil to Portugal to work as a Software Development Consultant in [Adentis Portugal][adentis-url]
+In January of 2020, I become a Java software developer in a small company named [Frotelle Alimentos][frotelle-url] and worked until December 2020, after I decided to move from Brazil to Portugal to work as a Software Development Consultant in [Adentis Portugal][adentis-url]
 
 Currently working on a system integration project using solutions for the integration layer, with Java 8, WSO2 Platform and MySQL.
 
@@ -45,7 +45,7 @@ Currently working on a system integration project using solutions for the integr
 
 2. [Frotelle Alimentos][frotelle-url]
 
-    - Software Developer (March 2017 - January 2021)
+    - Software Developer (January 2020 - December 2020)
     
       - ERP implementation and test (TOTVS – Winthor Industry Module).
       - [Development of backend e-commerce in Java with PostgreSQL, Spring Boot, Maven and REST.][back-url]
@@ -53,7 +53,7 @@ Currently working on a system integration project using solutions for the integr
       - [Development of Fullstack Delivery APP with Java with Spring in backend, React Native in frontend Mobile.][order-url]
       - [Development of Fullstack Sales Dashboard APP][dsvendas-url]
 
-    - Chemical Engineer (July 2014 - March 2017)
+    - Chemical Engineer (July 2014 - January 2020)
     
         - Supply chain manager.
         - Responsible for calculating all production indicators and product costs.
