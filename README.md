@@ -35,13 +35,14 @@ I have bachelor's and master's degrees in chemical engineering both concluded in
 
 In January of 2020, I become a Java software developer in a small company named [Frotelle Alimentos][frotelle-url] and worked until December 2020, after I decided to move from Brazil to Portugal to work as a Software Development Consultant in [Adentis Portugal][adentis-url]
 
-Currently working on a system integration project using solutions for the integration layer, with Java 8, WSO2 Platform and MySQL.
+Currently working in a project with implementation of Web Services API (SOAP and RESTful) for integration system and services, using SOA Architecture perspective, Java 8, MySQL and Third-Partie Middleware (WSO2 EI).
 
 # Work Experience <a name="workexperience"></a>
 
 1. [Adentis Portugal][adentis-url]
 
     - Software Development Consultant (May 2021 - Until now)
+      - [Implementation of Web Services API (SOAP and RESTful) for internal layer of AMA group, using SOA Architecture perspective, Java 8, Third-Partie Middleware (WSO2 EI) and MySQL.][soa-url]
 
 2. [Frotelle Alimentos][frotelle-url]
 
