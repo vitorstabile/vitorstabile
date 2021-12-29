@@ -48,7 +48,7 @@ Currently working in a project with implementation of Web Services API (SOAP and
 
     - Software Developer (January 2020 - December 2020)
     
-      - ERP implementation and test (TOTVS – Winthor Industry Module).
+      - [ERP implementation and test (TOTVS – Winthor Industry Module).][recipe2-url]
       - [Development of backend e-commerce in Java with PostgreSQL, Spring Boot, Maven and REST.][back-url]
       - [Development of Fullstack Order APP with Java with Spring in backend, ReactJS in frontend web and React Native in frontend Mobile.][order-url]
       - [Development of Fullstack Delivery APP with Java with Spring in backend, React Native in frontend Mobile.][order-url]
@@ -189,14 +189,13 @@ This is just Mockup of the projects because all of them have copyright.
 
 First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of them.
 
-1. [Recipe Calculus - Part I][recipe1-url] Concluded :heavy_check_mark:
-2. [Recipe Calculus - Part II][recipe2-url] Concluded :heavy_check_mark:
-3. [Department/Seller][department-url] Concluded :heavy_check_mark:
-4. [Backend Order][back-url] Concluded :heavy_check_mark:
-5. [Social Post][post-url] Concluded :heavy_check_mark:
-6. [Order/Delivery App][order-url] Concluded :heavy_check_mark:
-7. [Sales Graph][dsvendas-url] Concluded :heavy_check_mark:
-8. [Service-Oriented Architecture Project][soa-url] Concluded :heavy_check_mark:
+1. [Recipe Calculus][recipe2-url] Concluded :heavy_check_mark:
+2. [Department/Seller][department-url] Concluded :heavy_check_mark:
+3. [Backend Order][back-url] Concluded :heavy_check_mark:
+4. [Social Post][post-url] Concluded :heavy_check_mark:
+5. [Order/Delivery App][order-url] Concluded :heavy_check_mark:
+6. [Sales Graph][dsvendas-url] Concluded :heavy_check_mark:
+7. [Service-Oriented Architecture Project][soa-url] Concluded :heavy_check_mark:
 
 ## Software Engineer Master Degree Project <a name="mse"></a>
 
