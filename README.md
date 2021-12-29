@@ -315,7 +315,6 @@ Some resources to help to developer programs and study.
 [master-url]:https://github.com/vitorstabile/matlab-master-degree-projects
 [simple-html-url]: https://github.com/vitorstabile/html-css-project
 [dscatalog-url]: https://github.com/vitorstabile/dscatalog-bootcamp-devsuperior
-[recipe1-url]: https://github.com/vitorstabile/projeto_calculo_receitas_vep
 [recipe2-url]: https://github.com/vitorstabile/projeto_custo_produtos_VEP
 [department-url]: https://github.com/vitorstabile/workshop-javafx-jdbc
 [back-url]: https://github.com/vitorstabile/course-springboot-2-java-11
