@@ -48,11 +48,8 @@ Currently working in a project with implementation of Web Services API (SOAP and
 
     - Software Developer (January 2020 - December 2020)
     
-      - [ERP implementation and test (TOTVS – Winthor Industry Module).][recipe2-url]
-      - [Development of backend e-commerce in Java with PostgreSQL, Spring Boot, Maven and REST.][back-url]
-      - [Development of Fullstack Order APP with Java with Spring in backend, ReactJS in frontend web and React Native in frontend Mobile.][order-url]
-      - [Development of Fullstack Delivery APP with Java with Spring in backend, React Native in frontend Mobile.][order-url]
-      - [Development of Fullstack Sales Dashboard APP][dsvendas-url]
+      - [ERP TOTVS System Implementation][recipe2-url]
+      - Development of FullStack Projects [Backend E-Commerce][back-url], [Order Web App][order-url], [Sales Dashboard App][dsvendas-url], [Movie Catalog App][dsmovie-url]
 
     - Chemical Engineer (July 2014 - January 2020)
     
@@ -195,7 +192,7 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 4. [Social Post][post-url] Concluded :heavy_check_mark:
 5. [Order/Delivery App][order-url] Concluded :heavy_check_mark:
 6. [Sales Graph][dsvendas-url] Concluded :heavy_check_mark:
-7. [Catalog Movies][dsmovie-url] Concluded :heavy_check_mark:
+7. [Movie Catalog][dsmovie-url] Concluded :heavy_check_mark:
 8. [Service-Oriented Architecture Project][soa-url] Concluded :heavy_check_mark:
 
 ## Software Engineer Master Degree Project <a name="mse"></a>
