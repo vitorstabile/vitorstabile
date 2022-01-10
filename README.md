@@ -195,7 +195,8 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 4. [Social Post][post-url] Concluded :heavy_check_mark:
 5. [Order/Delivery App][order-url] Concluded :heavy_check_mark:
 6. [Sales Graph][dsvendas-url] Concluded :heavy_check_mark:
-7. [Service-Oriented Architecture Project][soa-url] Concluded :heavy_check_mark:
+7. [Catalog Movies][dsmovie-url] Concluded :heavy_check_mark:
+8. [Service-Oriented Architecture Project][soa-url] Concluded :heavy_check_mark:
 
 ## Software Engineer Master Degree Project <a name="mse"></a>
 
@@ -319,6 +320,7 @@ Some resources to help to developer programs and study.
 [back-url]: https://github.com/vitorstabile/course-springboot-2-java-11
 [order-url]: https://github.com/vitorstabile/dsdeliver-sds2
 [dsvendas-url]: https://github.com/vitorstabile/dsvendas-sds3
+[dsmovie-url]: https://github.com/vitorstabile/dsmovie
 [soa-url]: https://github.com/vitorstabile/service-oriented-architecture
 [mse-url]: https://github.com/vitorstabile/master-software-engineering
 [csstudypath-url]: https://github.com/ossu/computer-science
