@@ -37,7 +37,7 @@ Experience as a Back-End Java Developer, using Spring Boot as a FrameWork and En
 
 Certification in:
 
-    - [WSO2 Certified Enterprise Integrator 6 Developer ESB Profile][esbwso2certification-url]
+[WSO2 Certified Enterprise Integrator 6 Developer ESB Profile][esbwso2certification-url]
 
 # Work Experience <a name="workexperience"></a>
 
