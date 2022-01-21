@@ -31,11 +31,13 @@
 
 My name is Vitor Garcia and I'm a Software and Chemical Engineer with dual citizen (Italian and Brazilian).
 
-I have bachelor's and master's degrees in chemical engineering both concluded in 2014 and 2019 in the institute [Centro Universitário FEI][fei-url] and currently doing a master's degree in software engineering at the [University of Coimbra - Department of Informatics Engineering][coimbra-dei-url], expected to finish at the end of 2023.
+I have bachelor's and master's degrees in chemical engineering both concluded in 2014 and 2019 in the institute Centro Universitário FEI and currently doing a master's degree in software engineering at the University of Coimbra - Department of Informatics Engineering, expected to finish at the end of 2023.
 
-In January of 2020, I become a Java software developer in a small company named [Frotelle Alimentos][frotelle-url] and worked until December 2020, after I decided to move from Brazil to Portugal to work as a Software Development Consultant in [Adentis Portugal][adentis-url]
+Experience as a Back-End Java Developer, using Spring Boot as a FrameWork and Enterprise Application Integration Developer using Third-Partie Middleware such as WSO2 EI, Java 8, MySQL, and SOA Architecture perspective.
 
-Currently working in a project with implementation of Web Services API (SOAP and RESTful) for integration system and services, using SOA Architecture perspective, Java 8, MySQL and Third-Partie Middleware (WSO2 EI).
+Certification in:
+
+    - [WSO2 Certified Enterprise Integrator 6 Developer ESB Profile][esbwso2certification-url]
 
 # Work Experience <a name="workexperience"></a>
 
@@ -250,6 +252,7 @@ Some resources to help to developer programs and study.
 [portfolio-url]: https://vitorstabile.github.io
 [github-shield]: https://img.shields.io/badge/my-github-green.svg
 [github-url]: https://github.com/vitorstabile
+[esbwso2certification-url]: https://certification.wso2.com/web/certificate/X0Z0R2
 [frotelle-url]:http://frotelle.com.br/
 [adentis-url]: http://www.adentis.pt/
 [fei-url]: https://portal.fei.edu.br/
