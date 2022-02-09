@@ -14,7 +14,7 @@
         - [Web Development](#web)
         - [Backend Frameworks](#backframe)
         - [Frontend Frameworks](#frontframe)
-        - [Project Design](#projectdesign)
+        - [Software Engineering](#softwareengineering)
         - [Shell Script](#shellscript)
         - [Git and GitHub](#git)
         - [LaTeX Templates](#latex)
@@ -140,10 +140,14 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 1. [React JS Framework][reactjs-url] Under Development :warning:
 2. [React Native Framework][reactnative-url] Under Development :warning:
 
-#### <a name="projectdesign"></a> Project Design
+#### <a name="softwareengineering"></a> Software Engineering
 
 1. [Project Design][project-design-url] Concluded :heavy_check_mark:
 2. [Microservices][microservices-url] Concluded :heavy_check_mark:
+3. [Service-Oriented Architecture Project][soa-url] Concluded :heavy_check_mark:
+4. [Models of Software Systems][models-url] Concluded :heavy_check_mark:
+5. [Requirements Engineering][req-url] Concluded :heavy_check_mark:
+6. [Managing Software Development][msd-url] Concluded :heavy_check_mark:
 
 #### <a name="shellscript"></a> Shell Script
 
@@ -298,6 +302,10 @@ Some resources to help to developer programs and study.
 [reactnative-url]: https://github.com/vitorstabile/react-native-basics
 [project-design-url]: https://github.com/vitorstabile/projects-design-basics
 [microservices-url]: https://github.com/vitorstabile/microservices-basics
+[soa-url]: https://github.com/vitorstabile/service-oriented-architecture
+[models-url]: 
+[req-url]: 
+[msd-url]:
 [shell-script-url]: https://github.com/vitorstabile/shell-script-basics
 [bash-url]: https://github.com/vitorstabile/bash-basics
 [powershell-url]: https://github.com/vitorstabile/powershell-basics
@@ -324,7 +332,6 @@ Some resources to help to developer programs and study.
 [order-url]: https://github.com/vitorstabile/dsdeliver-sds2
 [dsvendas-url]: https://github.com/vitorstabile/dsvendas-sds3
 [dsmovie-url]: https://github.com/vitorstabile/dsmovie
-[soa-url]: https://github.com/vitorstabile/service-oriented-architecture
 [mse-url]: https://github.com/vitorstabile/master-software-engineering
 [csstudypath-url]: https://github.com/ossu/computer-science
 [csstudypath2-url]:https://functionalcs.github.io/curriculum/
