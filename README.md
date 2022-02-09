@@ -144,7 +144,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 1. [Project Design][project-design-url] Concluded :heavy_check_mark:
 2. [Microservices][microservices-url] Concluded :heavy_check_mark:
-3. [Service-Oriented Architecture Project][soa-url] Concluded :heavy_check_mark:
+3. [Service-Oriented Architecture][soa-url] Concluded :heavy_check_mark:
 4. [Models of Software Systems][models-url] Concluded :heavy_check_mark:
 5. [Requirements Engineering][req-url] Concluded :heavy_check_mark:
 6. [Managing Software Development][msd-url] Concluded :heavy_check_mark:
