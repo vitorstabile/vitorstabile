@@ -303,9 +303,9 @@ Some resources to help to developer programs and study.
 [project-design-url]: https://github.com/vitorstabile/projects-design-basics
 [microservices-url]: https://github.com/vitorstabile/microservices-basics
 [soa-url]: https://github.com/vitorstabile/service-oriented-architecture
-[models-url]: 
-[req-url]: 
-[msd-url]:
+[models-url]: https://github.com/vitorstabile/models-of-software-systems
+[req-url]: https://github.com/vitorstabile/requirements-engineering
+[msd-url]: https://github.com/vitorstabile/managing-software-development
 [shell-script-url]: https://github.com/vitorstabile/shell-script-basics
 [bash-url]: https://github.com/vitorstabile/bash-basics
 [powershell-url]: https://github.com/vitorstabile/powershell-basics
