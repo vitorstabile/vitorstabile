@@ -42,7 +42,8 @@ Certification in:
 
 1. [Adentis Portugal][adentis-url]
 
-    - Software Development Consultant (May 2021 - Until now)
+    - Software Developer (May 2021 - Until now)
+
       - [Implementation of Web Services API (SOAP and RESTful) for internal layer of AMA group, using SOA Architecture perspective, Java 8, Third-Partie Middleware (WSO2 EI) and MySQL.][soa-url]
 
 2. [Frotelle Alimentos][frotelle-url]
