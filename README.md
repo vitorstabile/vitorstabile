@@ -20,8 +20,7 @@
         - [LaTeX Templates](#latex)
         - [Interview Tests and Exercises](#interviews)
      - [Personal Projects](#personal)
-     - [Work Project](#work)
-     - [Software Engineer Master Degree Project](#mse)
+     - [Work Projects](#work)
      - [Bibliography's](#biblio)
      - [Resources](#resour)
 
@@ -203,10 +202,6 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 7. [Movie Catalog][dsmovie-url] Concluded :heavy_check_mark:
 8. [Service-Oriented Architecture Project][soa-url] Concluded :heavy_check_mark:
 
-## Software Engineer Master Degree Project <a name="mse"></a>
-
-[Software Engineer Master Degree Project][mse-url] Under Development :warning:
-
 ## Bibliography's <a name="biblio"></a>
 
 Some of references that I use in my days.
@@ -332,7 +327,6 @@ Some resources to help to developer programs and study.
 [order-url]: https://github.com/vitorstabile/dsdeliver-sds2
 [dsvendas-url]: https://github.com/vitorstabile/dsvendas-sds3
 [dsmovie-url]: https://github.com/vitorstabile/dsmovie
-[mse-url]: https://github.com/vitorstabile/master-software-engineering
 [csstudypath-url]: https://github.com/ossu/computer-science
 [csstudypath2-url]:https://functionalcs.github.io/curriculum/
 [csstudypath3-url]: http://didawiki.cli.di.unipi.it/doku.php/start
