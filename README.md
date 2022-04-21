@@ -110,12 +110,11 @@ This Projects have the aim to create simple tutorials and basics about logic pro
     - [Object Oriented Programming with Java][oop-java-url] Under Development :warning:
     - [Object Oriented Programming with Python][oop-python-url] Under Development :warning:
     - [Object Oriented Programming with JavaScript][oop-javascript-url] Under Development :warning:
-    - [Object Oriented Programming with TypeScript][oop-typescript-url] Under Development :warning:
 
 #### <a name="relational"></a> Relational Database
 
 1. [Relational Database][relational-database-url] Under Development :warning:
-    - [Relational Database with MySQL][mysql-url] Under Development :warning:
+    - [Relational Database with MySQL][mysql-url] Concluded :heavy_check_mark:
     - [Relational Database with PostgreSQL][postgressql-url] Under Development :warning:
 
 #### <a name="web"></a> Web Development
@@ -128,7 +127,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="backframe"></a> Backend Frameworks
 
 1. [Java with JDBC and MySQL][jdbc-url] Concluded :heavy_check_mark:
-2. [Spring Boot Framework][sts-url] Under Development :warning:
+2. [Spring Boot Framework][sts-url] Concluded :heavy_check_mark:
 3. [Quarkus Framework][quarkus-url] Under Development :warning:
 
 #### <a name="frontframe"></a> Frontend Frameworks
@@ -275,7 +274,6 @@ Some resources to help to developer programs and study.
 [oop-java-url]: https://github.com/vitorstabile/oop-with-java-basics
 [oop-python-url]: https://github.com/vitorstabile/oop-with-python-basics
 [oop-javascript-url]: https://github.com/vitorstabile/oop-with-javascript-basics
-[oop-typescript-url]: https://github.com/vitorstabile/oop-with-typescript-basics
 [relational-database-url]: https://github.com/vitorstabile/relational-database-basics
 [mysql-url]: https://github.com/vitorstabile/mysql-basics
 [postgressql-url]: https://github.com/vitorstabile/postgresql-basics
