@@ -83,13 +83,13 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="logicprogramming"></a> Logic Programming
 
-1. [Logic Programming][logic-project-url] Under Development :heavy_check_mark:
-    - [Logic Programming with C][c-logic-url] Under Development :heavy_check_mark:
-    - [Logic Programming with C++][cpp-logic-url] Under Development :heavy_check_mark:
-    - [Logic Programming with C#][csharp-logic-url] Under Development :heavy_check_mark:
-    - [Logic Programming with Java][java-logic-url] Under Development :heavy_check_mark:
-    - [Logic Programming with Python][python-logic-url] Under Development :heavy_check_mark:
-    - [Logic Programming with JavaScript][javascript-logic-url] Under Development :heavy_check_mark:
+1. [Logic Programming][logic-project-url] Concluded :heavy_check_mark:
+    - [Logic Programming with C][c-logic-url] Concluded :heavy_check_mark:
+    - [Logic Programming with C++][cpp-logic-url] Concluded :heavy_check_mark:
+    - [Logic Programming with C#][csharp-logic-url] Concluded :heavy_check_mark:
+    - [Logic Programming with Java][java-logic-url] Concluded :heavy_check_mark:
+    - [Logic Programming with Python][python-logic-url] Concluded :heavy_check_mark:
+    - [Logic Programming with JavaScript][javascript-logic-url] Concluded :heavy_check_mark:
 
 #### <a name="algorithms"></a> Algorithms
 
