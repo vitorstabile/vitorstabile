@@ -268,10 +268,6 @@ Some resources to help to developer programs and study.
 [java-logic-url]: https://github.com/vitorstabile/logic-programming-with-java-basics
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-with-python-basics
 [javascript-logic-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics
-[php-logic-url]: https://github.com/vitorstabile/logic-programming-with-php-basics
-[typescript-logic-url]: https://github.com/vitorstabile/logic-programming-with-typescript-basics
-[matlab-logic-url]: https://github.com/vitorstabile/logic-programming-with-matlab-basics
-[r-logic-url]: https://github.com/vitorstabile/logic-programming-with-r-basics
 [algorithms-url]: https://github.com/vitorstabile/algorithms-basics
 [algorithms-java-url]: https://github.com/vitorstabile/algorithms-with-java-basics
 [algorithms-python-url]: https://github.com/vitorstabile/algorithms-with-python-basics
