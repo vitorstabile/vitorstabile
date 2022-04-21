@@ -179,7 +179,6 @@ First, check my [![Portfolio][portfolio-shield]][portfolio-url] with some of the
 6. [BMI Calculator][bmi-url] Concluded :heavy_check_mark:
 7. [Todo list][todo-url] Concluded :heavy_check_mark:
 8. [MATLAB Master’s Degree Projects][master-url] Concluded :heavy_check_mark:
-9. [Product Catalog][dscatalog-url] Under Development :warning:
 
 ## Work Projects <a name="work"></a>
 
@@ -311,7 +310,6 @@ Some resources to help to developer programs and study.
 [todo-url]: https://github.com/vitorstabile/todo-list-javascript-project
 [master-url]:https://github.com/vitorstabile/matlab-master-degree-projects
 [simple-html-url]: https://github.com/vitorstabile/html-css-project
-[dscatalog-url]: https://github.com/vitorstabile/dscatalog-bootcamp-devsuperior
 [recipe2-url]: https://github.com/vitorstabile/projeto_custo_produtos_VEP
 [department-url]: https://github.com/vitorstabile/workshop-javafx-jdbc
 [back-url]: https://github.com/vitorstabile/course-springboot-2-java-11
