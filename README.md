@@ -143,6 +143,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 4. [Models of Software Systems][models-url] Concluded :heavy_check_mark:
 5. [Requirements Engineering][req-url] Concluded :heavy_check_mark:
 6. [Managing Software Development][msd-url] Concluded :heavy_check_mark:
+7. [Software Architecture][sa-url]
 
 #### <a name="shellscript"></a> Shell Script
 
@@ -292,6 +293,7 @@ Some resources to help to developer programs and study.
 [models-url]: https://github.com/vitorstabile/models-of-software-systems
 [req-url]: https://github.com/vitorstabile/requirements-engineering
 [msd-url]: https://github.com/vitorstabile/managing-software-development
+[sa-url]: https://github.com/vitorstabile/software-architecture
 [shell-script-url]: https://github.com/vitorstabile/shell-script-basics
 [bash-url]: https://github.com/vitorstabile/bash-basics
 [powershell-url]: https://github.com/vitorstabile/powershell-basics
