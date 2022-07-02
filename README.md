@@ -295,7 +295,7 @@ Some resources to help to developer programs and study.
 [req-url]: https://github.com/vitorstabile/requirements-engineering
 [msd-url]: https://github.com/vitorstabile/managing-software-development
 [sa-url]: https://github.com/vitorstabile/software-architecture
-[qa-url]: 
+[qa-url]: https://github.com/vitorstabile/software-quality
 [shell-script-url]: https://github.com/vitorstabile/shell-script-basics
 [bash-url]: https://github.com/vitorstabile/bash-basics
 [powershell-url]: https://github.com/vitorstabile/powershell-basics
