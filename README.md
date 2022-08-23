@@ -88,8 +88,6 @@ This Projects have the aim to create simple tutorials and basics about logic pro
     - [Python][python-logic-url] Under Development :warning:
     - [JavaScript][javascript-logic-url] Under Development :warning:
 
-    - [Object Oriented Programming with Java][oop-java-url] Under Development :warning:
-
 #### <a name="relational"></a> Relational Database
 
 1. [Relational Database][relational-database-url] Concluded :heavy_check_mark:
@@ -243,7 +241,6 @@ Some resources to help to developer programs and study.
 [java-logic-url]: https://github.com/vitorstabile/logic-programming-with-java-basics
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-with-python-basics
 [javascript-logic-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics
-[oop-java-url]: https://github.com/vitorstabile/oop-with-java-basics
 [relational-database-url]: https://github.com/vitorstabile/relational-database-basics
 [mysql-url]: https://github.com/vitorstabile/mysql-basics
 [postgressql-url]: https://github.com/vitorstabile/postgresql-basics
