@@ -128,7 +128,6 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 1. [Java with JDBC and MySQL][jdbc-url] Concluded :heavy_check_mark:
 2. [Spring Boot Framework][sts-url] Concluded :heavy_check_mark:
-3. [Quarkus Framework][quarkus-url] Under Development :warning:
 
 #### <a name="frontframe"></a> Frontend Frameworks
 
@@ -285,7 +284,6 @@ Some resources to help to developer programs and study.
 [javascript-client-url]: https://github.com/vitorstabile/javascript-client-side-basics
 [jdbc-url]: https://github.com/vitorstabile/java-jdbc-dao-basics
 [sts-url]: https://github.com/vitorstabile/spring-boot-basics
-[quarkus-url]: https://github.com/vitorstabile/quarkus-basics
 [reactjs-url]: https://github.com/vitorstabile/reactjs-basics
 [reactnative-url]: https://github.com/vitorstabile/react-native-basics
 [project-design-url]: https://github.com/vitorstabile/projects-design-basics
