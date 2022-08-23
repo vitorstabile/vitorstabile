@@ -82,20 +82,17 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 1. [Logic Programming][logic-project-url] Concluded :heavy_check_mark:
     - [C][c-logic-url] Concluded :heavy_check_mark:
-    - [C++][cpp-logic-url] Concluded :heavy_check_mark:
-    - [C#][csharp-logic-url] Concluded :heavy_check_mark:
-    - [Java][java-logic-url] Concluded :heavy_check_mark:
-    - [Python][python-logic-url] Concluded :heavy_check_mark:
-    - [JavaScript][javascript-logic-url] Concluded :heavy_check_mark:
+    - [C++][cpp-logic-url] Under Development :warning:
+    - [C#][csharp-logic-url] Under Development :warning:
+    - [Java][java-logic-url] Under Development :warning:
+    - [Python][python-logic-url] Under Development :warning:
+    - [JavaScript][javascript-logic-url] Under Development :warning:
 
-    - [Object Oriented Programming with C#][oop-csharp-url] Under Development :warning:
     - [Object Oriented Programming with Java][oop-java-url] Under Development :warning:
-    - [Object Oriented Programming with Python][oop-python-url] Under Development :warning:
-    - [Object Oriented Programming with JavaScript][oop-javascript-url] Under Development :warning:
 
 #### <a name="relational"></a> Relational Database
 
-1. [Relational Database][relational-database-url] Under Development :warning:
+1. [Relational Database][relational-database-url] Concluded :heavy_check_mark:
     - [Relational Database with MySQL][mysql-url] Concluded :heavy_check_mark:
     - [Relational Database with PostgreSQL][postgressql-url] Under Development :warning:
 
@@ -246,11 +243,7 @@ Some resources to help to developer programs and study.
 [java-logic-url]: https://github.com/vitorstabile/logic-programming-with-java-basics
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-with-python-basics
 [javascript-logic-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics
-[oop-url]: https://github.com/vitorstabile/oop-basics
-[oop-csharp-url]: https://github.com/vitorstabile/oop-with-csharp-basics
 [oop-java-url]: https://github.com/vitorstabile/oop-with-java-basics
-[oop-python-url]: https://github.com/vitorstabile/oop-with-python-basics
-[oop-javascript-url]: https://github.com/vitorstabile/oop-with-javascript-basics
 [relational-database-url]: https://github.com/vitorstabile/relational-database-basics
 [mysql-url]: https://github.com/vitorstabile/mysql-basics
 [postgressql-url]: https://github.com/vitorstabile/postgresql-basics
