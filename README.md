@@ -7,7 +7,6 @@
 3. [Projects](#projects)
     - [Tutorial Projects](#tutorials)
         - [Logic Programming](#logicprogramming)
-        - [Object Oriented Programming](#oop)
         - [Relational Data Base](#relational)
         - [Web Development](#web)
         - [Backend Frameworks](#backframe)
@@ -82,16 +81,13 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="logicprogramming"></a> Logic Programming
 
 1. [Logic Programming][logic-project-url] Concluded :heavy_check_mark:
-    - [Logic Programming with C][c-logic-url] Concluded :heavy_check_mark:
-    - [Logic Programming with C++][cpp-logic-url] Concluded :heavy_check_mark:
-    - [Logic Programming with C#][csharp-logic-url] Concluded :heavy_check_mark:
-    - [Logic Programming with Java][java-logic-url] Concluded :heavy_check_mark:
-    - [Logic Programming with Python][python-logic-url] Concluded :heavy_check_mark:
-    - [Logic Programming with JavaScript][javascript-logic-url] Concluded :heavy_check_mark:
+    - [C][c-logic-url] Concluded :heavy_check_mark:
+    - [C++][cpp-logic-url] Concluded :heavy_check_mark:
+    - [C#][csharp-logic-url] Concluded :heavy_check_mark:
+    - [Java][java-logic-url] Concluded :heavy_check_mark:
+    - [Python][python-logic-url] Concluded :heavy_check_mark:
+    - [JavaScript][javascript-logic-url] Concluded :heavy_check_mark:
 
-#### <a name="oop"></a> Object Oriented Programming
-
-1. [Object Oriented Programming][oop-url] Under Development :warning:
     - [Object Oriented Programming with C#][oop-csharp-url] Under Development :warning:
     - [Object Oriented Programming with Java][oop-java-url] Under Development :warning:
     - [Object Oriented Programming with Python][oop-python-url] Under Development :warning:
