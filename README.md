@@ -7,8 +7,6 @@
 3. [Projects](#projects)
     - [Tutorial Projects](#tutorials)
         - [Logic Programming](#logicprogramming)
-        - [Algorithms](#algorithms)
-        - [Data Structure](#datastructure)
         - [Object Oriented Programming](#oop)
         - [Relational Data Base](#relational)
         - [Web Development](#web)
@@ -90,18 +88,6 @@ This Projects have the aim to create simple tutorials and basics about logic pro
     - [Logic Programming with Java][java-logic-url] Concluded :heavy_check_mark:
     - [Logic Programming with Python][python-logic-url] Concluded :heavy_check_mark:
     - [Logic Programming with JavaScript][javascript-logic-url] Concluded :heavy_check_mark:
-
-#### <a name="algorithms"></a> Algorithms
-
-1. [Algorithms][algorithms-url] Under Development :warning:
-    - [Algorithms with Java][algorithms-java-url] Under Development :warning:
-    - [Algorithms with Python][algorithms-python-url] Under Development :warning:
-
-#### <a name="datastructure"></a> Data Structure
-
-1. [Data Structure][data-structure-url] Under Development :warning:
-    - [Data Structure with Java][data-structure-java-url] Under Development :warning:
-    - [Data Structure with Python][data-structure-python-url] Under Development :warning:
 
 #### <a name="oop"></a> Object Oriented Programming
 
@@ -264,12 +250,6 @@ Some resources to help to developer programs and study.
 [java-logic-url]: https://github.com/vitorstabile/logic-programming-with-java-basics
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-with-python-basics
 [javascript-logic-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics
-[algorithms-url]: https://github.com/vitorstabile/algorithms-basics
-[algorithms-java-url]: https://github.com/vitorstabile/algorithms-with-java-basics
-[algorithms-python-url]: https://github.com/vitorstabile/algorithms-with-python-basics
-[data-structure-url]: https://github.com/vitorstabile/data-structure-basics
-[data-structure-java-url]: https://github.com/vitorstabile/data-structure-with-java-basics
-[data-structure-python-url]: https://github.com/vitorstabile/data-structure-with-python-basics
 [oop-url]: https://github.com/vitorstabile/oop-basics
 [oop-csharp-url]: https://github.com/vitorstabile/oop-with-csharp-basics
 [oop-java-url]: https://github.com/vitorstabile/oop-with-java-basics
