@@ -212,7 +212,7 @@ Some resources to help to developer programs and study.
 14. [Online Latex Compiler - Overleaf][latexeditor-url]
 15. [Online Gramatic Corrector - Grammarly][grammarly-url]
 16. [Mock Request Creator - Mocky][mockio-url]
-17. [Net Pay Calculator][relocate-url]
+17. [Net Pay Calculator - Relocate][relocate-url]
 
 # Contacts <a name="contacts"></a>
 
