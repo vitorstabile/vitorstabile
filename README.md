@@ -42,7 +42,7 @@ Certification in:
     - Software Developer (May 2021 - Until now)
 
       - [Implementation of Web Services API (SOAP and RESTful) for internal layer of AMA group, using SOA Architecture perspective, Java 8, Third-Partie Middleware (WSO2 EI) and MySQL.][soa-url]
-        - **Technologies**: Java EE 8, Maven, MySQL Database, MySQL WorkBench, JavaScript, XML, HTML, XSD,  XLS/XLST, WSDL, XPath,  Xquery, JSON,  ShellScript, WebServices (SOAP and REST)
+        - **Technologies**: Java EE 8, Maven, MySQL Database, MySQL WorkBench, JavaScript, XML, HTML, XSD,  XLS/XLST, WSDL, XPath,  Xquery, JSON, GraphQL, ShellScript, WebServices (SOAP and REST)
         - **Tools**: Middleware WSO2 EI, Message Queues (WSO2 Broker), Event Driven System (WSO2 Streaming Integrator), CentOS, Jira, SoapUI, Postman, Git, GitLab, Docker, Putty, FileZila, Slack, Eclipse, VisualVM
         - **Methodologies**: Scrum, SOA Architecture perspective, Event-Driven Architecture perspective
 
@@ -52,7 +52,7 @@ Certification in:
     
       - [ERP TOTVS System Implementation][recipe2-url]
       - Development of FullStack Projects [Backend E-Commerce][back-url], [Order Web App][order-url], [Sales Dashboard App][dsvendas-url], [Movie Catalog App][dsmovie-url]
-        - **Technologies**: Java SE 11, H2 Database, PostgreSQL Database, MySQL Database, MySQL WorkBench, ReactJS, React Native, WebServices (SOAP and REST)
+        - **Technologies**: Java SE 11, H2 Database, PostgreSQL Database, MySQL Database, MySQL WorkBench, ReactJS, React Native, JSON, WebServices (SOAP and REST)
         - **Tools**: Spring Boot, Postman, Git, GitHub and Eclipse, 
         - **Methodologies**: Waterfall, Layered architecture perspective
 
