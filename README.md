@@ -43,7 +43,7 @@ Certification in:
 
       - [Implementation of Web Services API (SOAP and RESTful) for internal layer of AMA group, using SOA Architecture perspective, Java 8, Third-Partie Middleware (WSO2 EI) and MySQL.][soa-url]
         - **Technologies**: Java EE 8, Maven, MySQL Database, MySQL WorkBench, JavaScript, XML, HTML, XSD,  XLS/XLST, WSDL, XPath, JSON, GraphQL, ShellScript, WebServices (SOAP and REST)
-        - **Tools**: Middleware WSO2 EI, Message Queues (WSO2 Broker), Event Driven System (WSO2 Streaming Integrator), CentOS, Jira, SoapUI, Postman, Git, GitLab, Docker, Putty, FileZila, Slack, Eclipse
+        - **Tools**: Integration Framework (WSO2 EI), Message Queues (WSO2 Broker), Event Driven System (WSO2 Streaming Integrator), Analytics & Monitoring (Grafana), Server SO (CentOS), Issue & Project Tracking (Jira), API Testing (SoapUI and Postman), Version Control System (Git and GitLab), Container-based Virtualization (Docker), Terminal Emulator (Putty), FTP, SFTP and FTPS Client (FileZila), Communication (Slack), Development IDE (Eclipse and Notepad++)
         - **Methodologies**: Scrum, SOA Architecture perspective, Event-Driven Architecture perspective
 
 2. [Frotelle Alimentos][frotelle-url]
