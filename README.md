@@ -52,7 +52,7 @@ Certification in:
     
       - [ERP TOTVS System Implementation][recipe2-url]
       - Development of FullStack Projects [Backend E-Commerce][back-url], [Order Web App][order-url], [Sales Dashboard App][dsvendas-url], [Movie Catalog App][dsmovie-url]
-        - **Technologies**: Java EE 11, H2 Database, PostgreSQL Database, MySQL Database, JavaScript, XML, HTML, CSS, Excel, JSON, WebServices (SOAP and REST)
+        - **Technologies**: Java EE 11, H2 Database, PostgreSQL Database, MySQL Database, JavaScript, XML, HTML, CSS, Excel, JSON, WebServices (REST)
         - **Tools**: Backend Framework (Spring Boot), Frontend Frameworks (ReactJS and React Native), Java Package Build Tool (Maven), Database Visual Tool (MySQL WorkBench), Java Package Build Tool (Maven), API Testing (Postman), Version Control System (Git and GitLab) and Development IDE (Eclipse, Notepad++ and Visual Studio Code) 
         - **Methodologies**: Waterfall, Layered architecture perspective
 
