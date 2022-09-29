@@ -42,8 +42,8 @@ Certification in:
     - Software Developer (May 2021 - Until now)
 
       - [Implementation of Web Services API (SOAP and RESTful) for internal layer of AMA group, using SOA Architecture perspective, Java 8, Third-Partie Middleware (WSO2 EI) and MySQL.][soa-url]
-        - **Technologies**: Java EE 8, Maven, MySQL Database, MySQL WorkBench, JavaScript, XML, HTML, XSD,  XLS/XLST, WSDL, XPath, JSON, GraphQL, ShellScript, WebServices (SOAP and REST)
-        - **Tools**: Integration Framework (WSO2 EI), Message Queues (WSO2 Broker), Event-Driven System (WSO2 Streaming Integrator), Analytics & Monitoring (Grafana), Server SO (CentOS), Issue & Project Tracking (Jira), API Testing (SoapUI and Postman), Version Control System (Git and GitLab), Container-based Virtualization (Docker), Terminal Emulator (Putty), FTP, SFTP and FTPS Client (FileZilla), Communication (Slack), Development IDE (Eclipse and Notepad++)
+        - **Technologies**: Java EE 8, MySQL Database, JavaScript, XML, HTML, XSD,  XLS/XLST, WSDL, XPath, JSON, GraphQL, ShellScript, WebServices (SOAP and REST)
+        - **Tools**: Integration Framework (WSO2 EI), Message Queues (WSO2 Broker), Event-Driven System (WSO2 Streaming Integrator), Java Package Build Tool (Maven), Database Visual Tool (MySQL WorkBench), Analytics & Monitoring (Grafana), Server SO (CentOS), Issue & Project Tracking (Jira), API Testing (SoapUI and Postman), Version Control System (Git and GitLab), Container-based Virtualization (Docker), Terminal Emulator (Putty), FTP, SFTP and FTPS Client (FileZilla), Communication (Slack), Development IDE (Eclipse and Notepad++)
         - **Methodologies**: Scrum, SOA Architecture perspective, Event-Driven Architecture perspective
 
 2. [Frotelle Alimentos][frotelle-url]
@@ -52,8 +52,8 @@ Certification in:
     
       - [ERP TOTVS System Implementation][recipe2-url]
       - Development of FullStack Projects [Backend E-Commerce][back-url], [Order Web App][order-url], [Sales Dashboard App][dsvendas-url], [Movie Catalog App][dsmovie-url]
-        - **Technologies**: Java SE 11, H2 Database, PostgreSQL Database, MySQL Database, MySQL WorkBench, JavaScript, XML, HTML, CSS, Excel, JSON, WebServices (SOAP and REST)
-        - **Tools**: Backend Framework (Spring Boot), Frontend Frameworks (ReactJS and React Native) API Testing (Postman), Version Control System (Git and GitLab) and Development IDE (Eclipse, Notepad++ and Visual Studio Code) 
+        - **Technologies**: Java EE 11, H2 Database, PostgreSQL Database, MySQL Database, JavaScript, XML, HTML, CSS, Excel, JSON, WebServices (SOAP and REST)
+        - **Tools**: Backend Framework (Spring Boot), Frontend Frameworks (ReactJS and React Native), Java Package Build Tool (Maven), Database Visual Tool (MySQL WorkBench), Java Package Build Tool (Maven), API Testing (Postman), Version Control System (Git and GitLab) and Development IDE (Eclipse, Notepad++ and Visual Studio Code) 
         - **Methodologies**: Waterfall, Layered architecture perspective
 
 3. [Festpan Alimentos][festpan-url]
