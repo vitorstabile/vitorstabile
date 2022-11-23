@@ -29,7 +29,7 @@ My name is Vitor Garcia and I'm a Software and Chemical Engineer with dual citiz
 
 I have bachelor's and master's degrees in chemical engineering both concluded in 2014 and 2019 in the institute Centro Universitário FEI and currently doing a master's degree in software engineering at the University of Coimbra - Department of Informatics Engineering, expected to finish at the end of 2023.
 
-Experience as a Java Developer, using Spring Boot as a FrameWork and Integration Developer using Third-Partie Middleware such as WSO2 EI and WSO2 SI, Java 8, MySQL, Message Queues (WSO2 Broker) and SOA and Event-Driven Architecture perspective.
+Experience as a Java Developer and Integration Developer, using Spring Boot as a Backend Framework, Apache Camel, WSO2 EI and WSO2 SI as a Integration Framework, MySQL and PostgreSQL as Database, Message Queues (WSO2 Broker and RabbitMQ) and SOA and Event-Driven Architecture perspective.
 
 Certification in:
 
@@ -37,16 +37,20 @@ Certification in:
 
 # Work Experience <a name="workexperience"></a>
 
-1. [Adentis Portugal][adentis-url]
+1. [Farfetch Platform Solution][farfetch-url]
 
-    - Software Developer (May 2021 - Until now)
+    - Integrations Engineer (November 2022 - Until now)
+
+2. [Adentis Portugal][adentis-url]
+
+    - Software Developer (May 2021 - November 2022)
 
       - [Implementation of Web Services API (SOAP and RESTful) for internal layer of AMA group, using SOA Architecture perspective, Java 8, Third-Partie Middleware (WSO2 EI) and MySQL.][soa-url]
         - **Technologies**: Java EE 8, MySQL Database, JavaScript, XML, HTML, XSD,  XLS/XLST, WSDL, XPath, JSON, GraphQL, ShellScript, WebServices (SOAP and REST)
         - **Tools**: Integration Framework (WSO2 EI), Message Queues (WSO2 Broker), Event-Driven System (WSO2 Streaming Integrator), Java Package Build Tool (Maven), Database Visual Tool (MySQL WorkBench), Analytics & Monitoring (Grafana), Server SO (CentOS), Issue & Project Tracking (Jira), API Testing (SoapUI and Postman), Version Control System (Git and GitLab), Container-based Virtualization (Docker), Terminal Emulator (Putty), FTP, SFTP and FTPS Client (FileZilla), Communication (Slack), Development IDE (Eclipse and Notepad++)
         - **Methodologies**: Scrum, SOA Architecture perspective, Event-Driven Architecture perspective
 
-2. [Frotelle Alimentos][frotelle-url]
+3. [Frotelle Alimentos][frotelle-url]
 
     - Software Developer (January 2020 - December 2020)
     
@@ -56,7 +60,7 @@ Certification in:
         - **Tools**: Backend Framework (Spring Boot), Frontend Frameworks (ReactJS and React Native), Java Package Build Tool (Maven), Database Visual Tool (MySQL WorkBench), Java Package Build Tool (Maven), API Testing (Postman), Version Control System (Git and GitLab) and Development IDE (Eclipse, Notepad++ and Visual Studio Code) 
         - **Methodologies**: Waterfall, Layered architecture perspective
 
-3. [Festpan Alimentos][festpan-url]
+4. [Festpan Alimentos][festpan-url]
 
     - Chemical Engineer (July 2014 - January 2020)
     
@@ -66,7 +70,7 @@ Certification in:
         - Creation of new recipes for enriching wheat flour with additives such as enzymes and emulsifiers.
         - Creation of cardboard packaging with CAD/CAM software.
 
-4. [Vigor Alimentos][vigor-url]
+5. [Vigor Alimentos][vigor-url]
 
     - Process Engineering Intern (May 2013 - December 2013)
     
@@ -238,6 +242,7 @@ Some resources to help to developer programs and study.
 [esbwso2certification-url]: https://certification.wso2.com/web/certificate/X0Z0R2
 [frotelle-url]: http://frotelle.com.br/
 [festpan-url]: https://festpan.com.br/
+[farfetch-url]: https://www.farfetchplatformsolutions.com/
 [adentis-url]: http://www.adentis.pt/
 [fei-url]: https://portal.fei.edu.br/
 [coimbra-dei-url]: https://www.uc.pt/en/fctuc/dei
