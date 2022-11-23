@@ -92,10 +92,10 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 1. [Logic Programming][logic-project-url] Concluded :heavy_check_mark:
     - [C][c-logic-url] Concluded :heavy_check_mark:
-    - [C++][cpp-logic-url] Under Development :warning:
-    - [C#][csharp-logic-url] Under Development :warning:
-    - [Java][java-logic-url] Under Development :warning:
-    - [Python][python-logic-url] Under Development :warning:
+    - [C++][cpp-logic-url] Concluded :heavy_check_mark:
+    - [C#][csharp-logic-url] Concluded :heavy_check_mark::
+    - [Java][java-logic-url] Concluded :heavy_check_mark:
+    - [Python][python-logic-url] Concluded :heavy_check_mark:
     - [JavaScript][javascript-logic-url] Under Development :warning:
 
 #### <a name="relational"></a> Relational Database
@@ -115,7 +115,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 1. [Java with JDBC and MySQL][jdbc-url] Concluded :heavy_check_mark:
 2. [Spring Boot Framework][sts-url] Concluded :heavy_check_mark:
-3. [Apache Camel Framework][camel-url] Concluded :heavy_check_mark:
+3. [Apache Camel Framework][camel-url] Under Development :warning:
 
 #### <a name="frontframe"></a> Frontend Frameworks
 
