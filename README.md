@@ -29,7 +29,7 @@ My name is Vitor Garcia and I'm a Software and Chemical Engineer with dual citiz
 
 I have bachelor's and master's degrees in chemical engineering both concluded in 2014 and 2019 in the institute Centro Universitário FEI and a master's degree in software engineering at the University of Coimbra - Department of Informatics Engineering, concluded in 2023
 
-Experience as a Java Developer and Integration Developer, using Spring Boot as a Backend Framework, Apache Camel, WSO2 EI and WSO2 SI as a Integration Framework, MySQL and PostgreSQL as Database, Message Queues (WSO2 Broker and RabbitMQ) and SOA and Event-Driven Architecture perspective.
+I have four-year experience as a Software Engineer, and I had the opportunity to designing, building, testing, and maintaining various back-end and integration projects during my carrier. I have already worked with Spring Framework, Spring Boot, Apache Camel, WSO2 EI, WSO2 SI, and I have experience in architectures like layered, Service Oriented Architecture (SOA), Event-Driven, and Microservices.
 
 Certification in:
 
