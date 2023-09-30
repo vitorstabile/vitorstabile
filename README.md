@@ -27,7 +27,7 @@
 
 My name is Vitor Garcia and I'm a Software and Chemical Engineer with dual citizen (Italian and Brazilian).
 
-I have bachelor's and master's degrees in chemical engineering both concluded in 2014 and 2019 in the institute Centro Universitário FEI and currently doing a master's degree in software engineering at the University of Coimbra - Department of Informatics Engineering, expected to finish at the end of 2023.
+I have bachelor's and master's degrees in chemical engineering both concluded in 2014 and 2019 in the institute Centro Universitário FEI and a master's degree in software engineering at the University of Coimbra - Department of Informatics Engineering, concluded in 2023
 
 Experience as a Java Developer and Integration Developer, using Spring Boot as a Backend Framework, Apache Camel, WSO2 EI and WSO2 SI as a Integration Framework, MySQL and PostgreSQL as Database, Message Queues (WSO2 Broker and RabbitMQ) and SOA and Event-Driven Architecture perspective.
 
@@ -40,6 +40,11 @@ Certification in:
 1. [Farfetch Platform Solution][farfetch-url]
 
     - Integrations Engineer (November 2022 - Until now)
+  
+    - Responsible for designing, building, testing, and maintaining services of Farfetch Platform Solution (FPS).
+    - **Technologies**: Java EE 8 and 17, PostgreSQL Database, JSON, ShellScript, WebServices (SOAP and REST)
+    - **Tools**: Backend Framework (Spring Framework and Spring Boot), Integration Framework (Apache Camel), Message Queues (RabbitMQ), Event-Driven System (Apache Kafka, ZooKeeper), Caching (Redis), Java Package Build Tool (Maven), Database Visual Tool (DBeaver, HeidiSQL), Analytics & Monitoring (Grafana, Logz.io ), Container-based Virtualization (Docker), Container Management (Kubernets, ArgoCD), CI/CD (Jenkins), Issue & Project Tracking (Jira, Confluence), API Testing (Postman), Version Control System (Git and GitLab), Terminal Emulator (Putty), FTP, SFTP and FTPS Client (WinSCP), Communication (Slack), Development IDE (IntelliJ and Notepad++)
+    - **Methodologies**: Scrum, Event-Driven Architecture perspective, Microservices Architecture perspective
 
 2. [Adentis Portugal][adentis-url]
 
