@@ -119,7 +119,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="backframe"></a> Backend Frameworks
 
 1. [Java with JDBC and MySQL][jdbc-url] Concluded :heavy_check_mark:
-2. [Spring Framework][spring-url] Under Development :warning:
+2. [Spring Framework][spring-url] Concluded :heavy_check_mark:
 3. [Spring Boot Framework][sts-url] Under Development :warning:
 4. [Apache Camel Framework][camel-url] Under Development :warning:
 
