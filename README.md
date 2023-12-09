@@ -223,18 +223,20 @@ Some resources to help to developer programs and study.
 3. [Online Compiler - Code Chef][onlinecompiler-url]
 4. [Online SQL Compiler - SQL Fiddle][sqlcompiler-url]
 5. [Diagramming Service - Draw.io][drawio-url]
-6. [API Documentation - Swagger][swagger-url]
-7. [XML Validator - Liquid Technologies][xmlvalidator-url]
-8. [Book Creation for Documentation - GitBook][gitbook-url]
-9. [Interface Design Tool - Figma][figma-url]
-10. [HTML/CSS Developer Tool - CSSDesk][cssdeck-url]
-11. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
-12. [Project Management Tool - Trello][managementtool-url]
-13. [Agile Retrospective Tool - Metro Retro][metroretro-url]
-14. [Online Latex Compiler - Overleaf][latexeditor-url]
-15. [Online Gramatic Corrector - Grammarly][grammarly-url]
-16. [Mock Request Creator - Mocky][mockio-url]
-17. [Net Pay Calculator - Relocate][relocate-url]
+6. [Diagramming Software Architecture - C4 Model][c4-url]
+7. [C4 Models using Draw.io][drawioc4-url]
+8. [API Documentation - Swagger][swagger-url]
+9. [XML Validator - Liquid Technologies][xmlvalidator-url]
+10. [Book Creation for Documentation - GitBook][gitbook-url]
+11. [Interface Design Tool - Figma][figma-url]
+12. [HTML/CSS Developer Tool - CSSDesk][cssdeck-url]
+13. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
+14. [Project Management Tool - Trello][managementtool-url]
+15. [Agile Retrospective Tool - Metro Retro][metroretro-url]
+16. [Online Latex Compiler - Overleaf][latexeditor-url]
+17. [Online Gramatic Corrector - Grammarly][grammarly-url]
+18. [Mock Request Creator - Mocky][mockio-url]
+19. [Net Pay Calculator - Relocate][relocate-url]
 
 # Contacts <a name="contacts"></a>
 
@@ -329,6 +331,8 @@ Some resources to help to developer programs and study.
 [onlinecompiler-url]: https://www.codechef.com/ide
 [sqlcompiler-url]: http://sqlfiddle.com/
 [drawio-url]: https://app.diagrams.net/
+[c4-url]: https://c4model.com/
+[drawioc4-url]: https://app.diagrams.net/?lightbox=0&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2FC4.drawio
 [swagger-url]: https://editor.swagger.io/
 [xmlvalidator-url]: https://www.liquid-technologies.com/online-xml-validator
 [gitbook-url]: https://www.gitbook.com/
