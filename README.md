@@ -229,14 +229,13 @@ Some resources to help to developer programs and study.
 9. [XML Validator - Liquid Technologies][xmlvalidator-url]
 10. [Book Creation for Documentation - GitBook][gitbook-url]
 11. [Interface Design Tool - Figma][figma-url]
-12. [HTML/CSS Developer Tool - CSSDesk][cssdeck-url]
-13. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
-14. [Project Management Tool - Trello][managementtool-url]
-15. [Agile Retrospective Tool - Metro Retro][metroretro-url]
-16. [Online Latex Compiler - Overleaf][latexeditor-url]
-17. [Online Gramatic Corrector - Grammarly][grammarly-url]
-18. [Mock Request Creator - Mocky][mockio-url]
-19. [Net Pay Calculator - Relocate][relocate-url]
+12. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
+13. [Project Management Tool - Trello][managementtool-url]
+14. [Agile Retrospective Tool - Metro Retro][metroretro-url]
+15. [Online Latex Compiler - Overleaf][latexeditor-url]
+16. [Online Gramatic Corrector - Grammarly][grammarly-url]
+17. [Mock Request Creator - Mocky][mockio-url]
+18. [Net Pay Calculator - Relocate][relocate-url]
 
 # Contacts <a name="contacts"></a>
 
@@ -337,7 +336,7 @@ Some resources to help to developer programs and study.
 [xmlvalidator-url]: https://www.liquid-technologies.com/online-xml-validator
 [gitbook-url]: https://www.gitbook.com/
 [figma-url]: https://www.figma.com/
-[cssdeck-url]: http://www.cssdesk.com/
+[cssdeck-url]: https://cssdeck.com/
 [jsfidle-url]: https://jsfiddle.net/
 [managementtool-url]: https://trello.com/
 [metroretro-url]: https://metroretro.io/
