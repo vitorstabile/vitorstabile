@@ -7,6 +7,7 @@
 3. [Projects](#projects)
     - [Tutorial Projects](#tutorials)
         - [Logic Programming](#logicprogramming)
+        - [Data Structures and Algorithms](#datastructuresandalgorithms)
         - [Relational Data Base](#relational)
         - [Web Development](#web)
         - [Backend Frameworks](#backframe)
@@ -104,6 +105,10 @@ This Projects have the aim to create simple tutorials and basics about logic pro
     - [Java][java-logic-url] Concluded :heavy_check_mark:
     - [Python][python-logic-url] Concluded :heavy_check_mark:
     - [JavaScript][javascript-logic-url] Under Development :warning:
+  
+#### <a name="datastructuresandalgorithms"></a> Data Structures and Algorithms
+
+1. [Data Structures and Algorithms in Java][dataalgo-java-url] Under Development :warning:
 
 #### <a name="relational"></a> Relational Database
 
@@ -273,6 +278,7 @@ Some resources to help to developer programs and study.
 [java-logic-url]: https://github.com/vitorstabile/logic-programming-with-java-basics
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-with-python-basics
 [javascript-logic-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics
+[dataalgo-java-url]: https://github.com/vitorstabile/data-structures-and-algorithms-in-java-basics
 [relational-database-url]: https://github.com/vitorstabile/relational-database-basics
 [mysql-url]: https://github.com/vitorstabile/mysql-basics
 [postgressql-url]: https://github.com/vitorstabile/postgresql-basics
