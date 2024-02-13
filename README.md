@@ -234,20 +234,21 @@ Some resources to help to developer programs and study.
 2. [URL Encode - W3Schools][urlencode-url]
 3. [Online Compiler - Code Chef][onlinecompiler-url]
 4. [Online SQL Compiler - SQL Fiddle][sqlcompiler-url]
-5. [Diagramming Service - Draw.io][drawio-url]
-6. [Diagramming Software Architecture - C4 Model][c4-url]
-7. [C4 Models using Draw.io][drawioc4-url]
-8. [API Documentation - Swagger][swagger-url]
-9. [XML Validator - Liquid Technologies][xmlvalidator-url]
-10. [Book Creation for Documentation - GitBook][gitbook-url]
-11. [Interface Design Tool - Figma][figma-url]
-12. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
-13. [Project Management Tool - Trello][managementtool-url]
-14. [Agile Retrospective Tool - Metro Retro][metroretro-url]
-15. [Online Latex Compiler - Overleaf][latexeditor-url]
-16. [Online Gramatic Corrector - Grammarly][grammarly-url]
-17. [Mock Request Creator - Mocky][mockio-url]
-18. [Net Pay Calculator - Relocate][relocate-url]
+5. [Whiteboard Tool - Excalidraw][excalidraw-url]
+6. [Diagramming Service - Draw.io][drawio-url]
+7. [Diagramming Software Architecture - C4 Model][c4-url]
+8. [C4 Models using Draw.io][drawioc4-url]
+9. [API Documentation - Swagger][swagger-url]
+10. [XML Validator - Liquid Technologies][xmlvalidator-url]
+11. [Book Creation for Documentation - GitBook][gitbook-url]
+12. [Interface Design Tool - Figma][figma-url]
+13. [HTML/CSS/JS Developer Tool - JSFiddle][jsfidle-url]
+14. [Project Management Tool - Trello][managementtool-url]
+15. [Agile Retrospective Tool - Metro Retro][metroretro-url]
+16. [Online Latex Compiler - Overleaf][latexeditor-url]
+17. [Online Gramatic Corrector - Grammarly][grammarly-url]
+18. [Mock Request Creator - Mocky][mockio-url]
+19. [Net Pay Calculator - Relocate][relocate-url]
 
 # Contacts <a name="contacts"></a>
 
@@ -346,6 +347,7 @@ Some resources to help to developer programs and study.
 [onlinecompiler-url]: https://www.codechef.com/ide
 [sqlcompiler-url]: http://sqlfiddle.com/
 [drawio-url]: https://app.diagrams.net/
+[excalidraw-url]: https://excalidraw.com/
 [c4-url]: https://c4model.com/
 [drawioc4-url]: https://app.diagrams.net/?lightbox=0&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2FC4.drawio
 [swagger-url]: https://editor.swagger.io/
