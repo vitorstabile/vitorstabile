@@ -9,7 +9,7 @@
         - [Logic Programming](#logicprogramming)
         - [Data Structures and Algorithms](#datastructuresandalgorithms)
         - [Relational Data Base](#relational)
-        - [Web Development](#web)
+        - [Frontend Development](#web)
         - [Backend Frameworks](#backframe)
         - [Frontend Frameworks](#frontframe)
         - [Test Frameworks](#testframe)
@@ -112,16 +112,14 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="relational"></a> Relational Database
 
-1. [Relational Database][relational-database-url] Concluded :heavy_check_mark:
-    - [Relational Database with MySQL][mysql-url] Concluded :heavy_check_mark:
-    - [Relational Database with PostgreSQL][postgressql-url] Under Development :warning:
+1. [Relational Database with MySQL][mysql-url] Concluded :heavy_check_mark:
+2. [Relational Database with PostgreSQL][postgressql-url] Under Development :warning:
 
-#### <a name="web"></a> Web Development
+#### <a name="web"></a> Frontend Development
 
-1. [Web Development][web-url] Under Development :warning:
-    - [HTML and CSS][html-css-url] Under Development :warning:
-    - [Bootstrap][bootstrap-url] Under Development :warning:
-    - [JavaScript Client Side][javascript-client-url] Under Development :warning:
+1. [HTML and CSS][html-css-url] Under Development :warning:
+2. [Bootstrap][bootstrap-url] Under Development :warning:
+3. [JavaScript Client Side][javascript-client-url] Under Development :warning:
 
 #### <a name="backframe"></a> Backend Frameworks
 
@@ -156,9 +154,8 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="shellscript"></a> Shell Script
 
-1. [Shell Script][shell-script-url] Under Development :warning:
-    - [Bash][bash-url] Under Development :warning:
-    - [PowerShell][powershell-url] Under Development :warning:
+1. [Bash][bash-url] Under Development :warning:
+2. [PowerShell][powershell-url] Under Development :warning:
 
 #### <a name="git"></a> Git and GitHub
 
@@ -280,10 +277,8 @@ Some resources to help to developer programs and study.
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-with-python-basics
 [javascript-logic-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics
 [dataalgo-java-url]: https://github.com/vitorstabile/data-structures-and-algorithms-in-java-basics
-[relational-database-url]: https://github.com/vitorstabile/relational-database-basics
 [mysql-url]: https://github.com/vitorstabile/mysql-basics
 [postgressql-url]: https://github.com/vitorstabile/postgresql-basics
-[web-url]: https://github.com/vitorstabile/web-basics
 [html-css-url]: https://github.com/vitorstabile/html-css-basics
 [bootstrap-url]: https://github.com/vitorstabile/bootstrap-basics
 [javascript-client-url]: https://github.com/vitorstabile/javascript-client-side-basics
@@ -302,7 +297,6 @@ Some resources to help to developer programs and study.
 [msd-url]: https://github.com/vitorstabile/managing-software-development
 [sa-url]: https://github.com/vitorstabile/software-architecture
 [qa-url]: https://github.com/vitorstabile/software-quality
-[shell-script-url]: https://github.com/vitorstabile/shell-script-basics
 [bash-url]: https://github.com/vitorstabile/bash-basics
 [powershell-url]: https://github.com/vitorstabile/powershell-basics
 [git-url]: https://github.com/vitorstabile/git-basics
