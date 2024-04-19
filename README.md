@@ -40,12 +40,12 @@ Certification in:
 
 # Work Experience <a name="workexperience"></a>
 
-1. [Farfetch Platform Solution][farfetch-url]
+1. [Farfetch][farfetch-url]
 
     - Integrations Engineer (November 2022 - Until now)
   
-      - Responsible for designing, building, testing, and maintaining services of Farfetch Platform Solution (FPS).
-        - **Technologies**: Java EE 8 and 17, PostgreSQL Database, JSON, ShellScript, WebServices (SOAP and REST)
+      - Responsible for designing, building, testing, and maintaining services of Farfetch ecosystem.
+        - **Technologies**: Java EE 8 and 17, PostgreSQL Database, MongoDB, JSON, ShellScript, WebServices (SOAP and REST)
         - **Tools**: Backend Framework (Spring Framework and Spring Boot), Integration Framework (Apache Camel), Message Queues (RabbitMQ), Event-Driven System (Apache Kafka, ZooKeeper), Caching (Redis), Java Package Build Tool (Maven), Database Visual Tool (DBeaver, HeidiSQL), Analytics & Monitoring (Grafana, Logz.io ), Container-based Virtualization (Docker), Container Management (Kubernets, ArgoCD), CI/CD (Jenkins), Issue & Project Tracking (Jira, Confluence), API Testing (Postman), Version Control System (Git and GitLab), Terminal Emulator (Putty), FTP, SFTP and FTPS Client (WinSCP), Communication (Slack), Development IDE (IntelliJ and Notepad++)
         - **Methodologies**: Scrum, Event-Driven Architecture perspective, Microservices Architecture perspective
 
@@ -108,7 +108,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
   
 #### <a name="datastructuresandalgorithms"></a> Data Structures and Algorithms
 
-1. [Data Structures and Algorithms in Java][dataalgo-java-url] Under Development :warning:
+1. [Data Structures and Algorithms in Java][dataalgo-java-url] Concluded :heavy_check_mark:
 
 #### <a name="relational"></a> Relational Database
 
@@ -264,7 +264,7 @@ Some resources to help to developer programs and study.
 [esbwso2certification-url]: https://certification.wso2.com/web/certificate/X0Z0R2
 [frotelle-url]: http://frotelle.com.br/
 [festpan-url]: https://festpan.com.br/
-[farfetch-url]: https://www.farfetchplatformsolutions.com/
+[farfetch-url]: https://www.farfetch.com/
 [adentis-url]: http://www.adentis.pt/
 [fei-url]: https://portal.fei.edu.br/
 [coimbra-dei-url]: https://www.uc.pt/en/fctuc/dei
