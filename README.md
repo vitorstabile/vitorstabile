@@ -139,7 +139,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="docker"></a> Docker
 
-1. [Docker][docker-basics-url] Under Development :warning:
+1. [Docker][docker-basics-url] Concluded :heavy_check_mark:
 
 #### <a name="softwareengineering"></a> Software Engineering
 
