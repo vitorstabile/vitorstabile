@@ -177,7 +177,8 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="embeddedsystems"></a> Embedded Systems
 
-1. [ESP32 Wroom NodeMcu WiFi CP2102][esp32wroomnodemcuwifico2102-url] Under Development :warning:
+1. [ESP32 Wroom NodeMcu WiFi CP2102][esp32wroomnodemcuwificp2102-url] Under Development :warning:
+2. [ESP32-S3 Wroom-1 NodeMcu WiFi][esp32s3wroom1nodemcuwifi-url] Under Development :warning:
 
 ## Personal Projects <a name="personal"></a>
 
@@ -313,7 +314,8 @@ Some resources to help to developer programs and study.
 [hackerranktests-url]: https://github.com/vitorstabile/java-tests-hackerrank
 [javainterviewquestions-url]:https://github.com/vitorstabile/JavaInterviewQuestionsAndAnswers
 [springbootinterviewquestions-url]:https://github.com/vitorstabile/spring-interview-guide
-[esp32wroomnodemcuwifico2102-url]: https://github.com/vitorstabile/esp32wroomnodemcuwifico2102/blob/main/README.md
+[esp32wroomnodemcuwificp2102-url]: https://github.com/vitorstabile/esp32wroomnodemcuwificp2102
+[esp32s3wroom1nodemcuwifi-url]: https://github.com/vitorstabile/esp32s3wroom1nodemcuwifi
 [roadmap-url]: https://github.com/vitorstabile/roadmap-developer-basics
 [chess-url]: https://github.com/vitorstabile/chess-system-java
 [post-url]: https://github.com/vitorstabile/workshop-spring-boot-mongodb
