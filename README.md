@@ -19,6 +19,7 @@
         - [Git and GitHub](#git)
         - [LaTeX Templates](#latex)
         - [Interview Tests and Exercises](#interviews)
+        - [Embedded Systems](#embeddedsystems)
      - [Personal Projects](#personal)
      - [Work Projects](#work)
      - [Bibliography's](#biblio)
@@ -174,6 +175,10 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 3. [Java Interview Questions][javainterviewquestions-url] Concluded :heavy_check_mark:
 4. [Spring and Spring Boot Interview Questions][springbootinterviewquestions-url] Concluded :heavy_check_mark:
 
+#### <a name="embeddedsystems"></a> Embedded Systems
+
+1. [ESP32 Wroom NodeMcu WiFi CP2102][esp32wroomnodemcuwifico2102-url] Under Development :warning:
+
 ## Personal Projects <a name="personal"></a>
 
 Some of the projects made by me from courses and self-learning.
@@ -308,6 +313,7 @@ Some resources to help to developer programs and study.
 [hackerranktests-url]: https://github.com/vitorstabile/java-tests-hackerrank
 [javainterviewquestions-url]:https://github.com/vitorstabile/JavaInterviewQuestionsAndAnswers
 [springbootinterviewquestions-url]:https://github.com/vitorstabile/spring-interview-guide
+[esp32wroomnodemcuwifico2102-url]: https://github.com/vitorstabile/esp32wroomnodemcuwifico2102/blob/main/README.md
 [roadmap-url]: https://github.com/vitorstabile/roadmap-developer-basics
 [chess-url]: https://github.com/vitorstabile/chess-system-java
 [post-url]: https://github.com/vitorstabile/workshop-spring-boot-mongodb
