@@ -179,6 +179,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 2. [HackerRank Tests][hackerranktests-url] Under Development :warning:
 3. [Java Interview Questions][javainterviewquestions-url] Concluded :heavy_check_mark:
 4. [Spring and Spring Boot Interview Questions][springbootinterviewquestions-url] Concluded :heavy_check_mark:
+5. [Python Interview Questions][pythoninterviewquestions-url] :warning:
 
 #### <a name="embeddedsystems"></a> Embedded Systems
 
@@ -319,6 +320,7 @@ Some resources to help to developer programs and study.
 [codingametests-url]: https://github.com/vitorstabile/java-tests-codingame
 [hackerranktests-url]: https://github.com/vitorstabile/java-tests-hackerrank
 [javainterviewquestions-url]:https://github.com/vitorstabile/JavaInterviewQuestionsAndAnswers
+[pythoninterviewquestions-url]:https://github.com/vitorstabile/python-questions-answers
 [springbootinterviewquestions-url]:https://github.com/vitorstabile/spring-interview-guide
 [esp32wroomnodemcuwificp2102-url]: https://github.com/vitorstabile/esp32wroomnodemcuwificp2102
 [esp32s3wroom1nodemcuwifi-url]: https://github.com/vitorstabile/esp32s3wroom1nodemcuwifi
