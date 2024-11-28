@@ -157,6 +157,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 6. [Managing Software Development][msd-url] Concluded :heavy_check_mark:
 7. [Software Architecture][sa-url] Concluded :heavy_check_mark:
 8. [Software Quality][qa-url] Concluded :heavy_check_mark:
+9. [Design Patterns with Python][designpatternswithpython-url] Concluded :heavy_check_mark:
 
 #### <a name="shellscript"></a> Shell Script
 
@@ -310,6 +311,7 @@ Some resources to help to developer programs and study.
 [msd-url]: https://github.com/vitorstabile/managing-software-development
 [sa-url]: https://github.com/vitorstabile/software-architecture
 [qa-url]: https://github.com/vitorstabile/software-quality
+[designpatternswithpython-url]: https://github.com/vitorstabile/python-patterns
 [bash-url]: https://github.com/vitorstabile/bash-basics
 [powershell-url]: https://github.com/vitorstabile/powershell-basics
 [git-url]: https://github.com/vitorstabile/git-basics
