@@ -231,10 +231,12 @@ Some of references that I use in my days.
 6. [Software Development][sw-url]
 7. [Data Science][csstudypath3-url]
 8. [Java (Portuguese)][java-url]
-9. [Data Bases (Portuguese)][banco-url]
-10. [Spring Boot (Portuguese)][springstudy-url]
-11. [Docker (Portuguese)][docker-url]
-12. [Developer Roadmap][devmap-url]
+9. [Python][python-url]
+10. [Data Bases (Portuguese)][banco-url]
+11. [Spring Boot (Portuguese)][springstudy-url]
+12. [Docker (Portuguese)][docker-url]
+13. [Developer Roadmap][devmap-url]
+14. [Design Patterns][refactorguru-url]
 
 ## Resources <a name="resour"></a>
 
@@ -350,10 +352,12 @@ Some resources to help to developer programs and study.
 [sw-url]: https://en.wikipedia.org/wiki/Software_development
 [csstudypath3-url]:https://github.com/ossu/data-science
 [java-url]: https://glysns.gitbook.io/java/
+[python-url]: https://github.com/Asabeneh/30-Days-Of-Python
 [banco-url]: https://glysns.gitbook.io/banco-de-dados/
 [springstudy-url]: https://glysns.gitbook.io/springframework/
 [docker-url]: http://stack.desenvolvedor.expert/appendix/docker/
 [devmap-url]: https://roadmap.sh/roadmaps
+[refactorguru-url]: https://refactoring.guru/design-patterns
 [asciitable-url]: https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html
 [urlencode-url]: https://www.w3schools.com/tags/ref_urlencode.ASP
 [onlinecompiler-url]: https://www.codechef.com/ide
