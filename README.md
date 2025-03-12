@@ -146,6 +146,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="dataengineering"></a> Data Engineering
 
 1. [Apache Airflow][airflow-basics-url] Under Development :warning:
+2. [DuckDB][duckdb-basics-url] Under Development :warning:
 
 #### <a name="softwareengineering"></a> Software Engineering
 
@@ -305,6 +306,7 @@ Some resources to help to developer programs and study.
 [reactnative-url]: https://github.com/vitorstabile/react-native-basics
 [junit-basics-url]: https://github.com/vitorstabile/junit-framework-basics
 [airflow-basics-url]: https://github.com/vitorstabile/airflow-basics
+[duckdb-basics-url]: https://github.com/vitorstabile/duckdb-basics
 [project-design-url]: https://github.com/vitorstabile/projects-design-basics
 [microservices-url]: https://github.com/vitorstabile/microservices-basics
 [soa-url]: https://github.com/vitorstabile/service-oriented-architecture
