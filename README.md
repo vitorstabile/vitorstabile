@@ -30,11 +30,7 @@
 
 # About Me <a name="aboutme"></a>
 
-My name is Vitor Garcia and I'm a Software and Chemical Engineer with dual citizen (Italian and Brazilian).
-
-I have bachelor's and master's degrees in chemical engineering both concluded in 2014 and 2019 in the institute Centro Universitário FEI and a master's degree in software engineering at the University of Coimbra - Department of Informatics Engineering, concluded in 2023
-
-I have four-year experience as a Software Engineer, and I had the opportunity to designing, building, testing, and maintaining various back-end and integration projects during my carrier. I have already worked with Spring Framework, Spring Boot, Apache Camel, WSO2 EI, WSO2 SI, and I have experience in architectures like layered, Service Oriented Architecture (SOA), Event-Driven, and Microservices.
+Software Engineer with 5+ years of experience in backend development, event-driven  architectures, ETL pipelines, and system integration. Skilled in Java (Spring Boot, Apache Camel), Python (Airflow, Pandas), and distributed systems. Expertise in Kafka, Redis, PostgreSQL, DuckDB, and cloud storage solutions (Azure Blob Storage). Experienced in designing modular, scalable, and partner-configurable solutions, applying clean architecture, design patterns, and enterprise integration patterns (EIP). Skilled in Docker and CI/CD pipelines (Jenkins, GitLab) for containerized deployments.
 
 Certification in:
 
@@ -46,29 +42,33 @@ Certification in:
 
     - Integrations Engineer (November 2022 - Until now)
   
-      - Responsible for designing, building, testing, and maintaining services of Farfetch ecosystem.
-        - **Technologies**: Java EE 8 and 17, PostgreSQL Database, MongoDB, JSON, ShellScript, WebServices (SOAP and REST)
-        - **Tools**: Backend Framework (Spring Framework and Spring Boot), Integration Framework (Apache Camel), Message Queues (RabbitMQ), Event-Driven System (Apache Kafka, ZooKeeper), Caching (Redis), Java Package Build Tool (Maven), Database Visual Tool (DBeaver, HeidiSQL), Analytics & Monitoring (Grafana, Logz.io ), Container-based Virtualization (Docker), Container Management (Kubernets, ArgoCD), CI/CD (Jenkins), Issue & Project Tracking (Jira, Confluence), API Testing (Postman), Version Control System (Git and GitLab), Terminal Emulator (Putty), FTP, SFTP and FTPS Client (WinSCP), Communication (Slack), Development IDE (IntelliJ and Notepad++)
-        - **Methodologies**: Scrum, Event-Driven Architecture perspective, Microservices Architecture perspective
+      - Developed event-driven integration services using Java, Apache Camel, PostgreSQL, and Redis to process e-commerce shipping and return events.
+      - Designed a modular, partner-configurable system leveraging reflection and route slip for dynamic workflows.
+      - Built automation scripts in Python (Pandas, Requests) to extract, transform, and load API data into CSV for downstream processing.
+      - Developed a scalable ETL pipeline in Python, Airflow, and DuckDB, integrating Azure Blob Storage and streaming data to Kafka (Avro schema).
+      - Applied clean architecture, design patterns (Factory), and modularization for reusable, configurable data pipelines.
+      - Defined integration solutions using C4 models and managed development tasks in Jira.
+        - **Technologies**: Java 8/17, Python 2/3, PostgreSQL, DuckDB, MongoDB, Spring Boot, Apache Camel, Apache Airflow, Apache Kafka, Avro, Azure Blob Storage, RabbitMQ, Redis, Docker, Kubernetes, Jenkins, Grafana, Coralogix, GitLab. 
 
 2. [Adentis Portugal][adentis-url]
 
     - Software Developer (May 2021 - November 2022)
 
-      - [Implementation of Web Services API (SOAP and RESTful) for internal layer of AMA group, using SOA Architecture perspective, Java 8, Third-Partie Middleware (WSO2 EI) and MySQL.][soa-url]
-        - **Technologies**: Java EE 8, MySQL Database, JavaScript, XML, HTML, XSD,  XLS/XLST, WSDL, XPath, JSON, GraphQL, ShellScript, WebServices (SOAP and REST)
-        - **Tools**: Integration Framework (WSO2 EI), Message Queues (WSO2 Broker), Event-Driven System (WSO2 Streaming Integrator), Java Package Build Tool (Maven), Database Visual Tool (MySQL WorkBench), Analytics & Monitoring (Grafana), Server SO (CentOS), Issue & Project Tracking (Jira), API Testing (SoapUI and Postman), Version Control System (Git and GitLab), Container-based Virtualization (Docker), Terminal Emulator (Putty), FTP, SFTP and FTPS Client (FileZilla), Communication (Slack), Development IDE (Eclipse and Notepad++)
-        - **Methodologies**: Scrum, SOA Architecture perspective, Event-Driven Architecture perspective
+      - Developed data APIs and ETL pipelines using Java 8, WSO2 EI, and SOA Architecture.
+      - Applied Enterprise Integration Patterns (EIP) for message routing, transformation, and error handling in ESB.
+      - Processed JSON/SOAP messages, managing errors via Dead Letter Queues (DLQ).
+      - Built custom Java components for WSO2 EI and integrated with MySQL.
+      - Containerized services with Docker to enhance deployment and scalability.
+        - **Technologies**: Java EE 8, WSO2 EI, Maven, MySQL, Docker, XML, XSD, XSL/XSLT, WSDL, XPath, JSON, GraphQL, ShellScript, SOAP, REST, Enterprise Integration Patterns (EIP). 
 
 3. [Frotelle Alimentos][frotelle-url]
 
     - Software Developer (January 2020 - December 2020)
     
-      - [ERP TOTVS System Implementation][recipe2-url]
-      - Development of FullStack Projects [Backend E-Commerce][back-url], [Order Web App][order-url], [Sales Dashboard App][dsvendas-url], [Movie Catalog App][dsmovie-url]
-        - **Technologies**: Java EE 11, H2 Database, PostgreSQL Database, MySQL Database, JavaScript, XML, HTML, CSS, Excel, JSON, WebServices (REST)
-        - **Tools**: Backend Framework (Spring Boot), Frontend Frameworks (ReactJS and React Native), Java Package Build Tool (Maven), Database Visual Tool (MySQL WorkBench), Java Package Build Tool (Maven), API Testing (Postman), Version Control System (Git and GitLab) and Development IDE (Eclipse, Notepad++ and Visual Studio Code) 
-        - **Methodologies**: Waterfall, Layered architecture perspective
+      - Developed REST APIs using Java 11, Spring Boot, and Layered Architecture (Controller, Service, Repository).
+      - Built APIs for stock tracking (logistics) and pricing retrieval (procurement).
+      - Integrated with MySQL and PostgreSQL for data storage and retrieval.
+        - **Technologies**: Java 11, Spring Boot, MySQL, PostgreSQL, JSON, Excel, REST.
 
 4. [Festpan Alimentos][festpan-url]
 
