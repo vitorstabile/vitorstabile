@@ -16,7 +16,7 @@
         - [Docker](#docker)
         - [Data Engineering](#dataengineering)
         - [Software Engineering](#softwareengineering)
-        - [Shell Script](#shellscript)
+        - [Operating Systems](#operatingsystems)
         - [Git and GitHub](#git)
         - [LaTeX Templates](#latex)
         - [Interview Tests and Exercises](#interviews)
@@ -161,10 +161,10 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 8. [Software Quality][qa-url] Concluded :heavy_check_mark:
 9. [Design Patterns with Python][designpatternswithpython-url] Concluded :heavy_check_mark:
 
-#### <a name="shellscript"></a> Shell Script
+#### <a name="operatingsystems"></a> Operating Systems
 
-1. [Bash][bash-url] Under Development :warning:
-2. [PowerShell][powershell-url] Under Development :warning:
+1. [Linux][bash-url] Under Development :warning:
+2. [Windows][powershell-url] Under Development :warning:
 
 #### <a name="git"></a> Git and GitHub
 
