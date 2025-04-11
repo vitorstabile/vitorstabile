@@ -295,7 +295,7 @@ Some resources to help to developer programs and study.
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-with-python-basics
 [javascript-logic-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics
 [dataalgo-java-url]: https://github.com/vitorstabile/data-structures-and-algorithms-in-java-basics
-[sql-url]: 
+[sql-url]: https://github.com/vitorstabile/sql-basics
 [mysql-url]: https://github.com/vitorstabile/mysql-basics
 [postgressql-url]: https://github.com/vitorstabile/postgresql-basics
 [html-css-url]: https://github.com/vitorstabile/html-css-basics
