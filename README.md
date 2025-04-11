@@ -114,8 +114,9 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="relational"></a> Relational Database
 
-1. [Relational Database with MySQL][mysql-url] Concluded :heavy_check_mark:
-2. [Relational Database with PostgreSQL][postgressql-url] Under Development :warning:
+1. [Relational Databases and SQL][sql-url] Under Development :warning:
+2. [Relational Database with MySQL][mysql-url] Concluded :heavy_check_mark:
+3. [Relational Database with PostgreSQL][postgressql-url] Under Development :warning:
 
 #### <a name="web"></a> Frontend Development
 
@@ -294,6 +295,7 @@ Some resources to help to developer programs and study.
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-with-python-basics
 [javascript-logic-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics
 [dataalgo-java-url]: https://github.com/vitorstabile/data-structures-and-algorithms-in-java-basics
+[sql-url]: 
 [mysql-url]: https://github.com/vitorstabile/mysql-basics
 [postgressql-url]: https://github.com/vitorstabile/postgresql-basics
 [html-css-url]: https://github.com/vitorstabile/html-css-basics
