@@ -162,8 +162,8 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="operatingsystems"></a> Operating Systems
 
-1. [Linux][bash-url] Under Development :warning:
-2. [Windows][powershell-url] Under Development :warning:
+1. [Linux][linux-url] Under Development :warning:
+2. [Windows][windows-url] Under Development :warning:
 
 #### <a name="git"></a> Git and GitHub
 
@@ -316,8 +316,8 @@ Some resources to help to developer programs and study.
 [sa-url]: https://github.com/vitorstabile/software-architecture
 [qa-url]: https://github.com/vitorstabile/software-quality
 [designpatternswithpython-url]: https://github.com/vitorstabile/python-patterns
-[bash-url]: https://github.com/vitorstabile/bash-basics
-[powershell-url]: https://github.com/vitorstabile/powershell-basics
+[linux-url]: https://github.com/vitorstabile/linux-basics
+[windows-url]: https://github.com/vitorstabile/windows-basics
 [git-url]: https://github.com/vitorstabile/git-basics
 [docker-basics-url]: https://github.com/vitorstabile/docker-basics
 [readme-project-url]: https://github.com/vitorstabile/project-template-readme
