@@ -11,7 +11,6 @@
         - [Relational Data Base](#relational)
         - [Frontend Development](#web)
         - [Backend Frameworks](#backframe)
-        - [Frontend Frameworks](#frontframe)
         - [Test Frameworks](#testframe)
         - [Docker](#docker)
         - [Data Engineering](#dataengineering)
@@ -101,12 +100,8 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="logicprogramming"></a> Logic Programming
 
 1. [Logic Programming][logic-project-url] Concluded :heavy_check_mark:
-    - [C][c-logic-url] Concluded :heavy_check_mark:
-    - [C++][cpp-logic-url] Concluded :heavy_check_mark:
-    - [C#][csharp-logic-url] Concluded :heavy_check_mark::
     - [Java][java-logic-url] Concluded :heavy_check_mark:
     - [Python][python-logic-url] Concluded :heavy_check_mark:
-    - [JavaScript][javascript-logic-url] Under Development :warning:
   
 #### <a name="datastructuresandalgorithms"></a> Data Structures and Algorithms
 
@@ -118,9 +113,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="web"></a> Frontend Development
 
-1. [HTML and CSS][html-css-url] Under Development :warning:
-2. [Bootstrap][bootstrap-url] Under Development :warning:
-3. [JavaScript Client Side][javascript-client-url] Under Development :warning:
+1. [HTML, CSS and JavaScript][html-css-js-url] Under Development :warning:
 
 #### <a name="backframe"></a> Backend Frameworks
 
@@ -128,11 +121,6 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 2. [Spring Framework][spring-url] Concluded :heavy_check_mark:
 3. [Spring Boot Framework][sts-url] Concluded :heavy_check_mark:
 4. [Apache Camel Framework][camel-url] Under Development :warning:
-
-#### <a name="frontframe"></a> Frontend Frameworks
-
-1. [React JS Framework][reactjs-url] Under Development :warning:
-2. [React Native Framework][reactnative-url] Under Development :warning:
 
 #### <a name="testframe"></a> Test Frameworks
 
@@ -162,7 +150,6 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="operatingsystems"></a> Operating Systems
 
 1. [Linux][linux-url] Under Development :warning:
-2. [Windows][windows-url] Under Development :warning:
 
 #### <a name="git"></a> Git and GitHub
 
@@ -285,23 +272,15 @@ Some resources to help to developer programs and study.
 [coimbra-dei-url]: https://www.uc.pt/en/fctuc/dei
 [vigor-url]: http://www.vigoralimentos.com.br/
 [logic-project-url]: https://github.com/vitorstabile/logic-programming-basics
-[c-logic-url]: https://github.com/vitorstabile/logic-programming-with-c-basics
-[cpp-logic-url]: https://github.com/vitorstabile/logic-programming-with-cpp-basics
-[csharp-logic-url]: https://github.com/vitorstabile/logic-programming-with-csharp-basics
 [java-logic-url]: https://github.com/vitorstabile/logic-programming-with-java-basics
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-with-python-basics
-[javascript-logic-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics
 [dataalgo-java-url]: https://github.com/vitorstabile/data-structures-and-algorithms-in-java-basics
 [sql-url]: https://github.com/vitorstabile/sql-basics
-[html-css-url]: https://github.com/vitorstabile/html-css-basics
-[bootstrap-url]: https://github.com/vitorstabile/bootstrap-basics
-[javascript-client-url]: https://github.com/vitorstabile/javascript-client-side-basics
+[html-css-js-url]: https://github.com/vitorstabile/html-css-javascript-basics
 [jdbc-url]: https://github.com/vitorstabile/java-jdbc-dao-basics
 [sts-url]: https://github.com/vitorstabile/spring-boot-basics
 [spring-url]: https://github.com/vitorstabile/spring-framework-basics
 [camel-url]: https://github.com/vitorstabile/apache-camel-basics
-[reactjs-url]: https://github.com/vitorstabile/reactjs-basics
-[reactnative-url]: https://github.com/vitorstabile/react-native-basics
 [junit-basics-url]: https://github.com/vitorstabile/junit-framework-basics
 [dataengineering-basics-url]: https://github.com/vitorstabile/dataengineering-basics
 [airflow-basics-url]: https://github.com/vitorstabile/airflow-basics
@@ -315,7 +294,6 @@ Some resources to help to developer programs and study.
 [qa-url]: https://github.com/vitorstabile/software-quality
 [designpatternswithpython-url]: https://github.com/vitorstabile/python-patterns
 [linux-url]: https://github.com/vitorstabile/linux-basics
-[windows-url]: https://github.com/vitorstabile/windows-basics
 [git-url]: https://github.com/vitorstabile/git-basics
 [docker-basics-url]: https://github.com/vitorstabile/docker-basics
 [readme-project-url]: https://github.com/vitorstabile/project-template-readme
