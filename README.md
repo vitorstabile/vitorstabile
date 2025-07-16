@@ -109,7 +109,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="relational"></a> Relational Database
 
-1. [Relational Databases and SQL][sql-url] Under Development :heavy_check_mark:
+1. [Relational Databases and SQL][sql-url] Concluded :heavy_check_mark:
 
 #### <a name="web"></a> Frontend Development
 
