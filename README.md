@@ -102,7 +102,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 1. [Logic Programming][logic-project-url] Concluded :heavy_check_mark:
     - [Java][java-logic-url] Concluded :heavy_check_mark:
     - [Python][python-logic-url] Concluded :heavy_check_mark:
-    - [C#][csharp-logic-url] Concluded :warning:
+    - [C# and .NET][csharp-logic-url] Under Development :warning:
   
 #### <a name="datastructuresandalgorithms"></a> Data Structures and Algorithms
 
