@@ -102,7 +102,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 1. [Logic Programming][logic-project-url] Concluded :heavy_check_mark:
     - [Java][java-logic-url] Concluded :heavy_check_mark:
     - [Python][python-logic-url] Concluded :heavy_check_mark:
-    - [C# and .NET][csharp-logic-url] Under Development :warning:
+    - [C#][csharp-logic-url] Under Development :warning:
   
 #### <a name="datastructuresandalgorithms"></a> Data Structures and Algorithms
 
@@ -122,6 +122,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 2. [Spring Framework][spring-url] Concluded :heavy_check_mark:
 3. [Spring Boot Framework][sts-url] Concluded :heavy_check_mark:
 4. [Apache Camel Framework][camel-url] Under Development :warning:
+5. [.NET Core][dotnetcore-url] Under Development :warning:
 
 #### <a name="testframe"></a> Test Frameworks
 
@@ -283,6 +284,7 @@ Some resources to help to developer programs and study.
 [sts-url]: https://github.com/vitorstabile/spring-boot-basics/blob/master/README.md
 [spring-url]: https://github.com/vitorstabile/spring-framework-basics/blob/main/README.md
 [camel-url]: https://github.com/vitorstabile/apache-camel-basics/blob/main/README.md
+[dotnetcore-url]: https://github.com/vitorstabile/dotnetcore-basics/blob/main/README.md
 [junit-basics-url]: https://github.com/vitorstabile/junit-framework-basics/blob/main/README.md
 [dataengineering-basics-url]: https://github.com/vitorstabile/dataengineering-basics/blob/main/README.md
 [airflow-basics-url]: https://github.com/vitorstabile/airflow-basics/blob/main/README.md
