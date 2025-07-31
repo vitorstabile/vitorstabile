@@ -135,7 +135,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 #### <a name="dataengineering"></a> Data Engineering
 
 1. [Data Engineering][dataengineering-basics-url] Under Development :warning:
-2. [Apache Airflow][airflow-basics-url] Under Development :warning:
+2. [Apache Airflow][airflow-basics-url] Concluded :heavy_check_mark:
 
 #### <a name="softwareengineering"></a> Software Engineering
 
