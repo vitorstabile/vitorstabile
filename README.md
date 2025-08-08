@@ -291,7 +291,7 @@ Some resources to help to developer programs and study.
 [logic-project-url]: https://github.com/vitorstabile/logic-programming-basics/blob/main/README.md
 [java-logic-url]: https://github.com/vitorstabile/logic-programming-with-java-basics/blob/master/README.md
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-with-python-basics/blob/master/README.md
-[csharp-logic-url]: https://github.com/vitorstabile/logic-programming-with-csharp-basics/blob/master/README.md
+[csharp-logic-url]: https://github.com/vitorstabile/logic-programming-with-csharp-basics/blob/main/README.md
 [dataalgo-java-url]: https://github.com/vitorstabile/data-structures-and-algorithms-in-java-basics/blob/main/README.md
 [sql-url]: https://github.com/vitorstabile/sql-basics/blob/main/README.md
 [html-css-js-url]: https://github.com/vitorstabile/html-css-javascript-basics/blob/main/README.md
