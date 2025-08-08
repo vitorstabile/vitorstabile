@@ -12,12 +12,12 @@
         - [Frontend Development](#web)
         - [Backend Frameworks](#backframe)
         - [Test Frameworks](#testframe)
-        - [Docker](#docker)
+        - [Containerization Platform](#containerplatform)
         - [Data Engineering](#dataengineering)
         - [Software Engineering](#softwareengineering)
         - [Operating Systems](#operatingsystems)
-        - [Git and GitHub](#git)
-        - [LaTeX Templates](#latex)
+        - [Version Control System](#versioncontrolsystem)
+        - [Document Preparation System](#documentpreparationsystem)
         - [Interview Tests and Exercises](#interviews)
         - [Embedded Systems](#embeddedsystems)
      - [Personal Projects](#personal)
@@ -124,13 +124,21 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 4. [Apache Camel Framework][camel-url] Under Development :warning:
 5. [.NET Core][dotnetcore-url] Under Development :warning:
 
+#### <a name="distributedeventstreamingplatform"></a> Distributed Event Streaming Platform
+
+1. [Kafka][kafka-url] Under Development :warning:
+
 #### <a name="testframe"></a> Test Frameworks
 
 1. [JUnit][junit-basics-url] Under Development :warning:
 
-#### <a name="docker"></a> Docker
+#### <a name="containerplatform"></a> Containerization Platform
 
 1. [Docker][docker-basics-url] Concluded :heavy_check_mark:
+
+#### <a name="cloud"></a> Cloud
+
+1. [Cloud][cloud-url] Under Development :warning:
 
 #### <a name="dataengineering"></a> Data Engineering
 
@@ -153,13 +161,17 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 1. [Linux][linux-url] Under Development :warning:
 
-#### <a name="git"></a> Git and GitHub
+#### <a name="cicd"></a> Continuous Integration / Continuous Development
+
+1. [Continuous Integration / Continuous Development][cicd-url] Under Development :warning:
+
+#### <a name="versioncontrolsystem"></a> Version Control System
 
 1. [Git][git-url] Under Development :warning:
 2. [README for Projects][readme-project-url] Concluded :heavy_check_mark:
 3. [README for Tutorials][readme-tutorial-url] Concluded :heavy_check_mark:
 
-#### <a name="latex"></a> LaTeX Templates
+#### <a name="documentpreparationsystem"></a> Document Preparation System
 
 1. [LaTeX Templates][latex-url] Under Development :warning:
 
@@ -285,6 +297,7 @@ Some resources to help to developer programs and study.
 [spring-url]: https://github.com/vitorstabile/spring-framework-basics/blob/main/README.md
 [camel-url]: https://github.com/vitorstabile/apache-camel-basics/blob/main/README.md
 [dotnetcore-url]: https://github.com/vitorstabile/dotnetcore-basics/blob/main/README.md
+[kafka-url]: https://github.com/vitorstabile/kafka-basics/blob/main/README.md
 [junit-basics-url]: https://github.com/vitorstabile/junit-framework-basics/blob/main/README.md
 [dataengineering-basics-url]: https://github.com/vitorstabile/dataengineering-basics/blob/main/README.md
 [airflow-basics-url]: https://github.com/vitorstabile/airflow-basics/blob/main/README.md
@@ -298,8 +311,10 @@ Some resources to help to developer programs and study.
 [qa-url]: https://github.com/vitorstabile/software-quality/blob/main/README.md
 [designpatternswithpython-url]: https://github.com/vitorstabile/python-patterns/blob/master/README.md
 [linux-url]: https://github.com/vitorstabile/linux-basics/blob/main/README.md
+[cicd-url]:  https://github.com/vitorstabile/cicd-basics/blob/main/README.md
 [git-url]: https://github.com/vitorstabile/git-basics/blob/master/README.md
 [docker-basics-url]: https://github.com/vitorstabile/docker-basics/blob/main/README.md
+[cloud-url]: https://github.com/vitorstabile/cloud-basics/blob/main/README.md
 [readme-project-url]: https://github.com/vitorstabile/project-template-readme/blob/main/README.md
 [readme-tutorial-url]: https://github.com/vitorstabile/tutorial-template-readme
 [latex-url]: https://github.com/vitorstabile/latex-basics
