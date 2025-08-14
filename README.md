@@ -162,7 +162,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="operatingsystems"></a> Operating Systems
 
-1. [Linux][linux-url] Under Development :warning:
+1. [Linux][linux-url] Concluded :heavy_check_mark:
 
 #### <a name="cicd"></a> Continuous Integration / Continuous Development
 
