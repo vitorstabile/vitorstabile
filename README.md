@@ -180,11 +180,9 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="interviews"></a> Interview Tests and Exercises
 
-1. [CodinGame Tests][codingametests-url] Under Development :warning:
-2. [HackerRank Tests][hackerranktests-url] Under Development :warning:
-3. [Java Interview Questions][javainterviewquestions-url] Concluded :heavy_check_mark:
-4. [Spring and Spring Boot Interview Questions][springbootinterviewquestions-url] Concluded :heavy_check_mark:
-5. [Python Interview Questions][pythoninterviewquestions-url] :warning:
+1. [Java Interview Questions][javainterviewquestions-url] Concluded :heavy_check_mark:
+2. [Spring and Spring Boot Interview Questions][springbootinterviewquestions-url] Concluded :heavy_check_mark:
+3. [Python Interview Questions][pythoninterviewquestions-url] :warning:
 
 #### <a name="embeddedsystems"></a> Embedded Systems
 
@@ -321,8 +319,6 @@ Some resources to help to developer programs and study.
 [readme-project-url]: https://github.com/vitorstabile/project-template-readme/blob/main/README.md
 [readme-tutorial-url]: https://github.com/vitorstabile/tutorial-template-readme
 [latex-url]: https://github.com/vitorstabile/latex-basics
-[codingametests-url]: https://github.com/vitorstabile/java-tests-codingame
-[hackerranktests-url]: https://github.com/vitorstabile/java-tests-hackerrank
 [javainterviewquestions-url]: https://github.com/vitorstabile/JavaInterviewQuestionsAndAnswers/blob/master/readme.md
 [pythoninterviewquestions-url]: https://github.com/vitorstabile/python-questions-answers/blob/main/README.md
 [springbootinterviewquestions-url]: https://github.com/vitorstabile/spring-interview-guide/blob/master/readme.md
