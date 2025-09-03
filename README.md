@@ -129,7 +129,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="distributedeventstreamingplatform"></a> Distributed Event Streaming Platform
 
-1. [Kafka][kafka-url] Under Development :warning:
+1. [Kafka][kafka-url] Concluded :heavy_check_mark:
 
 #### <a name="testframe"></a> Test Frameworks
 
