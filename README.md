@@ -327,10 +327,10 @@ Some resources to help to developer programs and study.
 [javainterviewquestions-url]: https://github.com/vitorstabile/JavaInterviewQuestionsAndAnswers/blob/master/readme.md
 [pythoninterviewquestions-url]: https://github.com/vitorstabile/python-questions-answers/blob/main/README.md
 [springbootinterviewquestions-url]: https://github.com/vitorstabile/spring-interview-guide/blob/master/readme.md
-[sqlinterviewquestions-url]: https://github.com/vitorstabile/sql-interview-guide/blob/master/readme.md
-[systemdesigninterviewquestions-url]: https://github.com/vitorstabile/systemdesign-interview-guide/blob/master/readme.md
-[dsainterviewquestions-url]: https://github.com/vitorstabile/dsa-interview-guide/blob/master/readme.md
-[sqlcodinginterviewquestions-url]: https://github.com/vitorstabile/sqlcoding-interview-guide/blob/master/readme.md
+[sqlinterviewquestions-url]: https://github.com/vitorstabile/sql-interview-guide/blob/main/readme.md
+[systemdesigninterviewquestions-url]: https://github.com/vitorstabile/systemdesign-interview-guide/blob/main/readme.md
+[dsainterviewquestions-url]: https://github.com/vitorstabile/dsa-interview-guide/blob/main/readme.md
+[sqlcodinginterviewquestions-url]: https://github.com/vitorstabile/sqlcoding-interview-guide/blob/main/readme.md
 [esp32wroomnodemcuwificp2102-url]: https://github.com/vitorstabile/esp32wroomnodemcuwificp2102/blob/main/README.md
 [esp32s3wroom1nodemcuwifi-url]: https://github.com/vitorstabile/esp32s3wroom1nodemcuwifi/blob/main/README.md
 [chess-url]: https://github.com/vitorstabile/chess-system-java
