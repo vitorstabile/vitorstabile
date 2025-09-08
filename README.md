@@ -180,13 +180,13 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="interviews"></a> Interview Tests and Exercises
 
-1. [Java Interview Questions][javainterviewquestions-url] Concluded :heavy_check_mark:
-2. [Spring and Spring Boot Interview Questions][springbootinterviewquestions-url] Concluded :heavy_check_mark:
-3. [Python Interview Questions][pythoninterviewquestions-url] :warning:
-4. [SQL Interview Questions][sqlinterviewquestions-url] :warning:
-5. [System Design Interview Questions][systemdesigninterviewquestions-url] :warning:
-6. [Data Structures and Algorithms Interview Questions][dsainterviewquestions-url] :warning:
-7. [SQL Coding Interview Questions][sqlcodinginterviewquestions-url] :warning:
+1. [Java Interview Questions]][javainterviewquestions-url] :warning:
+3. [Spring and Spring Boot Interview Questions][springbootinterviewquestions-url] Concluded :heavy_check_mark:
+4. [Python Interview Questions][pythoninterviewquestions-url] :warning:
+5. [SQL Interview Questions][sqlinterviewquestions-url] :warning:
+6. [System Design Interview Questions][systemdesigninterviewquestions-url] :warning:
+7. [Data Structures and Algorithms Interview Questions][dsainterviewquestions-url] :warning:
+8. [SQL Coding Interview Questions][sqlcodinginterviewquestions-url] :warning:
 
 #### <a name="embeddedsystems"></a> Embedded Systems
 
@@ -324,7 +324,7 @@ Some resources to help to developer programs and study.
 [readme-project-url]: https://github.com/vitorstabile/project-template-readme/blob/main/README.md
 [readme-tutorial-url]: https://github.com/vitorstabile/tutorial-template-readme
 [latex-url]: https://github.com/vitorstabile/latex-basics
-[javainterviewquestions-url]: https://github.com/vitorstabile/JavaInterviewQuestionsAndAnswers/blob/master/readme.md
+[javainterviewquestions-url]: https://github.com/vitorstabile/java-interview-guide/blob/main/README.md
 [pythoninterviewquestions-url]: https://github.com/vitorstabile/python-questions-answers/blob/main/README.md
 [springbootinterviewquestions-url]: https://github.com/vitorstabile/spring-interview-guide/blob/master/readme.md
 [sqlinterviewquestions-url]: https://github.com/vitorstabile/sql-interview-guide/blob/main/README.md
