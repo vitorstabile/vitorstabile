@@ -183,6 +183,10 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 1. [Java Interview Questions][javainterviewquestions-url] Concluded :heavy_check_mark:
 2. [Spring and Spring Boot Interview Questions][springbootinterviewquestions-url] Concluded :heavy_check_mark:
 3. [Python Interview Questions][pythoninterviewquestions-url] :warning:
+4. [SQL Interview Questions][sqlinterviewquestions-url] :warning:
+5. [System Design Interview Questions][systemdesigninterviewquestions-url] :warning:
+6. [Data Structures and Algorithms Interview Questions][dsainterviewquestions-url] :warning:
+7. [SQL Coding Interview Questions][sqlcodinginterviewquestions-url] :warning:
 
 #### <a name="embeddedsystems"></a> Embedded Systems
 
@@ -323,6 +327,10 @@ Some resources to help to developer programs and study.
 [javainterviewquestions-url]: https://github.com/vitorstabile/JavaInterviewQuestionsAndAnswers/blob/master/readme.md
 [pythoninterviewquestions-url]: https://github.com/vitorstabile/python-questions-answers/blob/main/README.md
 [springbootinterviewquestions-url]: https://github.com/vitorstabile/spring-interview-guide/blob/master/readme.md
+[sqlinterviewquestions-url]: https://github.com/vitorstabile/sql-interview-guide/blob/master/readme.md
+[systemdesigninterviewquestions-url]: https://github.com/vitorstabile/systemdesign-interview-guide/blob/master/readme.md
+[dsainterviewquestions-url]: https://github.com/vitorstabile/dsa-interview-guide/blob/master/readme.md
+[sqlcodinginterviewquestions-url]: https://github.com/vitorstabile/sqlcoding-interview-guide/blob/master/readme.md
 [esp32wroomnodemcuwificp2102-url]: https://github.com/vitorstabile/esp32wroomnodemcuwificp2102/blob/main/README.md
 [esp32s3wroom1nodemcuwifi-url]: https://github.com/vitorstabile/esp32s3wroom1nodemcuwifi/blob/main/README.md
 [chess-url]: https://github.com/vitorstabile/chess-system-java
