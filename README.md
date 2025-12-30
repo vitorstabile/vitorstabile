@@ -9,6 +9,7 @@
         - [Logic Programming](#logicprogramming)
         - [Data Structures and Algorithms](#datastructuresandalgorithms)
         - [Relational Data Base](#relational)
+        - [No Relational Data Base](#norelational)
         - [Frontend Development](#web)
         - [Backend Frameworks](#backframe)
         - [Distributed Event Streaming Platform](#distributedeventstreamingplatform)
@@ -116,7 +117,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="norelational"></a> No Relational Database
 
-1. [No Relational Databases][nosql-url] Concluded :warning:
+1. [No Relational Databases][nosql-url] Under Development :warning:
 
 #### <a name="web"></a> Frontend Development
 
