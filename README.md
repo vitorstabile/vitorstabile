@@ -117,7 +117,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="norelational"></a> No Relational Database
 
-1. [No Relational Databases][nosql-url] Under Development :heavy_check_mark:
+1. [No Relational Databases][nosql-url] Concluded :heavy_check_mark:
 
 #### <a name="web"></a> Frontend Development
 
