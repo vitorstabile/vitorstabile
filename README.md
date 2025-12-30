@@ -114,6 +114,10 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 1. [Relational Databases and SQL][sql-url] Concluded :heavy_check_mark:
 
+#### <a name="norelational"></a> No Relational Database
+
+1. [No Relational Databases][nosql-url] Concluded :warning:
+
 #### <a name="web"></a> Frontend Development
 
 1. [HTML, CSS and JavaScript][html-css-js-url] Under Development :warning:
@@ -294,6 +298,7 @@ Some resources to help to developer programs and study.
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-with-python-basics/blob/master/README.md
 [dataalgo-java-url]: https://github.com/vitorstabile/data-structures-and-algorithms-in-java-basics/blob/main/README.md
 [sql-url]: https://github.com/vitorstabile/sql-basics/blob/main/README.md
+[nosql-url]: https://github.com/vitorstabile/nosql-basics/blob/main/README.md
 [html-css-js-url]: https://github.com/vitorstabile/html-css-javascript-basics/blob/main/README.md
 [jdbc-url]: https://github.com/vitorstabile/java-jdbc-dao-basics
 [sts-url]: https://github.com/vitorstabile/spring-boot-basics/blob/master/README.md
