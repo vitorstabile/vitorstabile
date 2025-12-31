@@ -141,7 +141,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="testframe"></a> Test Frameworks
 
-1. [JUnit][junit-basics-url] Under Development :warning:
+1. [JUnit][junit-basics-url] Concluded :heavy_check_mark:
 
 #### <a name="containerplatform"></a> Containerization Platform
 
@@ -178,13 +178,13 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="versioncontrolsystem"></a> Version Control System
 
-1. [Git][git-url] Under Development :warning:
+1. [Git][git-url] Concluded :heavy_check_mark:
 2. [README for Projects][readme-project-url] Concluded :heavy_check_mark:
 3. [README for Tutorials][readme-tutorial-url] Concluded :heavy_check_mark:
 
 #### <a name="documentpreparationsystem"></a> Document Preparation System
 
-1. [LaTeX Templates][latex-url] Under Development :warning:
+1. [LaTeX Templates][latex-url] Concluded :heavy_check_mark:
 
 #### <a name="interviews"></a> Interview Tests and Exercises
 
@@ -198,8 +198,8 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="embeddedsystems"></a> Embedded Systems
 
-1. [ESP32 Wroom NodeMcu WiFi CP2102][esp32wroomnodemcuwificp2102-url] Under Development :warning:
-2. [ESP32-S3 Wroom-1 NodeMcu WiFi][esp32s3wroom1nodemcuwifi-url] Under Development :warning:
+1. [ESP32 Wroom NodeMcu WiFi CP2102][esp32wroomnodemcuwificp2102-url] Concluded :heavy_check_mark:
+2. [ESP32-S3 Wroom-1 NodeMcu WiFi][esp32s3wroom1nodemcuwifi-url] Concluded :heavy_check_mark:
 
 ## Personal Projects <a name="personal"></a>
 
