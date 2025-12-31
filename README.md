@@ -149,7 +149,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="cloud"></a> Cloud
 
-1. [Cloud][cloud-url] Under Development :warning:
+1. [Cloud][cloud-url] Concluded :heavy_check_mark:
 
 #### <a name="dataengineering"></a> Data Engineering
 
