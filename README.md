@@ -153,7 +153,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="dataengineering"></a> Data Engineering
 
-1. [Data Engineering][dataengineering-basics-url] Under Development :heavy_check_mark:
+1. [Data Engineering][dataengineering-basics-url] Concluded :heavy_check_mark:
 2. [Apache Airflow][airflow-basics-url] Concluded :heavy_check_mark:
 
 #### <a name="softwareengineering"></a> Software Engineering
@@ -174,7 +174,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="cicd"></a> Continuous Integration / Continuous Development
 
-1. [Continuous Integration / Continuous Development][cicd-url] Under Development :warning:
+1. [Continuous Integration / Continuous Development][cicd-url] Concluded :heavy_check_mark:
 
 #### <a name="versioncontrolsystem"></a> Version Control System
 
@@ -188,13 +188,13 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 
 #### <a name="interviews"></a> Interview Tests and Exercises
 
-1. [Java Interview Questions][javainterviewquestions-url] :warning:
-3. [Spring and Spring Boot Interview Questions][springbootinterviewquestions-url] Concluded :heavy_check_mark:
-4. [Python Interview Questions][pythoninterviewquestions-url] :warning:
-5. [SQL Interview Questions][sqlinterviewquestions-url] :warning:
-6. [System Design Interview Questions][systemdesigninterviewquestions-url] :warning:
-7. [Data Structures and Algorithms Interview Questions][dsainterviewquestions-url] :warning:
-8. [SQL Coding Interview Questions][sqlcodinginterviewquestions-url] :warning:
+1. [Java Interview Questions][javainterviewquestions-url] Under Development :warning:
+3. [Spring and Spring Boot Interview Questions][springbootinterviewquestions-url] Under Development :warning:
+4. [Python Interview Questions][pythoninterviewquestions-url] Under Development :warning:
+5. [SQL Interview Questions][sqlinterviewquestions-url] Under Development :warning:
+6. [System Design Interview Questions][systemdesigninterviewquestions-url] Under Development :warning:
+7. [Data Structures and Algorithms Interview Questions][dsainterviewquestions-url] Under Development :warning:
+8. [SQL Coding Interview Questions][sqlcodinginterviewquestions-url] Under Development :warning:
 
 #### <a name="embeddedsystems"></a> Embedded Systems
 
