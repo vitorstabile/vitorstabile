@@ -107,6 +107,7 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 1. [Logic Programming][logic-project-url] Concluded :heavy_check_mark:
     - [Java][java-logic-url] Concluded :heavy_check_mark:
     - [Python][python-logic-url] Concluded :heavy_check_mark:
+    - [C#][csharp-logic-url] Concluded :heavy_check_mark:
   
 #### <a name="datastructuresandalgorithms"></a> Data Structures and Algorithms
 
@@ -134,6 +135,8 @@ This Projects have the aim to create simple tutorials and basics about logic pro
 2. [Spring Framework][spring-url] Concluded :heavy_check_mark:
 3. [Spring Boot Framework][sts-url] Concluded :heavy_check_mark:
 4. [Apache Camel Framework][camel-url] Concluded :heavy_check_mark:
+5. [.NET Core][dotnet-url] Concluded :heavy_check_mark:
+6. [ASP.NET Core][aspdotnet-url] Concluded :heavy_check_mark:
 
 #### <a name="distributedeventstreamingplatform"></a> Distributed Event Streaming Platform
 
@@ -302,6 +305,7 @@ Some resources to help to developer programs and study.
 [logic-project-url]: https://github.com/vitorstabile/logic-programming-basics/blob/main/README.md
 [java-logic-url]: https://github.com/vitorstabile/logic-programming-with-java-basics/blob/master/README.md
 [python-logic-url]: https://github.com/vitorstabile/logic-programming-with-python-basics/blob/master/README.md
+[csharp-logic-url]: https://github.com/vitorstabile/logic-programming-with-csharp-basics/blob/main/README.md
 [dataalgo-java-url]: https://github.com/vitorstabile/data-structures-and-algorithms-in-java-basics/blob/main/README.md
 [sql-url]: https://github.com/vitorstabile/sql-basics/blob/main/README.md
 [nosql-url]: https://github.com/vitorstabile/nosql-basics/blob/main/README.md
@@ -309,6 +313,8 @@ Some resources to help to developer programs and study.
 [fullstack-url]: https://github.com/vitorstabile/fullstack-basics/blob/main/README.md
 [jdbc-url]: https://github.com/vitorstabile/java-jdbc-dao-basics
 [sts-url]: https://github.com/vitorstabile/spring-boot-basics/blob/master/README.md
+[dotnet-url]: https://github.com/vitorstabile/dotnet-basics/blob/main/README.md
+[aspdotnet-url]: https://github.com/vitorstabile/aspdotnet-basics/blob/main/README.md
 [spring-url]: https://github.com/vitorstabile/spring-framework-basics/blob/main/README.md
 [camel-url]: https://github.com/vitorstabile/apache-camel-basics/blob/main/README.md
 [kafka-url]: https://github.com/vitorstabile/kafka-basics/blob/main/README.md
